@@ -5,3 +5,5 @@ to avoid corrupting the repository.
 Visit http://subversion.tigris.org/ for more information.
 
 This line wasn't here previously.
+
+Again added smth.
