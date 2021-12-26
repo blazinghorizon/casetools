@@ -1,0 +1,60 @@
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+END
+ENDREP
+id: 2-2.0-3.r298/51
+type: dir
+pred: 2-2.0-3.r297/120107
+count: 173
+text: 298 0 38 38 ef1d9766ef1a9f038c65c013762bc9a5
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 19
+dir 2-2.0-3.r298/51
+END
+ENDREP
+id: 1-2.0.r298/287
+type: dir
+pred: 1-2.0.r297/120355
+count: 173
+text: 298 227 47 47 849dacecc3e51b9ce5a3013b41e44ef8
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir 0-2.0.r295/272
+K 4
+tags
+V 18
+dir 1-2.0.r298/287
+K 5
+trunk
+V 19
+dir 2-2.0.r226/2319
+END
+ENDREP
+id: 0.0.r298/554
+type: dir
+pred: 0.0.r297/120628
+count: 298
+text: 298 432 109 109 d940e10dcdcee9f9f3bb9409ddbf413e
+cpath: /
+copyroot: 0 /
+minfo-cnt: 2
+
+2-47.0-3.r297/119784 delete false false /tags/INIT_VERSION/branches
+
+2-2.0-28.r291/670 delete false false /tags/INIT_VERSION/trunk
+
+
+554 706

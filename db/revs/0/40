@@ -1,0 +1,74 @@
+id: 2-2.0-40.r40/0
+type: dir
+pred: 2-2.0.r39/400
+count: 6
+text: 39 346 41 41 b71b7fc830dd2c3a5d9c34473ea01463
+cpath: /branches/kataev
+copyfrom: 39 /trunk
+
+PLAIN
+K 9
+avdovenko
+V 21
+dir 2-2.0-34.r36/1301
+K 7
+dfrolov
+V 22
+dir 2-2.0-29.r30/44928
+K 5
+isaev
+V 20
+dir 2-2.0-11.r23/890
+K 6
+kataev
+V 18
+dir 2-2.0-40.r40/0
+K 8
+kirpiche
+V 18
+dir 2-2.0-4.r9/368
+K 8
+shmatkov
+V 21
+dir 1-38.0.r38/843505
+K 9
+vdmitriev
+V 19
+dir 0-15.0.r26/1469
+END
+ENDREP
+id: 0-2.0.r40/440
+type: dir
+pred: 0-2.0.r38/843894
+count: 31
+text: 40 155 272 272 ec559c03baea470b78288e5e635159e2
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 17
+dir 0-2.0.r40/440
+K 4
+tags
+V 17
+dir 1-2.0.r28/476
+K 5
+trunk
+V 17
+dir 2-2.0.r39/400
+END
+ENDREP
+id: 0.0.r40/705
+type: dir
+pred: 0.0.r39/659
+count: 40
+text: 40 587 105 105 31ab84c26527cb9145049a948fcd4d31
+cpath: /
+copyroot: 0 /
+
+2-2._0.t39-13 add false false /branches/kataev
+39 /trunk
+
+705 837

@@ -1,0 +1,232 @@
+DELTA
+SVNENDREP
+id: 0-240.0-221.r240/17
+type: file
+count: 0
+text: 240 0 4 0 d41d8cd98f00b204e9800998ecf8427e
+cpath: /tags/INIT_VERSION/branches/bagaudin/case/foo.c
+copyroot: 221 /tags/INIT_VERSION/branches/bagaudin
+
+PLAIN
+K 1
+1
+V 27
+dir 1-221.0-221.r221/331109
+K 1
+5
+V 25
+dir 1f-221.0-221.r227/865
+K 5
+foo.c
+V 24
+file 0-240.0-221.r240/17
+K 6
+report
+V 25
+file 0-230.0-221.r230/368
+END
+ENDREP
+id: 0-221.0-221.r240/392
+type: dir
+pred: 0-221.0-221.r230/710
+count: 5
+text: 240 217 162 162 85f5fefc791aa634827b2dabe8db1b53
+cpath: /tags/INIT_VERSION/branches/bagaudin/case
+copyroot: 221 /tags/INIT_VERSION/branches/bagaudin
+
+PLAIN
+K 4
+case
+V 24
+dir 0-221.0-221.r240/392
+K 5
+trunk
+V 23
+dir 2-2.0-230.r230/1268
+END
+ENDREP
+id: 2-2.0-221.r240/714
+type: dir
+pred: 2-2.0-221.r230/1575
+count: 19
+text: 240 619 82 82 dab7446005577472716dd2c63c81f7b0
+cpath: /tags/INIT_VERSION/branches/bagaudin
+copyroot: 221 /tags/INIT_VERSION/branches/bagaudin
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-121.r121/0
+K 8
+aovchinn
+V 22
+dir 2-2.0-131.r136/603
+K 8
+apavlova
+V 22
+dir 2-2.1-121.r121/211
+K 8
+bagaudin
+V 22
+dir 2-2.0-221.r240/714
+K 8
+bodryako
+V 23
+dir 2-2.0-192.r195/1286
+K 5
+bulat
+V 24
+dir 3-104.2-121.r121/429
+K 8
+dolmatov
+V 22
+dir 2-2.3-121.r121/641
+K 4
+dyat
+V 22
+dir 2-2.0-164.r169/595
+K 7
+ermakov
+V 22
+dir 2-2.4-121.r121/857
+K 8
+ermishin
+V 23
+dir 2-2.5-121.r121/1069
+K 5
+fokin
+V 22
+dir 2-2.0-198.r202/933
+K 8
+grablevs
+V 23
+dir 2-2.6-121.r121/1284
+K 11
+klyuchnikov
+V 23
+dir 2-2.0-142.r161/2703
+K 8
+kolesnik
+V 24
+dir 3-94.7-121.r121/1498
+K 8
+kukushki
+V 24
+dir 3-90.8-121.r121/1713
+K 6
+kuzmin
+V 23
+dir 2-2.9-121.r121/1925
+K 8
+marcinke
+V 23
+dir 2-2.a-121.r121/2133
+K 6
+platov
+V 22
+dir 2-2.0-176.r191/255
+K 7
+sazonov
+V 24
+dir 3-52.b-121.r121/2349
+K 6
+shvarc
+V 24
+dir 3-76.c-121.r121/2564
+K 8
+skuratov
+V 22
+dir 2-2.0-203.r207/441
+K 3
+sz2
+V 23
+dir 2-2.d-121.r121/2775
+K 8
+vepifano
+V 21
+dir 2-2.0-208.r210/56
+K 8
+vorobeva
+V 20
+dir 2-2.0-130.r130/0
+END
+ENDREP
+id: 2-47.0-3.r240/1925
+type: dir
+pred: 2-47.0-3.r230/2788
+count: 120
+text: 240 932 980 980 cc37d69343dcbc51e9df738e8db8dc60
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 22
+dir 2-47.0-3.r240/1925
+K 5
+trunk
+V 21
+dir 2-2.0-28.r232/402
+END
+ENDREP
+id: 2-2.0-3.r240/2245
+type: dir
+pred: 2-2.0-3.r232/721
+count: 141
+text: 240 2116 116 116 e6a45a1bab5d62291a0562de5ebac1b5
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 21
+dir 2-2.0-3.r240/2245
+END
+ENDREP
+id: 1-2.0.r240/2487
+type: dir
+pred: 1-2.0.r232/960
+count: 141
+text: 240 2425 49 49 53e1cbd0da27332d18bfc9e42023af68
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 19
+dir 0-2.0.r239/1096
+K 4
+tags
+V 19
+dir 1-2.0.r240/2487
+K 5
+trunk
+V 19
+dir 2-2.0.r226/2319
+END
+ENDREP
+id: 0.0.r240/2789
+type: dir
+pred: 0.0.r239/1415
+count: 240
+text: 240 2631 145 145 7e098a406c06993438fab4744a94696e
+cpath: /
+copyroot: 0 /
+minfo-cnt: 60
+
+_0.0-221.t239-6s add true false /tags/INIT_VERSION/branches/bagaudin/case/foo.c
+
+
+2789 2942

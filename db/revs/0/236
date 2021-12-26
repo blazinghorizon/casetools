@@ -1,0 +1,126 @@
+PLAIN
+K 6
+README
+V 21
+file 0-1.0-2.r214/423
+K 9
+casetools
+V 22
+dir 2-2.0-220.r220/111
+K 4
+make
+V 24
+dir 0-222.0-218.r226/644
+K 5
+trunk
+V 22
+dir 2-2.0-219.r219/111
+K 24
+Приложение.gan
+V 27
+file a-222.0-218.r222/14994
+END
+ENDREP
+id: 2-2.0-218.r236/237
+type: dir
+pred: 2-2.0-218.r235/451
+count: 27
+text: 236 0 224 224 39e73dc31c3301e6a4dace01874e9181
+props: 218 0 98 98 2258ee635d8b2b9e892afefc31d041bc
+cpath: /branches/belyakov
+copyroot: 218 /branches/belyakov
+minfo-cnt: 8
+minfo-here: y
+
+PLAIN
+K 9
+akobeleva
+V 22
+dir 2-2.0-211.r217/184
+K 9
+avdovenko
+V 21
+dir 2-2.0-34.r36/1301
+K 8
+belyakov
+V 22
+dir 2-2.0-218.r236/237
+K 7
+dfrolov
+V 22
+dir 2-2.0-29.r30/44928
+K 7
+firsova
+V 23
+dir 2-2.0-180.r184/2715
+K 5
+isaev
+V 20
+dir 2-2.0-11.r23/890
+K 6
+kataev
+V 20
+dir 2-2.0-40.r44/178
+K 8
+kirpiche
+V 18
+dir 2-2.0-4.r9/368
+K 23
+pocenkovskaya_podkopaev
+V 22
+dir 2-2.0-117.r129/705
+K 8
+shmatkov
+V 21
+dir 1-38.0.r38/843505
+K 10
+spodkopaev
+V 22
+dir 2-2.0-111.r115/638
+K 9
+vdmitriev
+V 19
+dir 0-15.0.r26/1469
+END
+ENDREP
+id: 0-2.0.r236/1009
+type: dir
+pred: 0-2.0.r235/1225
+count: 77
+text: 236 497 499 499 c18126526e24ca21cf52bfeadb264b05
+cpath: /branches
+copyroot: 0 /
+minfo-cnt: 12
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 19
+dir 0-2.0.r236/1009
+K 4
+tags
+V 18
+dir 1-2.0.r232/960
+K 5
+trunk
+V 19
+dir 2-2.0.r226/2319
+END
+ENDREP
+id: 0.0.r236/1329
+type: dir
+pred: 0.0.r235/1545
+count: 236
+text: 236 1172 144 144 76d09caff9ebbc38d20a08fe85c0af17
+cpath: /
+copyroot: 0 /
+minfo-cnt: 14
+
+0-235.0-218.r235/17 delete false false /branches/belyakov/text
+
+
+1329 1482

@@ -1,0 +1,74 @@
+id: 2-2.0-14.r14/0
+type: dir
+pred: 2-2.0-3.r3/0
+count: 2
+text: 2 200 38 38 ef1d9766ef1a9f038c65c013762bc9a5
+cpath: /branches/vdmit/INIT_VERSION
+copyfrom: 10 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 18
+dir 2-2.0-14.r14/0
+END
+ENDREP
+id: 0-14.0.r14/236
+type: dir
+count: 0
+text: 14 177 46 46 876c15c1411043fa76dbf8b457618a40
+cpath: /branches/vdmit
+copyroot: 0 /
+
+PLAIN
+K 5
+isaev
+V 23
+dir 2-2.0-11.r13/106505
+K 8
+kirpiche
+V 18
+dir 2-2.0-4.r9/368
+K 5
+vdmit
+V 18
+dir 0-14.0.r14/236
+END
+ENDREP
+id: 0-2.0.r14/491
+type: dir
+pred: 0-2.0.r13/106776
+count: 10
+text: 14 364 114 114 8a829cf7a02c1e8fb6c6382acdb6a9a0
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 17
+dir 0-2.0.r14/491
+K 4
+tags
+V 16
+dir 1-2.0.r3/209
+K 5
+trunk
+V 17
+dir 2-2.0.r10/377
+END
+ENDREP
+id: 0.0.r14/755
+type: dir
+pred: 0.0.r13/107045
+count: 14
+text: 14 638 104 104 158ad3d1e1a42e291d5655535bdaeac9
+cpath: /
+copyroot: 0 /
+
+2-2._0.t13-d add false false /branches/vdmit/INIT_VERSION
+10 /tags/INIT_VERSION
+_0.0.t13-d add false false /branches/vdmit
+
+
+755 890

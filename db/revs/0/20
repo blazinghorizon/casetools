@@ -1,0 +1,77 @@
+PLAIN
+K 1
+1
+V 23
+dir 0-12.0-11.r12/29989
+K 1
+2
+V 24
+dir 0-13.0-11.r13/106224
+K 6
+README
+V 20
+file 0-1.0-2.r10/114
+END
+ENDREP
+id: 2-2.0-11.r20/125
+type: dir
+pred: 2-2.0-11.r19/325
+count: 6
+text: 20 0 112 112 dafd7d44a2774ddd03f281f8954a65ba
+cpath: /branches/isaev
+copyroot: 11 /branches/isaev
+
+PLAIN
+K 5
+isaev
+V 20
+dir 2-2.0-11.r20/125
+K 8
+kirpiche
+V 18
+dir 2-2.0-4.r9/368
+K 5
+vdmit
+V 18
+dir 0-14.0.r14/236
+K 9
+vdmitriev
+V 19
+dir 0-15.0.r18/1297
+END
+ENDREP
+id: 0-2.0.r20/456
+type: dir
+pred: 0-2.0.r19/661
+count: 16
+text: 20 293 150 150 28ba1f65d0f1f71b11ea13b73e4f4775
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 17
+dir 0-2.0.r20/456
+K 4
+tags
+V 16
+dir 1-2.0.r3/209
+K 5
+trunk
+V 17
+dir 2-2.0.r10/377
+END
+ENDREP
+id: 0.0.r20/717
+type: dir
+pred: 0.0.r19/923
+count: 20
+text: 20 600 104 104 aca038666db00f41d1a7906da99fcbc5
+cpath: /
+copyroot: 0 /
+
+0-19.0-11.r19/17 delete false false /branches/isaev/file
+
+
+717 849

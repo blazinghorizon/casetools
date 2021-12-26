@@ -1,0 +1,304 @@
+id: 2-2.0-121.r121/0
+type: dir
+pred: 2-2.0-47.r50/489
+count: 8
+text: 50 288 188 188 0efdad4c2fe1cde253e725329b7c9a25
+cpath: /tags/INIT_VERSION/branches/andreev
+copyfrom: 118 /tags/INIT_VERSION/branches/andreev
+
+id: 2-2.1-121.r121/211
+type: dir
+pred: 2-2.0-63.r66/2050
+count: 10
+text: 66 1915 122 122 e37d575aa99f096828057d03a3189bea
+cpath: /tags/INIT_VERSION/branches/apavlova
+copyfrom: 118 /tags/INIT_VERSION/branches/apavlova
+
+id: 3-104.2-121.r121/429
+type: dir
+pred: 3-104.0-3.r109/558
+count: 6
+text: 109 415 130 0 6fa7128ed93b680b61cc692ab59b370c
+cpath: /tags/INIT_VERSION/branches/bulat
+copyfrom: 118 /tags/INIT_VERSION/branches/bulat
+
+id: 2-2.3-121.r121/641
+type: dir
+pred: 2-2.0-85.r89/509
+count: 13
+text: 89 309 187 187 540c17901b87a2522df664c7dcc6ea4b
+cpath: /tags/INIT_VERSION/branches/dolmatov
+copyfrom: 118 /tags/INIT_VERSION/branches/dolmatov
+
+id: 2-2.4-121.r121/857
+type: dir
+pred: 2-2.0-67.r70/125
+count: 10
+text: 70 0 112 112 206dfae85f75a0b49c16bdcdd80cf8f9
+cpath: /tags/INIT_VERSION/branches/ermakov
+copyfrom: 118 /tags/INIT_VERSION/branches/ermakov
+
+id: 2-2.5-121.r121/1069
+type: dir
+pred: 2-2.0-71.r75/180
+count: 11
+text: 75 0 167 167 a35a46ae34f068e97ec8ad76c5634ad3
+cpath: /tags/INIT_VERSION/branches/ermishin
+copyfrom: 118 /tags/INIT_VERSION/branches/ermishin
+
+id: 2-2.6-121.r121/1284
+type: dir
+pred: 2-2.0-101.r103/54
+count: 13
+text: 103 0 41 0 1aec05b2a468f99a8fcfba7ef930ddc6
+cpath: /tags/INIT_VERSION/branches/grablevs
+copyfrom: 118 /tags/INIT_VERSION/branches/grablevs
+
+id: 3-94.7-121.r121/1498
+type: dir
+pred: 3-94.0-3.r97/891
+count: 4
+text: 97 800 78 78 c1fa6eca1d347b559314e8f0d118de1b
+cpath: /tags/INIT_VERSION/branches/kolesnik
+copyfrom: 118 /tags/INIT_VERSION/branches/kolesnik
+
+id: 3-90.8-121.r121/1713
+type: dir
+pred: 3-90.0-3.r92/94
+count: 3
+text: 92 0 81 81 7612b0fa939f38adb04869a8373511bf
+cpath: /tags/INIT_VERSION/branches/kukushki
+copyfrom: 118 /tags/INIT_VERSION/branches/kukushki
+
+id: 2-2.9-121.r121/1925
+type: dir
+pred: 2-2.0-81.r83/99
+count: 10
+text: 83 0 86 86 f7e5e52565cfd459253033c577315736
+cpath: /tags/INIT_VERSION/branches/kuzmin
+copyfrom: 118 /tags/INIT_VERSION/branches/kuzmin
+
+id: 2-2.a-121.r121/2133
+type: dir
+pred: 2-2.0-99.r100/337
+count: 12
+text: 100 240 84 0 1bba115122d560593fd754e76d79c350
+cpath: /tags/INIT_VERSION/branches/marcinke
+copyfrom: 118 /tags/INIT_VERSION/branches/marcinke
+
+id: 3-52.b-121.r121/2349
+type: dir
+pred: 3-52.0-3.r56/361
+count: 5
+text: 56 201 147 147 dbe24a9910598211179983f43eff9faa
+cpath: /tags/INIT_VERSION/branches/sazonov
+copyfrom: 118 /tags/INIT_VERSION/branches/sazonov
+
+id: 3-76.c-121.r121/2564
+type: dir
+pred: 3-76.0-3.r79/131
+count: 4
+text: 79 0 118 118 bcfb9c9b905bd131c685b501ffd85517
+cpath: /tags/INIT_VERSION/branches/shvarc
+copyfrom: 118 /tags/INIT_VERSION/branches/shvarc
+
+id: 2-2.d-121.r121/2775
+type: dir
+pred: 2-2.0-57.r62/128
+count: 11
+text: 62 0 115 115 15316a4d966e7e8fefee80efbaf837b5
+cpath: /tags/INIT_VERSION/branches/sz2
+copyfrom: 118 /tags/INIT_VERSION/branches/sz2
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-121.r121/0
+K 8
+apavlova
+V 22
+dir 2-2.1-121.r121/211
+K 5
+bulat
+V 24
+dir 3-104.2-121.r121/429
+K 8
+dolmatov
+V 22
+dir 2-2.3-121.r121/641
+K 7
+ermakov
+V 22
+dir 2-2.4-121.r121/857
+K 8
+ermishin
+V 23
+dir 2-2.5-121.r121/1069
+K 8
+grablevs
+V 23
+dir 2-2.6-121.r121/1284
+K 8
+kolesnik
+V 24
+dir 3-94.7-121.r121/1498
+K 8
+kukushki
+V 24
+dir 3-90.8-121.r121/1713
+K 6
+kuzmin
+V 23
+dir 2-2.9-121.r121/1925
+K 8
+marcinke
+V 23
+dir 2-2.a-121.r121/2133
+K 7
+sazonov
+V 24
+dir 3-52.b-121.r121/2349
+K 6
+shvarc
+V 24
+dir 3-76.c-121.r121/2564
+K 3
+sz2
+V 23
+dir 2-2.d-121.r121/2775
+END
+ENDREP
+id: 2-47.0-3.r121/3569
+type: dir
+pred: 2-47.0-3.r120/639
+count: 60
+text: 121 2980 576 0 a19d53788ea4dba91abbd309f68d7739
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+id: 0-1.e-121.r121/3757
+type: file
+pred: 0-1.0-51.r98/90
+count: 10
+text: 98 0 68 615 c30807f593642d0cd240d555fa70d1c6
+props: 1 254 53 0 113136892f2137aa0116093a524ade0b
+cpath: /tags/INIT_VERSION/trunk/README
+copyfrom: 118 /tags/INIT_VERSION/trunk/README
+
+PLAIN
+K 6
+README
+V 24
+file 0-1.e-121.r121/3757
+END
+ENDREP
+id: 2-2.0-28.r121/4070
+type: dir
+pred: 2-2.0-28.r119/599
+count: 11
+text: 121 4012 45 0 a843c7a74db1455af2cabb1587040e4d
+cpath: /tags/INIT_VERSION/trunk
+copyroot: 28 /tags/INIT_VERSION/trunk
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 22
+dir 2-47.0-3.r121/3569
+K 5
+trunk
+V 22
+dir 2-2.0-28.r121/4070
+END
+ENDREP
+id: 2-2.0-3.r121/4391
+type: dir
+pred: 2-2.0-3.r120/951
+count: 68
+text: 121 4261 117 0 de21236309d40e47b7a3cfdfa7d922c1
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 21
+dir 2-2.0-3.r121/4391
+END
+ENDREP
+id: 1-2.0.r121/4630
+type: dir
+pred: 1-2.0.r120/1187
+count: 68
+text: 121 4568 49 0 0adbabc38b7fefa4957eb4c4904a8142
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 19
+dir 0-2.0.r117/1166
+K 4
+tags
+V 19
+dir 1-2.0.r121/4630
+K 5
+trunk
+V 18
+dir 2-2.0.r118/397
+END
+ENDREP
+id: 0.0.r121/4930
+type: dir
+pred: 0.0.r120/1487
+count: 121
+text: 121 4773 144 0 dff49328aa2821b1aa3300c18c3876f0
+cpath: /
+copyroot: 0 /
+
+2-2._0.t120-3c add false false /tags/INIT_VERSION/branches/andreev
+118 /tags/INIT_VERSION/branches/andreev
+2-2._1.t120-3c add false false /tags/INIT_VERSION/branches/apavlova
+118 /tags/INIT_VERSION/branches/apavlova
+3-104._2.t120-3c add false false /tags/INIT_VERSION/branches/bulat
+118 /tags/INIT_VERSION/branches/bulat
+2-2._3.t120-3c add false false /tags/INIT_VERSION/branches/dolmatov
+118 /tags/INIT_VERSION/branches/dolmatov
+2-2._4.t120-3c add false false /tags/INIT_VERSION/branches/ermakov
+118 /tags/INIT_VERSION/branches/ermakov
+2-2._5.t120-3c add false false /tags/INIT_VERSION/branches/ermishin
+118 /tags/INIT_VERSION/branches/ermishin
+2-2._6.t120-3c add false false /tags/INIT_VERSION/branches/grablevs
+118 /tags/INIT_VERSION/branches/grablevs
+3-94._7.t120-3c add false false /tags/INIT_VERSION/branches/kolesnik
+118 /tags/INIT_VERSION/branches/kolesnik
+3-90._8.t120-3c add false false /tags/INIT_VERSION/branches/kukushki
+118 /tags/INIT_VERSION/branches/kukushki
+2-2._9.t120-3c add false false /tags/INIT_VERSION/branches/kuzmin
+118 /tags/INIT_VERSION/branches/kuzmin
+2-2._a.t120-3c add false false /tags/INIT_VERSION/branches/marcinke
+118 /tags/INIT_VERSION/branches/marcinke
+3-52._b.t120-3c add false false /tags/INIT_VERSION/branches/sazonov
+118 /tags/INIT_VERSION/branches/sazonov
+3-76._c.t120-3c add false false /tags/INIT_VERSION/branches/shvarc
+118 /tags/INIT_VERSION/branches/shvarc
+2-2._d.t120-3c add false false /tags/INIT_VERSION/branches/sz2
+118 /tags/INIT_VERSION/branches/sz2
+3-120.0-3.r120/404 delete false false /tags/INIT_VERSION/branches/version_0.1
+
+0-1._e.t120-3c add false false /tags/INIT_VERSION/trunk/README
+118 /tags/INIT_VERSION/trunk/README
+5-119.0-28.r119/311 delete false false /tags/INIT_VERSION/trunk/hello.py
+
+
+4930 5067

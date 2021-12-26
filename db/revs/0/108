@@ -1,0 +1,151 @@
+PLAIN
+K 10
+index.html
+V 22
+file 4-105.0-3.r106/47
+END
+ENDREP
+id: 3-104.0-3.r108/61
+type: dir
+pred: 3-104.0-3.r107/312
+count: 4
+text: 108 0 48 0 a3db5ebe01fb76a9505ab7f6d7c0e038
+cpath: /tags/INIT_VERSION/branches/bulat
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-47.r50/489
+K 8
+apavlova
+V 21
+dir 2-2.0-63.r66/2050
+K 5
+bulat
+V 21
+dir 3-104.0-3.r108/61
+K 8
+dolmatov
+V 20
+dir 2-2.0-85.r89/509
+K 7
+ermakov
+V 20
+dir 2-2.0-67.r70/125
+K 8
+ermishin
+V 20
+dir 2-2.0-71.r75/180
+K 8
+grablevs
+V 21
+dir 2-2.0-101.r103/54
+K 8
+kolesnik
+V 20
+dir 3-94.0-3.r97/891
+K 8
+kukushki
+V 19
+dir 3-90.0-3.r92/94
+K 6
+kuzmin
+V 19
+dir 2-2.0-81.r83/99
+K 8
+marcinke
+V 21
+dir 2-2.0-99.r100/337
+K 7
+sazonov
+V 20
+dir 3-52.0-3.r56/361
+K 6
+shvarc
+V 20
+dir 3-76.0-3.r79/131
+K 3
+sz2
+V 20
+dir 2-2.0-57.r62/128
+END
+ENDREP
+id: 2-47.0-3.r108/800
+type: dir
+pred: 2-47.0-3.r107/1055
+count: 56
+text: 108 250 537 0 040e1c6c605313f3347b9734f6e7889f
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 21
+dir 2-47.0-3.r108/800
+K 5
+trunk
+V 20
+dir 2-2.0-28.r98/375
+END
+ENDREP
+id: 2-2.0-3.r108/1114
+type: dir
+pred: 2-2.0-3.r107/1371
+count: 64
+text: 108 987 114 0 0139ce22b38ef07d8b92aef6c1b4b829
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 21
+dir 2-2.0-3.r108/1114
+END
+ENDREP
+id: 1-2.0.r108/1353
+type: dir
+pred: 1-2.0.r107/1611
+count: 64
+text: 108 1291 49 0 4af40fd43fa980ef6b24042d43324ea1
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 17
+dir 0-2.0.r44/637
+K 4
+tags
+V 19
+dir 1-2.0.r108/1353
+K 5
+trunk
+V 17
+dir 2-2.0.r45/346
+END
+ENDREP
+id: 0.0.r108/1650
+type: dir
+pred: 0.0.r107/1908
+count: 108
+text: 108 1496 141 0 0d65c1db7325a3df00d5fc660fdb893b
+cpath: /
+copyroot: 0 /
+
+4-107.0-3.r107/35 delete false false /tags/INIT_VERSION/branches/bulat/file.txt
+
+
+1650 1787

@@ -1,0 +1,70 @@
+id: 0-1.0-2.r2/0
+type: file
+pred: 0-1.0.r1/320
+count: 1
+text: 1 0 241 258 2a9ebcf6c106cf934ec9432c297e3a72
+props: 1 254 53 0 113136892f2137aa0116093a524ade0b
+cpath: /trunk/README
+copyfrom: 1 /README
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+END
+ENDREP
+id: 2-2.0.r2/251
+type: dir
+count: 0
+text: 2 200 38 38 ef1d9766ef1a9f038c65c013762bc9a5
+cpath: /trunk
+copyroot: 0 /
+
+id: 0-2.0.r2/367
+type: dir
+count: 0
+cpath: /branches
+copyroot: 0 /
+
+id: 1-2.0.r2/435
+type: dir
+count: 0
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 16
+dir 0-2.0.r2/367
+K 4
+tags
+V 16
+dir 1-2.0.r2/435
+K 5
+trunk
+V 16
+dir 2-2.0.r2/251
+END
+ENDREP
+id: 0.0.r2/614
+type: dir
+pred: 0.0.r1/540
+count: 2
+text: 2 499 102 102 cde8d18c7e0b787e02f90d86daf462fe
+cpath: /
+copyroot: 0 /
+
+0-1._0.t1-1 add false false /trunk/README
+1 /README
+_2.0.t1-1 add false false /trunk
+
+_0.0.t1-1 add false false /branches
+
+0-1.0.r1/320 delete false false /README
+
+_1.0.t1-1 add false false /tags
+
+
+614 742

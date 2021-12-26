@@ -1,0 +1,165 @@
+id: 2-2.0-142.r142/0
+type: dir
+pred: 2-2.0-3.r141/1677
+count: 80
+text: 141 1547 117 117 865b667e2a10dcb267920c7f0f17c20b
+cpath: /tags/INIT_VERSION/branches/klyuchnikov
+copyfrom: 141 /tags/INIT_VERSION
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-121.r121/0
+K 8
+aovchinn
+V 22
+dir 2-2.0-131.r136/603
+K 8
+apavlova
+V 22
+dir 2-2.1-121.r121/211
+K 5
+bulat
+V 24
+dir 3-104.2-121.r121/429
+K 8
+dolmatov
+V 22
+dir 2-2.3-121.r121/641
+K 7
+ermakov
+V 22
+dir 2-2.4-121.r121/857
+K 8
+ermishin
+V 23
+dir 2-2.5-121.r121/1069
+K 8
+grablevs
+V 23
+dir 2-2.6-121.r121/1284
+K 8
+klyuchni
+V 22
+dir 2-2.0-140.r141/386
+K 11
+klyuchnikov
+V 20
+dir 2-2.0-142.r142/0
+K 8
+kolesnik
+V 24
+dir 3-94.7-121.r121/1498
+K 8
+kukushki
+V 24
+dir 3-90.8-121.r121/1713
+K 6
+kuzmin
+V 23
+dir 2-2.9-121.r121/1925
+K 8
+marcinke
+V 23
+dir 2-2.a-121.r121/2133
+K 11
+my_branches
+V 22
+dir 2-2.0-138.r139/306
+K 7
+sazonov
+V 24
+dir 3-52.b-121.r121/2349
+K 6
+shvarc
+V 24
+dir 3-76.c-121.r121/2564
+K 3
+sz2
+V 23
+dir 2-2.d-121.r121/2775
+K 8
+vorobeva
+V 20
+dir 2-2.0-130.r130/0
+END
+ENDREP
+id: 2-47.0-3.r142/1000
+type: dir
+pred: 2-47.0-3.r141/1358
+count: 72
+text: 142 202 785 785 998791af49dda3142737b629348c20b7
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 22
+dir 2-47.0-3.r142/1000
+K 5
+trunk
+V 22
+dir 2-2.0-28.r121/4070
+END
+ENDREP
+id: 2-2.0-3.r142/1320
+type: dir
+pred: 2-2.0-3.r141/1677
+count: 80
+text: 142 1190 117 117 18a0ff5afcce33f26cdcc1e133a59c32
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 21
+dir 2-2.0-3.r142/1320
+END
+ENDREP
+id: 1-2.0.r142/1562
+type: dir
+pred: 1-2.0.r141/1919
+count: 80
+text: 142 1500 49 49 cae2c62e3dc449af96140826a97141b9
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 19
+dir 0-2.0.r129/1304
+K 4
+tags
+V 19
+dir 1-2.0.r142/1562
+K 5
+trunk
+V 19
+dir 2-2.0.r137/1695
+END
+ENDREP
+id: 0.0.r142/1864
+type: dir
+pred: 0.0.r141/2221
+count: 142
+text: 142 1706 145 145 9062fe1513c7afc2e3ddd10888f9984c
+cpath: /
+copyroot: 0 /
+minfo-cnt: 1
+
+2-2._0.t141-3y add false false /tags/INIT_VERSION/branches/klyuchnikov
+141 /tags/INIT_VERSION
+
+1864 2016

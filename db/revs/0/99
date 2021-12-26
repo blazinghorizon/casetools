@@ -1,0 +1,136 @@
+id: 2-2.0-99.r99/0
+type: dir
+pred: 2-2.0-28.r98/375
+count: 10
+text: 98 321 41 41 1aec05b2a468f99a8fcfba7ef930ddc6
+cpath: /tags/INIT_VERSION/branches/marcinke
+copyfrom: 98 /tags/INIT_VERSION/trunk
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-47.r50/489
+K 8
+apavlova
+V 21
+dir 2-2.0-63.r66/2050
+K 8
+dolmatov
+V 20
+dir 2-2.0-85.r89/509
+K 7
+ermakov
+V 20
+dir 2-2.0-67.r70/125
+K 8
+ermishin
+V 20
+dir 2-2.0-71.r75/180
+K 8
+kolesnik
+V 20
+dir 3-94.0-3.r97/891
+K 8
+kukushki
+V 19
+dir 3-90.0-3.r92/94
+K 6
+kuzmin
+V 19
+dir 2-2.0-81.r83/99
+K 8
+marcinke
+V 18
+dir 2-2.0-99.r99/0
+K 7
+sazonov
+V 20
+dir 3-52.0-3.r56/361
+K 6
+shvarc
+V 20
+dir 3-76.0-3.r79/131
+K 3
+sz2
+V 20
+dir 2-2.0-57.r62/128
+END
+ENDREP
+id: 2-47.0-3.r99/667
+type: dir
+pred: 2-47.0-3.r97/1515
+count: 47
+text: 99 197 457 0 fd29a3e6f9f4cd175420b4e9a949cc4f
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 20
+dir 2-47.0-3.r99/667
+K 5
+trunk
+V 20
+dir 2-2.0-28.r98/375
+END
+ENDREP
+id: 2-2.0-3.r99/977
+type: dir
+pred: 2-2.0-3.r98/688
+count: 55
+text: 99 851 113 0 2291da20d8d2603ceea667414ba1dc46
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 19
+dir 2-2.0-3.r99/977
+END
+ENDREP
+id: 1-2.0.r99/1209
+type: dir
+pred: 1-2.0.r98/923
+count: 55
+text: 99 1149 47 0 ee556f660d63b5120be010d23ffeff80
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 17
+dir 0-2.0.r44/637
+K 4
+tags
+V 18
+dir 1-2.0.r99/1209
+K 5
+trunk
+V 17
+dir 2-2.0.r45/346
+END
+ENDREP
+id: 0.0.r99/1501
+type: dir
+pred: 0.0.r98/1214
+count: 99
+text: 99 1348 140 0 e62649f92f6be611b5f203a50fe981d4
+cpath: /
+copyroot: 0 /
+
+2-2._0.t98-2q add false false /tags/INIT_VERSION/branches/marcinke
+98 /tags/INIT_VERSION/trunk
+
+1501 1634

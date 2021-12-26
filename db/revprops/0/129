@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 8
+pocenkov
+K 8
+svn:date
+V 27
+2014-11-07T13:22:03.956012Z
+K 7
+svn:log
+V 81
+new commit
+--Tthis line, and those below, will be ignored--
+
+M    trunk/hello.py
+
+END

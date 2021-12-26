@@ -1,0 +1,188 @@
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+automake
+V 27
+dir 0-165.0-164.r165/277447
+K 8
+branches
+V 22
+dir 2-47.0-3.r161/3645
+K 5
+file1
+V 24
+file 0-167.0-164.r167/70
+K 4
+make
+V 26
+dir 18-165.0-164.r166/1089
+K 5
+trunk
+V 22
+dir 2-2.0-28.r121/4070
+END
+ENDREP
+id: 2-2.0-164.r168/257
+type: dir
+pred: 2-2.0-164.r167/748
+count: 104
+text: 168 0 244 244 ab39fff33ad780b4857bb54932e26608
+cpath: /tags/INIT_VERSION/branches/dyat
+copyroot: 164 /tags/INIT_VERSION/branches/dyat
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-121.r121/0
+K 8
+aovchinn
+V 22
+dir 2-2.0-131.r136/603
+K 8
+apavlova
+V 22
+dir 2-2.1-121.r121/211
+K 5
+bulat
+V 24
+dir 3-104.2-121.r121/429
+K 8
+dolmatov
+V 22
+dir 2-2.3-121.r121/641
+K 4
+dyat
+V 22
+dir 2-2.0-164.r168/257
+K 7
+ermakov
+V 22
+dir 2-2.4-121.r121/857
+K 8
+ermishin
+V 23
+dir 2-2.5-121.r121/1069
+K 8
+grablevs
+V 23
+dir 2-2.6-121.r121/1284
+K 11
+klyuchnikov
+V 23
+dir 2-2.0-142.r161/2703
+K 8
+kolesnik
+V 24
+dir 3-94.7-121.r121/1498
+K 8
+kukushki
+V 24
+dir 3-90.8-121.r121/1713
+K 6
+kuzmin
+V 23
+dir 2-2.9-121.r121/1925
+K 8
+marcinke
+V 23
+dir 2-2.a-121.r121/2133
+K 7
+sazonov
+V 24
+dir 3-52.b-121.r121/2349
+K 6
+shvarc
+V 24
+dir 3-76.c-121.r121/2564
+K 3
+sz2
+V 23
+dir 2-2.d-121.r121/2775
+K 8
+vorobeva
+V 20
+dir 2-2.0-130.r130/0
+END
+ENDREP
+id: 2-47.0-3.r168/1219
+type: dir
+pred: 2-47.0-3.r167/1713
+count: 88
+text: 168 467 739 739 aa320e7dfe5f7224540e8f64ed3927b3
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 22
+dir 2-47.0-3.r168/1219
+K 5
+trunk
+V 22
+dir 2-2.0-28.r121/4070
+END
+ENDREP
+id: 2-2.0-3.r168/1539
+type: dir
+pred: 2-2.0-3.r167/2033
+count: 104
+text: 168 1409 117 117 3fdb23881ecdd0167abb934b446b8469
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 21
+dir 2-2.0-3.r168/1539
+END
+ENDREP
+id: 1-2.0.r168/1782
+type: dir
+pred: 1-2.0.r167/2276
+count: 104
+text: 168 1720 49 49 eae25bad3f9efe0523b148cc7b3e47fb
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 19
+dir 0-2.0.r129/1304
+K 4
+tags
+V 19
+dir 1-2.0.r168/1782
+K 5
+trunk
+V 17
+dir 2-2.0.r163/55
+END
+ENDREP
+id: 0.0.r168/2083
+type: dir
+pred: 0.0.r167/2577
+count: 168
+text: 168 1927 143 143 971504c8f32483bbe4af853ef467c100
+cpath: /
+copyroot: 0 /
+minfo-cnt: 2
+
+1-167.0-164.r167/259 delete false false /tags/INIT_VERSION/branches/dyat/file2
+
+
+2083 2235

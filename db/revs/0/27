@@ -1,0 +1,50 @@
+PLAIN
+K 5
+isaev
+V 20
+dir 2-2.0-11.r23/890
+K 8
+kirpiche
+V 18
+dir 2-2.0-4.r9/368
+K 9
+vdmitriev
+V 19
+dir 0-15.0.r26/1469
+END
+ENDREP
+id: 0-2.0.r27/129
+type: dir
+pred: 0-2.0.r26/1789
+count: 22
+text: 27 0 116 116 be1fa9100fc28c507826ea23f765eb83
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 17
+dir 0-2.0.r27/129
+K 4
+tags
+V 16
+dir 1-2.0.r3/209
+K 5
+trunk
+V 17
+dir 2-2.0.r24/335
+END
+ENDREP
+id: 0.0.r27/389
+type: dir
+pred: 0.0.r26/2053
+count: 27
+text: 27 272 104 104 7fab0d9ebd3192d8d527581b64681a2b
+cpath: /
+copyroot: 0 /
+
+0-14.0.r14/236 delete false false /branches/vdmit
+
+
+389 522

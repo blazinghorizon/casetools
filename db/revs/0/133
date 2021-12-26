@@ -1,0 +1,188 @@
+DELTA
+SVNENDREP
+id: 0-133.0-131.r133/17
+type: file
+count: 0
+text: 133 0 4 0 d41d8cd98f00b204e9800998ecf8427e
+cpath: /tags/INIT_VERSION/branches/aovchinn/somefile
+copyroot: 131 /tags/INIT_VERSION/branches/aovchinn
+
+PLAIN
+K 1
+1
+V 27
+dir 0-132.0-131.r132/444075
+K 1
+2
+V 28
+dir 1m-132.0-131.r132/444554
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 21
+dir 2-47.0-3.r130/831
+K 8
+somefile
+V 24
+file 0-133.0-131.r133/17
+K 5
+trunk
+V 22
+dir 2-2.0-28.r121/4070
+END
+ENDREP
+id: 2-2.0-131.r133/466
+type: dir
+pred: 2-2.0-131.r132/444964
+count: 72
+text: 133 215 238 238 30f28f3a952a88db041a9d520bcbd201
+cpath: /tags/INIT_VERSION/branches/aovchinn
+copyroot: 131 /tags/INIT_VERSION/branches/aovchinn
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-121.r121/0
+K 8
+aovchinn
+V 22
+dir 2-2.0-131.r133/466
+K 8
+apavlova
+V 22
+dir 2-2.1-121.r121/211
+K 5
+bulat
+V 24
+dir 3-104.2-121.r121/429
+K 8
+dolmatov
+V 22
+dir 2-2.3-121.r121/641
+K 7
+ermakov
+V 22
+dir 2-2.4-121.r121/857
+K 8
+ermishin
+V 23
+dir 2-2.5-121.r121/1069
+K 8
+grablevs
+V 23
+dir 2-2.6-121.r121/1284
+K 8
+kolesnik
+V 24
+dir 3-94.7-121.r121/1498
+K 8
+kukushki
+V 24
+dir 3-90.8-121.r121/1713
+K 6
+kuzmin
+V 23
+dir 2-2.9-121.r121/1925
+K 8
+marcinke
+V 23
+dir 2-2.a-121.r121/2133
+K 7
+sazonov
+V 24
+dir 3-52.b-121.r121/2349
+K 6
+shvarc
+V 24
+dir 3-76.c-121.r121/2564
+K 3
+sz2
+V 23
+dir 2-2.d-121.r121/2775
+K 8
+vorobeva
+V 20
+dir 2-2.0-130.r130/0
+END
+ENDREP
+id: 2-47.0-3.r133/1357
+type: dir
+pred: 2-47.0-3.r132/445859
+count: 64
+text: 133 688 656 656 91f98af58bd435cae4fd255de744c7a0
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 22
+dir 2-47.0-3.r133/1357
+K 5
+trunk
+V 22
+dir 2-2.0-28.r121/4070
+END
+ENDREP
+id: 2-2.0-3.r133/1679
+type: dir
+pred: 2-2.0-3.r132/446185
+count: 72
+text: 133 1549 117 117 d21c76a239aae66ad3233865fd97a8a0
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 21
+dir 2-2.0-3.r133/1679
+END
+ENDREP
+id: 1-2.0.r133/1923
+type: dir
+pred: 1-2.0.r132/446433
+count: 72
+text: 133 1861 49 49 2fa1b90b533c0ee4234f56b413085040
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 19
+dir 0-2.0.r129/1304
+K 4
+tags
+V 19
+dir 1-2.0.r133/1923
+K 5
+trunk
+V 18
+dir 2-2.0.r118/397
+END
+ENDREP
+id: 0.0.r133/2226
+type: dir
+pred: 0.0.r132/446740
+count: 133
+text: 133 2069 144 144 835e86f4d76ca159eb284c8fd6a08e8a
+cpath: /
+copyroot: 0 /
+
+_0.0-131.t132-3p add true false /tags/INIT_VERSION/branches/aovchinn/somefile
+
+
+2226 2367

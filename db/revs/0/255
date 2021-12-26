@@ -1,0 +1,173 @@
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-121.r121/0
+K 8
+aovchinn
+V 22
+dir 2-2.0-131.r136/603
+K 8
+apavlova
+V 22
+dir 2-2.1-121.r121/211
+K 8
+bagaudin
+V 22
+dir 2-2.0-221.r241/455
+K 8
+bodryako
+V 23
+dir 2-2.0-192.r195/1286
+K 5
+bulat
+V 24
+dir 3-104.2-121.r121/429
+K 8
+dolmatov
+V 22
+dir 2-2.3-121.r121/641
+K 4
+dyat
+V 22
+dir 2-2.0-164.r169/595
+K 7
+ermakov
+V 22
+dir 2-2.4-121.r121/857
+K 8
+ermishin
+V 23
+dir 2-2.5-121.r121/1069
+K 5
+fokin
+V 22
+dir 2-2.0-198.r202/933
+K 8
+grablevs
+V 23
+dir 2-2.6-121.r121/1284
+K 8
+kolesnik
+V 24
+dir 3-94.7-121.r121/1498
+K 8
+kukushki
+V 24
+dir 3-90.8-121.r121/1713
+K 6
+kuzmin
+V 23
+dir 2-2.9-121.r121/1925
+K 8
+marcinke
+V 23
+dir 2-2.a-121.r121/2133
+K 6
+platov
+V 22
+dir 2-2.0-176.r191/255
+K 7
+sazonov
+V 24
+dir 3-52.b-121.r121/2349
+K 6
+shvarc
+V 24
+dir 3-76.c-121.r121/2564
+K 8
+skuratov
+V 22
+dir 2-2.0-203.r207/441
+K 3
+sz2
+V 23
+dir 2-2.d-121.r121/2775
+K 8
+vepifano
+V 21
+dir 2-2.0-208.r210/56
+K 8
+vorobeva
+V 20
+dir 2-2.0-130.r130/0
+END
+ENDREP
+id: 2-47.0-3.r255/947
+type: dir
+pred: 2-47.0-3.r241/1665
+count: 122
+text: 255 0 934 934 84eff4cd4522c0738e109ecea506f6d7
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 21
+dir 2-47.0-3.r255/947
+K 5
+trunk
+V 21
+dir 2-2.0-28.r232/402
+END
+ENDREP
+id: 2-2.0-3.r255/1263
+type: dir
+pred: 2-2.0-3.r241/1985
+count: 143
+text: 255 1135 115 115 b6e0767800c477e35580285b7014bcdd
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 21
+dir 2-2.0-3.r255/1263
+END
+ENDREP
+id: 1-2.0.r255/1506
+type: dir
+pred: 1-2.0.r241/2228
+count: 143
+text: 255 1444 49 49 f2cabc4c3aa89582d6d0a8d7a9149685
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 17
+dir 0-2.0.r254/17
+K 4
+tags
+V 19
+dir 1-2.0.r255/1506
+K 5
+trunk
+V 19
+dir 2-2.0.r226/2319
+END
+ENDREP
+id: 0.0.r255/1807
+type: dir
+pred: 0.0.r254/312
+count: 255
+text: 255 1651 143 143 c8c815f0f5e1d1af8ff33f50d646942d
+cpath: /
+copyroot: 0 /
+minfo-cnt: 2
+
+2-2.0-142.r161/2703 delete false false /tags/INIT_VERSION/branches/klyuchnikov
+
+
+1807 1958

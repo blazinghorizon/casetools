@@ -1,0 +1,207 @@
+PLAIN
+K 13
+FirstProj.gan
+V 30
+file g-177.0-176.r177/13633263
+END
+ENDREP
+id: f-177.0-176.r188/72
+type: dir
+pred: f-177.0-176.r177/13846390
+count: 1
+text: 188 0 59 59 edf03fe93a942e16ce14c1733976b557
+cpath: /tags/INIT_VERSION/branches/platov/pr2
+copyroot: 176 /tags/INIT_VERSION/branches/platov
+
+PLAIN
+K 6
+README
+V 23
+file 0-1.0-177.r187/164
+K 7
+azazaza
+V 24
+file 0-186.0-176.r186/34
+K 5
+hahah
+V 25
+file 1-186.0-176.r186/228
+K 3
+pr1
+V 24
+dir 0-177.0-176.r186/851
+K 3
+pr2
+V 23
+dir f-177.0-176.r188/72
+K 5
+trunk
+V 22
+dir 2-2.0-187.r187/749
+END
+ENDREP
+id: 2-2.0-176.r188/547
+type: dir
+pred: 2-2.0-176.r187/1216
+count: 112
+text: 188 294 240 240 54088d656fd1d28b58e88ee98911dcdb
+cpath: /tags/INIT_VERSION/branches/platov
+copyroot: 176 /tags/INIT_VERSION/branches/platov
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-121.r121/0
+K 8
+aovchinn
+V 22
+dir 2-2.0-131.r136/603
+K 8
+apavlova
+V 22
+dir 2-2.1-121.r121/211
+K 5
+bulat
+V 24
+dir 3-104.2-121.r121/429
+K 8
+dolmatov
+V 22
+dir 2-2.3-121.r121/641
+K 4
+dyat
+V 22
+dir 2-2.0-164.r169/595
+K 7
+ermakov
+V 22
+dir 2-2.4-121.r121/857
+K 8
+ermishin
+V 23
+dir 2-2.5-121.r121/1069
+K 8
+grablevs
+V 23
+dir 2-2.6-121.r121/1284
+K 11
+klyuchnikov
+V 23
+dir 2-2.0-142.r161/2703
+K 8
+kolesnik
+V 24
+dir 3-94.7-121.r121/1498
+K 8
+kukushki
+V 24
+dir 3-90.8-121.r121/1713
+K 6
+kuzmin
+V 23
+dir 2-2.9-121.r121/1925
+K 8
+marcinke
+V 23
+dir 2-2.a-121.r121/2133
+K 6
+platov
+V 22
+dir 2-2.0-176.r188/547
+K 7
+sazonov
+V 24
+dir 3-52.b-121.r121/2349
+K 6
+shvarc
+V 24
+dir 3-76.c-121.r121/2564
+K 3
+sz2
+V 23
+dir 2-2.d-121.r121/2775
+K 8
+vorobeva
+V 20
+dir 2-2.0-130.r130/0
+END
+ENDREP
+id: 2-47.0-3.r188/1555
+type: dir
+pred: 2-47.0-3.r187/2226
+count: 96
+text: 188 764 778 778 6c9c87035205fc981101bd49bbd84823
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 22
+dir 2-47.0-3.r188/1555
+K 5
+trunk
+V 22
+dir 2-2.0-28.r121/4070
+END
+ENDREP
+id: 2-2.0-3.r188/1875
+type: dir
+pred: 2-2.0-3.r187/2547
+count: 112
+text: 188 1745 117 117 c5dd67d60c8cb5e0d7121a8992116ee7
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 21
+dir 2-2.0-3.r188/1875
+END
+ENDREP
+id: 1-2.0.r188/2118
+type: dir
+pred: 1-2.0.r187/2790
+count: 112
+text: 188 2056 49 49 b83f56d2fb2246fbda93bedfa404399a
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 19
+dir 0-2.0.r184/3408
+K 4
+tags
+V 19
+dir 1-2.0.r188/2118
+K 5
+trunk
+V 18
+dir 2-2.0.r170/627
+END
+ENDREP
+id: 0.0.r188/2420
+type: dir
+pred: 0.0.r187/3092
+count: 188
+text: 188 2263 144 144 0acf1f9f673e417be3bbd1c742f2ed39
+cpath: /
+copyroot: 0 /
+minfo-cnt: 4
+
+h-177.0-176.r177/13846023 delete false false /tags/INIT_VERSION/branches/platov/pr2/ganttproject-2.7.1-r1924
+
+
+2420 2572

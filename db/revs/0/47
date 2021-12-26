@@ -1,0 +1,93 @@
+id: 2-2.0-47.r47/0
+type: dir
+pred: 2-2.0-28.r28/0
+count: 4
+text: 24 282 40 40 ba9a9c2a4fa06bd24e42ae9cf9733c94
+cpath: /tags/INIT_VERSION/branches/andreev
+copyfrom: 46 /tags/INIT_VERSION/trunk
+
+PLAIN
+K 7
+andreev
+V 18
+dir 2-2.0-47.r47/0
+END
+ENDREP
+id: 2-47.0-3.r47/246
+type: dir
+count: 0
+text: 47 193 40 40 d6c2bb328eda2a6658d20153257059c2
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 20
+dir 2-47.0-3.r47/246
+K 5
+trunk
+V 18
+dir 2-2.0-28.r28/0
+END
+ENDREP
+id: 2-2.0-3.r47/529
+type: dir
+pred: 2-2.0-3.r28/248
+count: 3
+text: 47 405 111 111 18fb651ff7297af76daa5652da95605b
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 19
+dir 2-2.0-3.r47/529
+END
+ENDREP
+id: 1-2.0.r47/762
+type: dir
+pred: 1-2.0.r28/476
+count: 3
+text: 47 702 47 47 1f312605cecd2ecd66eb8775556cd47f
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 17
+dir 0-2.0.r44/637
+K 4
+tags
+V 17
+dir 1-2.0.r47/762
+K 5
+trunk
+V 17
+dir 2-2.0.r45/346
+END
+ENDREP
+id: 0.0.r47/1051
+type: dir
+pred: 0.0.r46/1370
+count: 47
+text: 47 899 139 139 e7f2f6204de0c042922636903991680b
+cpath: /
+copyroot: 0 /
+
+_2.0-3.t46-1a add false false /tags/INIT_VERSION/branches
+
+2-2._0.t46-1a add false false /tags/INIT_VERSION/branches/andreev
+46 /tags/INIT_VERSION/trunk
+
+1051 1185

@@ -1,0 +1,47 @@
+PLAIN
+K 10
+spodkopaev
+V 22
+dir 2-2.0-111.r115/638
+END
+ENDREP
+id: 0-2.0.r253/61
+type: dir
+pred: 0-2.0.r252/100
+count: 92
+text: 253 0 48 48 67fc79aef1bd37c6e5cfdbfce303d76c
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 17
+dir 0-2.0.r253/61
+K 4
+tags
+V 19
+dir 1-2.0.r241/2228
+K 5
+trunk
+V 19
+dir 2-2.0.r226/2319
+END
+ENDREP
+id: 0.0.r253/359
+type: dir
+pred: 0.0.r252/400
+count: 253
+text: 253 203 143 143 b739b6bafff7683c23fd781a27e4da07
+cpath: /
+copyroot: 0 /
+minfo-cnt: 2
+
+0-15.0.r26/1469 delete false false /branches/vdmitriev
+
+
+359 508

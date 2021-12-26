@@ -1,0 +1,252 @@
+DELTA
+SVNENDREP
+DELTA
+SVNENDREP
+id: 0-186.0-176.r186/34
+type: file
+count: 0
+text: 186 17 4 0 d41d8cd98f00b204e9800998ecf8427e
+cpath: /tags/INIT_VERSION/branches/platov/azazaza
+copyroot: 176 /tags/INIT_VERSION/branches/platov
+
+id: 1-186.0-176.r186/228
+type: file
+count: 0
+text: 186 0 4 0 d41d8cd98f00b204e9800998ecf8427e
+cpath: /tags/INIT_VERSION/branches/platov/hahah
+copyroot: 176 /tags/INIT_VERSION/branches/platov
+
+PLAIN
+K 8
+Makefile
+V 24
+file 2-177.0-176.r185/67
+K 3
+doc
+V 29
+dir 4-177.0-176.r177/13630030
+K 3
+src
+V 29
+dir 7-177.0-176.r177/13632311
+END
+ENDREP
+id: 1-177.0-176.r186/566
+type: dir
+pred: 1-177.0-176.r185/504
+count: 2
+text: 186 420 133 133 fa3938941e6ca152231b5e1f19d2b708
+cpath: /tags/INIT_VERSION/branches/platov/pr1/hello
+copyroot: 176 /tags/INIT_VERSION/branches/platov
+
+PLAIN
+K 5
+hello
+V 24
+dir 1-177.0-176.r186/566
+END
+ENDREP
+id: 0-177.0-176.r186/851
+type: dir
+pred: 0-177.0-176.r185/794
+count: 2
+text: 186 794 44 44 ecb6ad62cb3bc1e59a3c9d575ab52700
+cpath: /tags/INIT_VERSION/branches/platov/pr1
+copyroot: 176 /tags/INIT_VERSION/branches/platov
+
+PLAIN
+K 6
+README
+V 28
+file 0-1.0-177.r177/13628752
+K 7
+azazaza
+V 24
+file 0-186.0-176.r186/34
+K 5
+hahah
+V 25
+file 1-186.0-176.r186/228
+K 3
+pr1
+V 24
+dir 0-177.0-176.r186/851
+K 3
+pr2
+V 29
+dir f-177.0-176.r177/13846390
+K 5
+trunk
+V 22
+dir 2-2.0-28.r121/4070
+END
+ENDREP
+id: 2-2.0-176.r186/1335
+type: dir
+pred: 2-2.0-176.r185/1200
+count: 110
+text: 186 1071 251 251 33c7ada166ec9739646805bdcb036895
+cpath: /tags/INIT_VERSION/branches/platov
+copyroot: 176 /tags/INIT_VERSION/branches/platov
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-121.r121/0
+K 8
+aovchinn
+V 22
+dir 2-2.0-131.r136/603
+K 8
+apavlova
+V 22
+dir 2-2.1-121.r121/211
+K 5
+bulat
+V 24
+dir 3-104.2-121.r121/429
+K 8
+dolmatov
+V 22
+dir 2-2.3-121.r121/641
+K 4
+dyat
+V 22
+dir 2-2.0-164.r169/595
+K 7
+ermakov
+V 22
+dir 2-2.4-121.r121/857
+K 8
+ermishin
+V 23
+dir 2-2.5-121.r121/1069
+K 8
+grablevs
+V 23
+dir 2-2.6-121.r121/1284
+K 11
+klyuchnikov
+V 23
+dir 2-2.0-142.r161/2703
+K 8
+kolesnik
+V 24
+dir 3-94.7-121.r121/1498
+K 8
+kukushki
+V 24
+dir 3-90.8-121.r121/1713
+K 6
+kuzmin
+V 23
+dir 2-2.9-121.r121/1925
+K 8
+marcinke
+V 23
+dir 2-2.a-121.r121/2133
+K 6
+platov
+V 23
+dir 2-2.0-176.r186/1335
+K 7
+sazonov
+V 24
+dir 3-52.b-121.r121/2349
+K 6
+shvarc
+V 24
+dir 3-76.c-121.r121/2564
+K 3
+sz2
+V 23
+dir 2-2.d-121.r121/2775
+K 8
+vorobeva
+V 20
+dir 2-2.0-130.r130/0
+END
+ENDREP
+id: 2-47.0-3.r186/2346
+type: dir
+pred: 2-47.0-3.r185/2210
+count: 94
+text: 186 1554 779 779 d647799044671f4e330dcca1f41ce6d1
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 22
+dir 2-47.0-3.r186/2346
+K 5
+trunk
+V 22
+dir 2-2.0-28.r121/4070
+END
+ENDREP
+id: 2-2.0-3.r186/2667
+type: dir
+pred: 2-2.0-3.r185/2531
+count: 110
+text: 186 2537 117 117 09d6202e479229afa6cea5427cb88146
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 21
+dir 2-2.0-3.r186/2667
+END
+ENDREP
+id: 1-2.0.r186/2910
+type: dir
+pred: 1-2.0.r185/2774
+count: 110
+text: 186 2848 49 49 8c412a82167f72e10f154cee0b1b4c6f
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 19
+dir 0-2.0.r184/3408
+K 4
+tags
+V 19
+dir 1-2.0.r186/2910
+K 5
+trunk
+V 18
+dir 2-2.0.r170/627
+END
+ENDREP
+id: 0.0.r186/3212
+type: dir
+pred: 0.0.r185/3076
+count: 186
+text: 186 3055 144 144 6097f9f6d66a5400f83ded65e3252a86
+cpath: /
+copyroot: 0 /
+minfo-cnt: 4
+
+_0.0-176.t185-57 add true false /tags/INIT_VERSION/branches/platov/azazaza
+
+_1.0-176.t185-57 add true false /tags/INIT_VERSION/branches/platov/hahah
+
+3-177.0-176.r177/13629226 delete false false /tags/INIT_VERSION/branches/platov/pr1/hello/README.txt
+
+
+3212 3364

@@ -1,0 +1,131 @@
+PLAIN
+K 3
+Ant
+V 21
+dir 5-76.0-3.r77/1218
+K 5
+Gantt
+V 24
+dir 1x-76.0-3.r76/103934
+K 4
+Make
+V 24
+dir 20-76.0-3.r76/105799
+END
+ENDREP
+id: 3-76.0-3.r79/131
+type: dir
+pred: 3-76.0-3.r78/1094
+count: 3
+text: 79 0 118 118 bcfb9c9b905bd131c685b501ffd85517
+cpath: /tags/INIT_VERSION/branches/shvarc
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-47.r50/489
+K 8
+apavlova
+V 21
+dir 2-2.0-63.r66/2050
+K 7
+ermakov
+V 20
+dir 2-2.0-67.r70/125
+K 8
+ermishin
+V 20
+dir 2-2.0-71.r75/180
+K 7
+sazonov
+V 20
+dir 3-52.0-3.r56/361
+K 6
+shvarc
+V 20
+dir 3-76.0-3.r79/131
+K 3
+sz2
+V 20
+dir 2-2.0-57.r62/128
+END
+ENDREP
+id: 2-47.0-3.r79/602
+type: dir
+pred: 2-47.0-3.r78/1569
+count: 31
+text: 79 321 268 268 eacd3019b7d59c908a9bb296334ee8c1
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 20
+dir 2-47.0-3.r79/602
+K 5
+trunk
+V 21
+dir 2-2.0-28.r57/1220
+END
+ENDREP
+id: 2-2.0-3.r79/915
+type: dir
+pred: 2-2.0-3.r78/1885
+count: 35
+text: 79 788 114 114 07c90721cb457bb6d6a697da3fdea917
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 19
+dir 2-2.0-3.r79/915
+END
+ENDREP
+id: 1-2.0.r79/1150
+type: dir
+pred: 1-2.0.r78/2123
+count: 35
+text: 79 1090 47 47 f0e7d268f3df4ba5e285170df5a6a710
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 17
+dir 0-2.0.r44/637
+K 4
+tags
+V 18
+dir 1-2.0.r79/1150
+K 5
+trunk
+V 17
+dir 2-2.0.r45/346
+END
+ENDREP
+id: 0.0.r79/1444
+type: dir
+pred: 0.0.r78/2417
+count: 79
+text: 79 1291 140 140 03c2378cc27dd60a80127ad0359931b5
+cpath: /
+copyroot: 0 /
+
+4-78.0-3.r78/729 delete false false /tags/INIT_VERSION/branches/shvarc/ganttproject.log
+
+
+1444 1579

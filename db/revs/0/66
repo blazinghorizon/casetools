@@ -1,0 +1,258 @@
+PLAIN
+K 11
+Beliy.class
+V 25
+file 6-64.0-63.r64/540860
+K 10
+Beliy.html
+V 25
+file 8-64.0-63.r64/541131
+K 10
+Beliy.java
+V 21
+file 9-64.0-63.r65/57
+K 12
+Gorkiy.class
+V 25
+file a-64.0-63.r64/541627
+K 11
+Gorkiy.html
+V 25
+file b-64.0-63.r64/541899
+K 11
+Gorkiy.java
+V 25
+file c-64.0-63.r64/542116
+K 22
+Hochu_shokoladku.class
+V 25
+file d-64.0-63.r64/542397
+K 21
+Hochu_shokoladku.html
+V 25
+file e-64.0-63.r64/542678
+K 20
+Hochu_shokoladku.jar
+V 25
+file f-64.0-63.r64/542961
+K 21
+Hochu_shokoladku.java
+V 25
+file g-64.0-63.r64/543242
+K 16
+LectureJava4.pdf
+V 25
+file i-64.0-63.r64/543863
+K 15
+Molochniy.class
+V 25
+file j-64.0-63.r64/544211
+K 14
+Molochniy.html
+V 25
+file k-64.0-63.r64/544485
+K 14
+Molochniy.java
+V 25
+file l-64.0-63.r64/544705
+K 17
+MyExceptions.java
+V 25
+file m-64.0-63.r64/544921
+K 14
+Shokolad.class
+V 25
+file n-64.0-63.r64/545209
+K 13
+Shokolad.html
+V 25
+file o-64.0-63.r64/545484
+K 13
+Shokolad.java
+V 25
+file p-64.0-63.r64/545703
+K 21
+allclasses-frame.html
+V 25
+file q-64.0-63.r64/545919
+K 23
+allclasses-noframe.html
+V 25
+file r-64.0-63.r64/546141
+K 20
+constant-values.html
+V 25
+file s-64.0-63.r64/546367
+K 20
+deprecated-list.html
+V 25
+file t-64.0-63.r64/546592
+K 13
+help-doc.html
+V 25
+file u-64.0-63.r64/546818
+K 14
+index-all.html
+V 25
+file v-64.0-63.r64/547036
+K 10
+index.html
+V 25
+file w-64.0-63.r64/547255
+K 18
+overview-tree.html
+V 25
+file x-64.0-63.r64/547469
+K 18
+package-frame.html
+V 25
+file y-64.0-63.r64/547692
+K 12
+package-list
+V 25
+file z-64.0-63.r64/547978
+K 20
+package-summary.html
+V 26
+file 10-64.0-63.r64/548244
+K 17
+package-tree.html
+V 26
+file 11-64.0-63.r64/548469
+K 9
+resources
+V 25
+dir 12-64.0-63.r64/549086
+K 14
+stylesheet.css
+V 26
+file 15-64.0-63.r64/549297
+END
+ENDREP
+id: 4-64.0-63.r66/1693
+type: dir
+pred: 4-64.0-63.r65/2035
+count: 2
+text: 66 0 1680 1680 9ebff2ec7622ea35c25051a87203383d
+cpath: /tags/INIT_VERSION/branches/apavlova/3java
+copyroot: 63 /tags/INIT_VERSION/branches/apavlova
+
+PLAIN
+K 5
+3java
+V 22
+dir 4-64.0-63.r66/1693
+K 6
+README
+V 21
+file 0-1.0-51.r57/932
+K 6
+otchet
+V 25
+dir 16-64.0-63.r64/551466
+END
+ENDREP
+id: 2-2.0-63.r66/2050
+type: dir
+pred: 2-2.0-63.r65/2396
+count: 9
+text: 66 1915 122 122 e37d575aa99f096828057d03a3189bea
+cpath: /tags/INIT_VERSION/branches/apavlova
+copyroot: 63 /tags/INIT_VERSION/branches/apavlova
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-47.r50/489
+K 8
+apavlova
+V 21
+dir 2-2.0-63.r66/2050
+K 7
+sazonov
+V 20
+dir 3-52.0-3.r56/361
+K 3
+sz2
+V 20
+dir 2-2.0-57.r62/128
+END
+ENDREP
+id: 2-47.0-3.r66/2432
+type: dir
+pred: 2-47.0-3.r65/2780
+count: 18
+text: 66 2265 154 154 c531c03a20bbf44f6549a5e47ef8fb21
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 21
+dir 2-47.0-3.r66/2432
+K 5
+trunk
+V 21
+dir 2-2.0-28.r57/1220
+END
+ENDREP
+id: 2-2.0-3.r66/2748
+type: dir
+pred: 2-2.0-3.r65/3098
+count: 22
+text: 66 2620 115 115 8cdbbd5ae71bcd03f351a60250eb9815
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 20
+dir 2-2.0-3.r66/2748
+END
+ENDREP
+id: 1-2.0.r66/2986
+type: dir
+pred: 1-2.0.r65/3338
+count: 22
+text: 66 2925 48 48 ae944d032e4c9c0fbe0c95210422145e
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 17
+dir 0-2.0.r44/637
+K 4
+tags
+V 18
+dir 1-2.0.r66/2986
+K 5
+trunk
+V 17
+dir 2-2.0.r45/346
+END
+ENDREP
+id: 0.0.r66/3280
+type: dir
+pred: 0.0.r65/3634
+count: 66
+text: 66 3127 140 140 a650a72463a79934a538ff4fdda0d5a9
+cpath: /
+copyroot: 0 /
+
+h-64.0-63.r64/543526 delete false false /tags/INIT_VERSION/branches/apavlova/3java/LectureJava3.pdf
+
+
+3280 3415

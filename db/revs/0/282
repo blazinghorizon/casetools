@@ -1,0 +1,70 @@
+id: 0-280.0-282.r282/0
+type: dir
+pred: 0-280.0.r281/2565
+count: 2
+text: 281 2507 45 45 d8554a0734671ee2722bc6cc56772c27
+cpath: /branches/averkov/branch
+copyfrom: 281 /branches/averkov
+
+PLAIN
+K 6
+branch
+V 22
+dir 0-280.0-282.r282/0
+K 8
+lab2.gan
+V 22
+file 0-281.0.r281/2360
+END
+ENDREP
+id: 0-280.0.r282/282
+type: dir
+pred: 0-280.0.r281/2565
+count: 2
+text: 282 185 84 84 da4d2f810e2ce887898d7fa3504b010f
+cpath: /branches/averkov
+copyroot: 0 /
+
+PLAIN
+K 7
+averkov
+V 20
+dir 0-280.0.r282/282
+END
+ENDREP
+id: 0-2.0.r282/494
+type: dir
+pred: 0-2.0.r281/2777
+count: 96
+text: 282 439 42 42 f73cc57212528bf5d90f2a0238c0bb22
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir 0-2.0.r282/494
+K 4
+tags
+V 18
+dir 1-2.0.r278/564
+K 5
+trunk
+V 19
+dir 2-2.0.r226/2319
+END
+ENDREP
+id: 0.0.r282/762
+type: dir
+pred: 0.0.r281/3047
+count: 282
+text: 282 640 109 109 889ecbee89c0bc294ad1f24e71f8d28c
+cpath: /
+copyroot: 0 /
+minfo-cnt: 2
+
+0-280._0.t281-80 add false false /branches/averkov/branch
+281 /branches/averkov
+
+762 912

@@ -1,0 +1,89 @@
+PLAIN
+K 6
+shvarc
+V 24
+dir 3-76.c-121.r121/2564
+K 8
+skuratov
+V 22
+dir 2-2.0-203.r207/441
+END
+ENDREP
+id: 2-47.0-3.r276/99
+type: dir
+pred: 2-47.0-3.r275/141
+count: 143
+text: 276 0 86 86 bd3dfe170b6354e33092deeb9bf7adf9
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 20
+dir 2-47.0-3.r276/99
+K 5
+trunk
+V 21
+dir 2-2.0-28.r232/402
+END
+ENDREP
+id: 2-2.0-3.r276/410
+type: dir
+pred: 2-2.0-3.r275/456
+count: 164
+text: 276 283 114 114 d0a9b4829c306bed7659df21a42f7778
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 20
+dir 2-2.0-3.r276/410
+END
+ENDREP
+id: 1-2.0.r276/649
+type: dir
+pred: 1-2.0.r275/695
+count: 164
+text: 276 588 48 48 444ee50b7131e33eb718d5deb04f1d49
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 17
+dir 0-2.0.r254/17
+K 4
+tags
+V 18
+dir 1-2.0.r276/649
+K 5
+trunk
+V 19
+dir 2-2.0.r226/2319
+END
+ENDREP
+id: 0.0.r276/946
+type: dir
+pred: 0.0.r275/992
+count: 276
+text: 276 791 142 142 404992e446f7161f9690746efdb08c2a
+cpath: /
+copyroot: 0 /
+minfo-cnt: 2
+
+3-52.b-121.r121/2349 delete false false /tags/INIT_VERSION/branches/sazonov
+
+
+946 1095

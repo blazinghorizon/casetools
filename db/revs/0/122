@@ -1,0 +1,113 @@
+id: 2-2.0-122.r122/0
+type: dir
+pred: 2-2.0-3.r121/4391
+count: 69
+text: 121 4261 117 0 de21236309d40e47b7a3cfdfa7d922c1
+cpath: /branches/pocenkovskaya_podkopaev/INIT_VERSION
+copyfrom: 121 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 20
+dir 2-2.0-122.r122/0
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 22
+dir 2-47.0-117.r117/17
+K 5
+trunk
+V 22
+dir 2-2.1-117.r117/250
+END
+ENDREP
+id: 2-2.0-117.r122/381
+type: dir
+pred: 2-2.0-117.r117/583
+count: 67
+text: 122 207 161 0 57c580f6eb09d09f351d391987957322
+cpath: /branches/pocenkovskaya_podkopaev
+copyroot: 117 /branches/pocenkovskaya_podkopaev
+
+PLAIN
+K 9
+avdovenko
+V 21
+dir 2-2.0-34.r36/1301
+K 7
+dfrolov
+V 22
+dir 2-2.0-29.r30/44928
+K 5
+isaev
+V 20
+dir 2-2.0-11.r23/890
+K 6
+kataev
+V 20
+dir 2-2.0-40.r44/178
+K 8
+kirpiche
+V 18
+dir 2-2.0-4.r9/368
+K 23
+pocenkovskaya_podkopaev
+V 22
+dir 2-2.0-117.r122/381
+K 8
+shmatkov
+V 21
+dir 1-38.0.r38/843505
+K 10
+spodkopaev
+V 22
+dir 2-2.0-111.r115/638
+K 9
+vdmitriev
+V 19
+dir 0-15.0.r26/1469
+END
+ENDREP
+id: 0-2.0.r122/980
+type: dir
+pred: 0-2.0.r117/1166
+count: 42
+text: 122 592 375 0 9c3f1db8f26e752470027aaa90b80958
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 18
+dir 0-2.0.r122/980
+K 4
+tags
+V 19
+dir 1-2.0.r121/4630
+K 5
+trunk
+V 18
+dir 2-2.0.r118/397
+END
+ENDREP
+id: 0.0.r122/1282
+type: dir
+pred: 0.0.r121/4930
+count: 122
+text: 122 1126 143 0 74fb05b2c35249eeeece9c2cb45828d7
+cpath: /
+copyroot: 0 /
+
+2-2._0.t121-3d add false false /branches/pocenkovskaya_podkopaev/INIT_VERSION
+121 /tags/INIT_VERSION
+
+1282 1419

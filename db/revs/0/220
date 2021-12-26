@@ -1,0 +1,137 @@
+PLAIN
+K 13
+svn:mergeinfo
+V 69
+/tags/INIT_VERSION:3-130
+/tags/INIT_VERSION/branches/aovchinn:131-136
+END
+ENDREP
+id: 2-2.0-220.r220/111
+type: dir
+pred: 2-2.0-218.r219/454
+count: 19
+text: 219 361 80 80 87241ca2ea5b5d14293fe10dab31c138
+props: 220 0 98 98 2258ee635d8b2b9e892afefc31d041bc
+cpath: /branches/belyakov/casetools
+copyfrom: 219 /branches/belyakov
+minfo-cnt: 4
+minfo-here: y
+
+PLAIN
+K 6
+README
+V 21
+file 0-1.0-2.r214/423
+K 9
+casetools
+V 22
+dir 2-2.0-220.r220/111
+K 5
+trunk
+V 22
+dir 2-2.0-219.r219/111
+END
+ENDREP
+id: 2-2.0-218.r220/516
+type: dir
+pred: 2-2.0-218.r219/454
+count: 19
+text: 220 381 122 122 a5e8cb36fb0e7f6f82946c14e4d0dac0
+props: 218 0 98 98 2258ee635d8b2b9e892afefc31d041bc
+cpath: /branches/belyakov
+copyroot: 218 /branches/belyakov
+minfo-cnt: 8
+minfo-here: y
+
+PLAIN
+K 9
+akobeleva
+V 22
+dir 2-2.0-211.r217/184
+K 9
+avdovenko
+V 21
+dir 2-2.0-34.r36/1301
+K 8
+belyakov
+V 22
+dir 2-2.0-218.r220/516
+K 7
+dfrolov
+V 22
+dir 2-2.0-29.r30/44928
+K 7
+firsova
+V 23
+dir 2-2.0-180.r184/2715
+K 5
+isaev
+V 20
+dir 2-2.0-11.r23/890
+K 6
+kataev
+V 20
+dir 2-2.0-40.r44/178
+K 8
+kirpiche
+V 18
+dir 2-2.0-4.r9/368
+K 23
+pocenkovskaya_podkopaev
+V 22
+dir 2-2.0-117.r129/705
+K 8
+shmatkov
+V 21
+dir 1-38.0.r38/843505
+K 10
+spodkopaev
+V 22
+dir 2-2.0-111.r115/638
+K 9
+vdmitriev
+V 19
+dir 0-15.0.r26/1469
+END
+ENDREP
+id: 0-2.0.r220/1290
+type: dir
+pred: 0-2.0.r219/1226
+count: 69
+text: 220 778 499 499 f271f9e30a29522bebf50f79478e7a8b
+cpath: /branches
+copyroot: 0 /
+minfo-cnt: 12
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 19
+dir 0-2.0.r220/1290
+K 4
+tags
+V 19
+dir 1-2.0.r210/1785
+K 5
+trunk
+V 18
+dir 2-2.0.r214/726
+END
+ENDREP
+id: 0.0.r220/1610
+type: dir
+pred: 0.0.r219/1544
+count: 220
+text: 220 1453 144 144 c67b6f3cce65ae4526b657a18feff19c
+cpath: /
+copyroot: 0 /
+minfo-cnt: 14
+
+2-2._0.t219-68 add false true /branches/belyakov/casetools
+219 /branches/belyakov
+
+1610 1763

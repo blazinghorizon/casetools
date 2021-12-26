@@ -1,0 +1,43 @@
+PLAIN
+K 7
+averkov
+V 20
+dir 0-280.0.r286/323
+END
+ENDREP
+id: 0-2.0.r293/55
+type: dir
+pred: 0-2.0.r292/272
+count: 104
+text: 293 0 42 42 d0bc0ac2e1ae1205c0324071c3d6e54b
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 17
+dir 0-2.0.r293/55
+K 4
+tags
+V 19
+dir 1-2.0.r291/1227
+K 5
+trunk
+V 19
+dir 2-2.0.r226/2319
+END
+ENDREP
+id: 0.0.r293/320
+type: dir
+pred: 0.0.r292/540
+count: 293
+text: 293 198 109 109 5cf72a83c4f2fca4db23c2f8cfafbb64
+cpath: /
+copyroot: 0 /
+minfo-cnt: 2
+
+2-2.0-292.r292/0 delete false false /branches/sarbaev
+
+
+320 469

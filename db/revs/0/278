@@ -1,0 +1,81 @@
+PLAIN
+END
+ENDREP
+id: 2-47.0-3.r278/17
+type: dir
+pred: 2-47.0-3.r277/58
+count: 145
+text: 278 0 4 4 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 20
+dir 2-47.0-3.r278/17
+K 5
+trunk
+V 21
+dir 2-2.0-28.r232/402
+END
+ENDREP
+id: 2-2.0-3.r278/325
+type: dir
+pred: 2-2.0-3.r277/368
+count: 166
+text: 278 198 114 114 91f684df7c285e35a1000eefa3a20534
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 20
+dir 2-2.0-3.r278/325
+END
+ENDREP
+id: 1-2.0.r278/564
+type: dir
+pred: 1-2.0.r277/607
+count: 166
+text: 278 503 48 48 4f344396be1b1969e9f83d2601c2f6c6
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 17
+dir 0-2.0.r254/17
+K 4
+tags
+V 18
+dir 1-2.0.r278/564
+K 5
+trunk
+V 19
+dir 2-2.0.r226/2319
+END
+ENDREP
+id: 0.0.r278/861
+type: dir
+pred: 0.0.r277/904
+count: 278
+text: 278 706 142 142 906532daf61da72d7b3d88ceb3a85050
+cpath: /
+copyroot: 0 /
+minfo-cnt: 2
+
+2-2.0-203.r207/441 delete false false /tags/INIT_VERSION/branches/skuratov
+
+
+861 1010

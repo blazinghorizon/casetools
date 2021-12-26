@@ -1,0 +1,188 @@
+PLAIN
+K 6
+README
+V 22
+file 0-1.e-121.r199/76
+END
+ENDREP
+id: 2-2.0-208.r210/56
+type: dir
+pred: 2-2.0-208.r209/316
+count: 16
+text: 210 0 43 43 80fc8df4c18ae410427948989a27dc0f
+cpath: /tags/INIT_VERSION/branches/vepifano
+copyroot: 208 /tags/INIT_VERSION/branches/vepifano
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-121.r121/0
+K 8
+aovchinn
+V 22
+dir 2-2.0-131.r136/603
+K 8
+apavlova
+V 22
+dir 2-2.1-121.r121/211
+K 8
+bodryako
+V 23
+dir 2-2.0-192.r195/1286
+K 5
+bulat
+V 24
+dir 3-104.2-121.r121/429
+K 8
+dolmatov
+V 22
+dir 2-2.3-121.r121/641
+K 4
+dyat
+V 22
+dir 2-2.0-164.r169/595
+K 7
+ermakov
+V 22
+dir 2-2.4-121.r121/857
+K 8
+ermishin
+V 23
+dir 2-2.5-121.r121/1069
+K 5
+fokin
+V 22
+dir 2-2.0-198.r202/933
+K 8
+grablevs
+V 23
+dir 2-2.6-121.r121/1284
+K 11
+klyuchnikov
+V 23
+dir 2-2.0-142.r161/2703
+K 8
+kolesnik
+V 24
+dir 3-94.7-121.r121/1498
+K 8
+kukushki
+V 24
+dir 3-90.8-121.r121/1713
+K 6
+kuzmin
+V 23
+dir 2-2.9-121.r121/1925
+K 8
+marcinke
+V 23
+dir 2-2.a-121.r121/2133
+K 6
+platov
+V 22
+dir 2-2.0-176.r191/255
+K 7
+sazonov
+V 24
+dir 3-52.b-121.r121/2349
+K 6
+shvarc
+V 24
+dir 3-76.c-121.r121/2564
+K 8
+skuratov
+V 22
+dir 2-2.0-203.r207/441
+K 3
+sz2
+V 23
+dir 2-2.d-121.r121/2775
+K 8
+vepifano
+V 21
+dir 2-2.0-208.r210/56
+K 8
+vorobeva
+V 20
+dir 2-2.0-130.r130/0
+END
+ENDREP
+id: 2-47.0-3.r210/1222
+type: dir
+pred: 2-47.0-3.r209/1484
+count: 114
+text: 210 270 939 939 250266dd84d3e1d2bfbf9bac156be8a0
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 22
+dir 2-47.0-3.r210/1222
+K 5
+trunk
+V 21
+dir 2-2.0-28.r199/388
+END
+ENDREP
+id: 2-2.0-3.r210/1542
+type: dir
+pred: 2-2.0-3.r209/1804
+count: 132
+text: 210 1413 116 116 b3506b91dab5128a85fad0f42d98941c
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 21
+dir 2-2.0-3.r210/1542
+END
+ENDREP
+id: 1-2.0.r210/1785
+type: dir
+pred: 1-2.0.r209/2047
+count: 132
+text: 210 1723 49 49 d5cee590c9e11c95389ac4b3b81bf20e
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 19
+dir 0-2.0.r184/3408
+K 4
+tags
+V 19
+dir 1-2.0.r210/1785
+K 5
+trunk
+V 18
+dir 2-2.0.r197/387
+END
+ENDREP
+id: 0.0.r210/2087
+type: dir
+pred: 0.0.r209/2349
+count: 210
+text: 210 1930 144 144 f7797c112157f40df4626cbd7bf1ea94
+cpath: /
+copyroot: 0 /
+minfo-cnt: 4
+
+0-209.0-208.r209/17 delete false false /tags/INIT_VERSION/branches/vepifano/input.txt
+
+
+2087 2239

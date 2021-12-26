@@ -1,0 +1,161 @@
+id: 2-2.0-164.r164/0
+type: dir
+pred: 2-2.0-3.r161/3966
+count: 100
+text: 161 3836 117 117 9a664696054973245b2f53447f80fd95
+cpath: /tags/INIT_VERSION/branches/dyat
+copyfrom: 163 /tags/INIT_VERSION
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-121.r121/0
+K 8
+aovchinn
+V 22
+dir 2-2.0-131.r136/603
+K 8
+apavlova
+V 22
+dir 2-2.1-121.r121/211
+K 5
+bulat
+V 24
+dir 3-104.2-121.r121/429
+K 8
+dolmatov
+V 22
+dir 2-2.3-121.r121/641
+K 4
+dyat
+V 20
+dir 2-2.0-164.r164/0
+K 7
+ermakov
+V 22
+dir 2-2.4-121.r121/857
+K 8
+ermishin
+V 23
+dir 2-2.5-121.r121/1069
+K 8
+grablevs
+V 23
+dir 2-2.6-121.r121/1284
+K 11
+klyuchnikov
+V 23
+dir 2-2.0-142.r161/2703
+K 8
+kolesnik
+V 24
+dir 3-94.7-121.r121/1498
+K 8
+kukushki
+V 24
+dir 3-90.8-121.r121/1713
+K 6
+kuzmin
+V 23
+dir 2-2.9-121.r121/1925
+K 8
+marcinke
+V 23
+dir 2-2.a-121.r121/2133
+K 7
+sazonov
+V 24
+dir 3-52.b-121.r121/2349
+K 6
+shvarc
+V 24
+dir 3-76.c-121.r121/2564
+K 3
+sz2
+V 23
+dir 2-2.d-121.r121/2775
+K 8
+vorobeva
+V 20
+dir 2-2.0-130.r130/0
+END
+ENDREP
+id: 2-47.0-3.r164/946
+type: dir
+pred: 2-47.0-3.r161/3645
+count: 84
+text: 164 196 737 737 05dbb14d89e338f542ed75d02f561728
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 21
+dir 2-47.0-3.r164/946
+K 5
+trunk
+V 22
+dir 2-2.0-28.r121/4070
+END
+ENDREP
+id: 2-2.0-3.r164/1264
+type: dir
+pred: 2-2.0-3.r161/3966
+count: 100
+text: 164 1135 116 116 e673f13e24bdc5f519f174504a306e17
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 21
+dir 2-2.0-3.r164/1264
+END
+ENDREP
+id: 1-2.0.r164/1507
+type: dir
+pred: 1-2.0.r161/4208
+count: 100
+text: 164 1445 49 49 029aa1d8012c93b1ad89be2cd56300e1
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 19
+dir 0-2.0.r129/1304
+K 4
+tags
+V 19
+dir 1-2.0.r164/1507
+K 5
+trunk
+V 17
+dir 2-2.0.r163/55
+END
+ENDREP
+id: 0.0.r164/1808
+type: dir
+pred: 0.0.r163/432
+count: 164
+text: 164 1652 143 143 096e9407b4a39942a4fad45fc5845bab
+cpath: /
+copyroot: 0 /
+minfo-cnt: 2
+
+2-2._0.t163-4l add false false /tags/INIT_VERSION/branches/dyat
+163 /tags/INIT_VERSION
+
+1808 1959

@@ -1,0 +1,109 @@
+DELTA
+SVNENDREP
+id: 0-290.0-289.r290/17
+type: file
+count: 0
+text: 290 0 4 0 d41d8cd98f00b204e9800998ecf8427e
+cpath: /tags/INIT_VERSION/branches/tvorobusheck/new_file
+copyroot: 289 /tags/INIT_VERSION/branches/tvorobusheck
+
+PLAIN
+K 6
+README
+V 22
+file 0-1.1-289.r289/38
+K 8
+new_file
+V 24
+file 0-290.0-289.r290/17
+END
+ENDREP
+id: 2-2.0-289.r290/322
+type: dir
+pred: 2-2.0-289.r289/367
+count: 18
+text: 290 223 86 86 8546e30c5a1c4aebb3d021ad3743e667
+cpath: /tags/INIT_VERSION/branches/tvorobusheck
+copyroot: 289 /tags/INIT_VERSION/branches/tvorobusheck
+
+PLAIN
+K 12
+tvorobusheck
+V 22
+dir 2-2.0-289.r290/322
+END
+ENDREP
+id: 2-47.0-3.r290/610
+type: dir
+pred: 2-47.0-3.r289/638
+count: 147
+text: 290 547 50 50 0e0530530b8769ad1b185178e1579928
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 21
+dir 2-47.0-3.r290/610
+K 5
+trunk
+V 21
+dir 2-2.0-28.r232/402
+END
+ENDREP
+id: 2-2.0-3.r290/925
+type: dir
+pred: 2-2.0-3.r289/952
+count: 168
+text: 290 797 115 115 888bde7fa1fd7e90ab5384795a061d07
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 20
+dir 2-2.0-3.r290/925
+END
+ENDREP
+id: 1-2.0.r290/1164
+type: dir
+pred: 1-2.0.r289/1191
+count: 168
+text: 290 1103 48 48 05e676b147adc90f75cc915bc1f7dfe7
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 17
+dir 0-2.0.r288/55
+K 4
+tags
+V 19
+dir 1-2.0.r290/1164
+K 5
+trunk
+V 19
+dir 2-2.0.r226/2319
+END
+ENDREP
+id: 0.0.r290/1431
+type: dir
+pred: 0.0.r289/1457
+count: 290
+text: 290 1309 109 109 32f2850b76a113116574f803ec1d4a9f
+cpath: /
+copyroot: 0 /
+minfo-cnt: 2
+
+_0.0-289.t289-8a add true false /tags/INIT_VERSION/branches/tvorobusheck/new_file
+
+
+1431 1583

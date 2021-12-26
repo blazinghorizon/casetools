@@ -1,0 +1,51 @@
+PLAIN
+K 7
+averkov
+V 20
+dir 0-280.0.r286/323
+K 5
+fomin
+V 22
+dir 2-2.0-299.r301/744
+K 7
+sarbaev
+V 20
+dir 2-2.0-295.r295/0
+END
+ENDREP
+id: 0-2.0.r307/131
+type: dir
+pred: 0-2.0.r306/1121
+count: 113
+text: 307 0 118 118 b30b46e5d486b439290c311df0080045
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir 0-2.0.r307/131
+K 4
+tags
+V 18
+dir 1-2.0.r298/287
+K 5
+trunk
+V 18
+dir 2-2.0.r302/389
+END
+ENDREP
+id: 0.0.r307/399
+type: dir
+pred: 0.0.r306/1396
+count: 307
+text: 307 278 108 108 3cd35643961ac4662de84b2b77b63843
+cpath: /
+copyroot: 0 /
+minfo-cnt: 2
+
+2-2.0-303.r306/767 delete false false /branches/fomin2
+
+
+399 549

@@ -1,0 +1,217 @@
+PLAIN
+K 7
+AUTHORS
+V 29
+file 1-171.0-171.r171/6397741
+K 7
+COPYING
+V 29
+file 2-171.0-171.r171/6397913
+K 9
+ChangeLog
+V 29
+file 3-171.0-171.r171/6398093
+K 7
+INSTALL
+V 29
+file 4-171.0-171.r171/6398267
+K 8
+MAKEFILE
+V 28
+dir 5-171.0-171.r171/6398697
+K 8
+Makefile
+V 29
+file 7-171.0-171.r171/6398871
+K 11
+Makefile.am
+V 29
+file 8-171.0-171.r171/6399050
+K 11
+Makefile.in
+V 29
+file 9-171.0-171.r171/6399228
+K 6
+README
+V 29
+file b-171.0-171.r171/6399580
+K 10
+aclocal.m4
+V 29
+file c-171.0-171.r171/6399751
+K 14
+autom4te.cache
+V 28
+dir d-171.0-171.r171/6401656
+K 8
+config.h
+V 29
+file l-171.0-171.r171/6401838
+K 11
+config.h.in
+V 29
+file m-171.0-171.r171/6402015
+K 10
+config.log
+V 29
+file n-171.0-171.r171/6402195
+K 13
+config.status
+V 29
+file o-171.0-171.r171/6402419
+K 9
+configure
+V 29
+file p-171.0-171.r171/6402706
+K 12
+configure.ac
+V 29
+file q-171.0-171.r171/6402947
+K 7
+depcomp
+V 29
+file r-171.0-171.r171/6403170
+K 3
+doc
+V 28
+dir s-171.0-171.r171/6404392
+K 10
+install-sh
+V 29
+file x-171.0-171.r171/6404606
+K 15
+main-0.1.tar.gz
+V 29
+file y-171.0-171.r171/6404905
+K 7
+missing
+V 29
+file z-171.0-171.r171/6405194
+K 3
+src
+V 26
+dir 10-171.0-171.r172/1051
+K 8
+stamp-h1
+V 30
+file 1k-171.0-171.r171/6410323
+END
+ENDREP
+id: 0-171.0-171.r173/1196
+type: dir
+pred: 0-171.0-171.r172/2488
+count: 2
+text: 173 0 1183 1183 a7c3eadb0480189906461d0c9f68b47d
+cpath: /branches/firsova/1
+copyroot: 171 /branches/firsova
+
+PLAIN
+K 1
+1
+V 25
+dir 0-171.0-171.r173/1196
+K 1
+2
+V 29
+dir 1l-171.0-171.r171/6531931
+K 6
+README
+V 27
+file 0-1.1-171.r171/6532097
+END
+ENDREP
+id: 2-2.0-171.r173/1523
+type: dir
+pred: 2-2.0-171.r172/2821
+count: 16
+text: 173 1384 126 126 8755cccfe7d44aa806d3fff38d2bc832
+props: 137 1584 98 98 2258ee635d8b2b9e892afefc31d041bc
+cpath: /branches/firsova
+copyroot: 171 /branches/firsova
+minfo-cnt: 2
+minfo-here: y
+
+PLAIN
+K 9
+avdovenko
+V 21
+dir 2-2.0-34.r36/1301
+K 7
+dfrolov
+V 22
+dir 2-2.0-29.r30/44928
+K 7
+firsova
+V 23
+dir 2-2.0-171.r173/1523
+K 5
+isaev
+V 20
+dir 2-2.0-11.r23/890
+K 6
+kataev
+V 20
+dir 2-2.0-40.r44/178
+K 8
+kirpiche
+V 18
+dir 2-2.0-4.r9/368
+K 23
+pocenkovskaya_podkopaev
+V 22
+dir 2-2.0-117.r129/705
+K 8
+shmatkov
+V 21
+dir 1-38.0.r38/843505
+K 10
+spodkopaev
+V 22
+dir 2-2.0-111.r115/638
+K 9
+vdmitriev
+V 19
+dir 0-15.0.r26/1469
+END
+ENDREP
+id: 0-2.0.r173/2218
+type: dir
+pred: 0-2.0.r172/3519
+count: 52
+text: 173 1789 416 416 a8654845b16858066b26f473d48e5e00
+cpath: /branches
+copyroot: 0 /
+minfo-cnt: 2
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 19
+dir 0-2.0.r173/2218
+K 4
+tags
+V 19
+dir 1-2.0.r169/2122
+K 5
+trunk
+V 18
+dir 2-2.0.r170/627
+END
+ENDREP
+id: 0.0.r173/2538
+type: dir
+pred: 0.0.r172/3842
+count: 173
+text: 173 2381 144 144 ff238e04ad47b32c1d62d3979507f1d7
+cpath: /
+copyroot: 0 /
+minfo-cnt: 4
+
+a-171.0-171.r171/6399411 delete false false /branches/firsova/1/NEWS
+
+
+2538 2690

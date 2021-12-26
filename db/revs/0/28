@@ -1,0 +1,69 @@
+id: 2-2.0-28.r28/0
+type: dir
+pred: 2-2.0.r24/335
+count: 3
+text: 24 282 40 40 ba9a9c2a4fa06bd24e42ae9cf9733c94
+cpath: /tags/INIT_VERSION/trunk
+copyfrom: 27 /trunk
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 5
+trunk
+V 18
+dir 2-2.0-28.r28/0
+END
+ENDREP
+id: 2-2.0-3.r28/248
+type: dir
+pred: 2-2.0-3.r3/0
+count: 2
+text: 28 163 72 72 44af949a880bec30434c123a1a1a0e3d
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 19
+dir 2-2.0-3.r28/248
+END
+ENDREP
+id: 1-2.0.r28/476
+type: dir
+pred: 1-2.0.r3/209
+count: 2
+text: 28 416 47 47 2ddf70dcc6f34acec2967eb321f2e371
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 17
+dir 0-2.0.r27/129
+K 4
+tags
+V 17
+dir 1-2.0.r28/476
+K 5
+trunk
+V 17
+dir 2-2.0.r24/335
+END
+ENDREP
+id: 0.0.r28/730
+type: dir
+pred: 0.0.r27/389
+count: 28
+text: 28 612 105 105 0f884aaf50c68be8b052c8cd9a0cd510
+cpath: /
+copyroot: 0 /
+
+2-2._0.t27-r add false false /tags/INIT_VERSION/trunk
+27 /trunk
+
+730 862

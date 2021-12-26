@@ -1,0 +1,131 @@
+PLAIN
+K 6
+README
+V 21
+file 0-1.0-51.r80/103
+K 9
+Spec.Kurs
+V 24
+dir 6-82.0-81.r82/284652
+END
+ENDREP
+id: 2-2.0-81.r83/99
+type: dir
+pred: 2-2.0-81.r82/284999
+count: 9
+text: 83 0 86 86 f7e5e52565cfd459253033c577315736
+cpath: /tags/INIT_VERSION/branches/kuzmin
+copyroot: 81 /tags/INIT_VERSION/branches/kuzmin
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-47.r50/489
+K 8
+apavlova
+V 21
+dir 2-2.0-63.r66/2050
+K 7
+ermakov
+V 20
+dir 2-2.0-67.r70/125
+K 8
+ermishin
+V 20
+dir 2-2.0-71.r75/180
+K 6
+kuzmin
+V 19
+dir 2-2.0-81.r83/99
+K 7
+sazonov
+V 20
+dir 3-52.0-3.r56/361
+K 6
+shvarc
+V 20
+dir 3-76.0-3.r79/131
+K 3
+sz2
+V 20
+dir 2-2.0-57.r62/128
+END
+ENDREP
+id: 2-47.0-3.r83/622
+type: dir
+pred: 2-47.0-3.r82/285532
+count: 34
+text: 83 305 304 304 b0f0e036d60d37a7c96303130f83984c
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 20
+dir 2-47.0-3.r83/622
+K 5
+trunk
+V 20
+dir 2-2.0-28.r80/390
+END
+ENDREP
+id: 2-2.0-3.r83/936
+type: dir
+pred: 2-2.0-3.r82/285852
+count: 39
+text: 83 810 113 113 2cda1269255845930cb1d699bf00defc
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 19
+dir 2-2.0-3.r83/936
+END
+ENDREP
+id: 1-2.0.r83/1173
+type: dir
+pred: 1-2.0.r82/286095
+count: 39
+text: 83 1113 47 47 1ab4ceab5d46bd5763de84aa5a3f9625
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 17
+dir 0-2.0.r44/637
+K 4
+tags
+V 18
+dir 1-2.0.r83/1173
+K 5
+trunk
+V 17
+dir 2-2.0.r45/346
+END
+ENDREP
+id: 0.0.r83/1469
+type: dir
+pred: 0.0.r82/286395
+count: 83
+text: 83 1316 140 140 2438aabf876b4614c2f20c639d507490
+cpath: /
+copyroot: 0 /
+
+4-82.0-81.r82/284181 delete false false /tags/INIT_VERSION/branches/kuzmin/Lektsii.pdf
+
+
+1469 1606

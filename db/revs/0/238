@@ -1,0 +1,105 @@
+id: 0.0-238.r238/0
+type: dir
+pred: 0.0.r237/1763
+count: 238
+text: 237 1606 144 144 4e6b78512ba42d0a9dea47543001983c
+cpath: /branches/su
+copyfrom: 237 /
+minfo-cnt: 15
+
+PLAIN
+K 9
+akobeleva
+V 22
+dir 2-2.0-211.r217/184
+K 9
+avdovenko
+V 21
+dir 2-2.0-34.r36/1301
+K 8
+belyakov
+V 22
+dir 2-2.0-218.r237/669
+K 7
+dfrolov
+V 22
+dir 2-2.0-29.r30/44928
+K 7
+firsova
+V 23
+dir 2-2.0-180.r184/2715
+K 5
+isaev
+V 20
+dir 2-2.0-11.r23/890
+K 6
+kataev
+V 20
+dir 2-2.0-40.r44/178
+K 8
+kirpiche
+V 18
+dir 2-2.0-4.r9/368
+K 23
+pocenkovskaya_podkopaev
+V 22
+dir 2-2.0-117.r129/705
+K 8
+shmatkov
+V 21
+dir 1-38.0.r38/843505
+K 10
+spodkopaev
+V 22
+dir 2-2.0-111.r115/638
+K 2
+su
+V 18
+dir 0.0-238.r238/0
+K 9
+vdmitriev
+V 19
+dir 0-15.0.r26/1469
+END
+ENDREP
+id: 0-2.0.r238/710
+type: dir
+pred: 0-2.0.r237/1443
+count: 79
+text: 238 167 530 530 29dd314d026da3245c22286873f17dd3
+cpath: /branches
+copyroot: 0 /
+minfo-cnt: 28
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 18
+dir 0-2.0.r238/710
+K 4
+tags
+V 18
+dir 1-2.0.r232/960
+K 5
+trunk
+V 19
+dir 2-2.0.r226/2319
+END
+ENDREP
+id: 0.0.r238/1028
+type: dir
+pred: 0.0.r237/1763
+count: 238
+text: 238 872 143 143 79de3506a0c44426447615acc3790812
+cpath: /
+copyroot: 0 /
+minfo-cnt: 30
+
+0._0.t237-6q add false false /branches/su
+237 /
+
+1028 1180

@@ -1,0 +1,201 @@
+DELTA
+SVNENDREP
+id: 0-209.0-208.r209/17
+type: file
+count: 0
+text: 209 0 4 0 d41d8cd98f00b204e9800998ecf8427e
+cpath: /tags/INIT_VERSION/branches/vepifano/input.txt
+copyroot: 208 /tags/INIT_VERSION/branches/vepifano
+
+PLAIN
+K 6
+README
+V 22
+file 0-1.e-121.r199/76
+K 9
+input.txt
+V 24
+file 0-209.0-208.r209/17
+END
+ENDREP
+id: 2-2.0-208.r209/316
+type: dir
+pred: 2-2.0-208.r208/0
+count: 15
+text: 209 216 87 87 eaafaad041d55d52b0ba479fbe27bb51
+cpath: /tags/INIT_VERSION/branches/vepifano
+copyroot: 208 /tags/INIT_VERSION/branches/vepifano
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-121.r121/0
+K 8
+aovchinn
+V 22
+dir 2-2.0-131.r136/603
+K 8
+apavlova
+V 22
+dir 2-2.1-121.r121/211
+K 8
+bodryako
+V 23
+dir 2-2.0-192.r195/1286
+K 5
+bulat
+V 24
+dir 3-104.2-121.r121/429
+K 8
+dolmatov
+V 22
+dir 2-2.3-121.r121/641
+K 4
+dyat
+V 22
+dir 2-2.0-164.r169/595
+K 7
+ermakov
+V 22
+dir 2-2.4-121.r121/857
+K 8
+ermishin
+V 23
+dir 2-2.5-121.r121/1069
+K 5
+fokin
+V 22
+dir 2-2.0-198.r202/933
+K 8
+grablevs
+V 23
+dir 2-2.6-121.r121/1284
+K 11
+klyuchnikov
+V 23
+dir 2-2.0-142.r161/2703
+K 8
+kolesnik
+V 24
+dir 3-94.7-121.r121/1498
+K 8
+kukushki
+V 24
+dir 3-90.8-121.r121/1713
+K 6
+kuzmin
+V 23
+dir 2-2.9-121.r121/1925
+K 8
+marcinke
+V 23
+dir 2-2.a-121.r121/2133
+K 6
+platov
+V 22
+dir 2-2.0-176.r191/255
+K 7
+sazonov
+V 24
+dir 3-52.b-121.r121/2349
+K 6
+shvarc
+V 24
+dir 3-76.c-121.r121/2564
+K 8
+skuratov
+V 22
+dir 2-2.0-203.r207/441
+K 3
+sz2
+V 23
+dir 2-2.d-121.r121/2775
+K 8
+vepifano
+V 22
+dir 2-2.0-208.r209/316
+K 8
+vorobeva
+V 20
+dir 2-2.0-130.r130/0
+END
+ENDREP
+id: 2-47.0-3.r209/1484
+type: dir
+pred: 2-47.0-3.r208/1153
+count: 113
+text: 209 531 940 940 0725ffb239462582eb3abe4a4754befc
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 22
+dir 2-47.0-3.r209/1484
+K 5
+trunk
+V 21
+dir 2-2.0-28.r199/388
+END
+ENDREP
+id: 2-2.0-3.r209/1804
+type: dir
+pred: 2-2.0-3.r208/1473
+count: 131
+text: 209 1675 116 116 2fb430bae9b622f8e4bd03a34b071f86
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 21
+dir 2-2.0-3.r209/1804
+END
+ENDREP
+id: 1-2.0.r209/2047
+type: dir
+pred: 1-2.0.r208/1716
+count: 131
+text: 209 1985 49 49 ec415bb164b13134ae7bd54ec702c1db
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 19
+dir 0-2.0.r184/3408
+K 4
+tags
+V 19
+dir 1-2.0.r209/2047
+K 5
+trunk
+V 18
+dir 2-2.0.r197/387
+END
+ENDREP
+id: 0.0.r209/2349
+type: dir
+pred: 0.0.r208/2018
+count: 209
+text: 209 2192 144 144 adb0755d631961647320010ef63b5dbd
+cpath: /
+copyroot: 0 /
+minfo-cnt: 4
+
+_0.0-208.t208-5x add true false /tags/INIT_VERSION/branches/vepifano/input.txt
+
+
+2349 2501

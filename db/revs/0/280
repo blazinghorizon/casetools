@@ -1,0 +1,49 @@
+id: 0-280.0.r280/0
+type: dir
+count: 0
+cpath: /branches/averkov
+copyroot: 0 /
+
+PLAIN
+K 7
+averkov
+V 18
+dir 0-280.0.r280/0
+END
+ENDREP
+id: 0-2.0.r280/131
+type: dir
+pred: 0-2.0.r254/17
+count: 94
+text: 280 78 40 40 00cde727edaec73698a306ccc12edd56
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir 0-2.0.r280/131
+K 4
+tags
+V 18
+dir 1-2.0.r278/564
+K 5
+trunk
+V 19
+dir 2-2.0.r226/2319
+END
+ENDREP
+id: 0.0.r280/396
+type: dir
+pred: 0.0.r279/121
+count: 280
+text: 280 274 109 109 85ba85aae7212e4703e24acccf1b1fd7
+cpath: /
+copyroot: 0 /
+minfo-cnt: 2
+
+_0.0.t279-7y add false false /branches/averkov
+
+
+396 545

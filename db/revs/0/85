@@ -1,0 +1,145 @@
+id: 2-2.1-85.r85/0
+type: dir
+pred: 2-2.0-28.r84/375
+count: 8
+text: 84 321 41 41 0147ab40ffd9b15b5c8c89139116b850
+cpath: /tags/INIT_VERSION/branches/dolmatov/trunk
+copyfrom: 84 /tags/INIT_VERSION/trunk
+
+PLAIN
+K 6
+README
+V 20
+file 0-1.0-51.r84/90
+K 5
+trunk
+V 18
+dir 2-2.1-85.r85/0
+END
+ENDREP
+id: 2-2.0-85.r85/290
+type: dir
+pred: 2-2.0-28.r84/375
+count: 8
+text: 85 202 75 75 21ad653093445122722482fdc6e500fb
+cpath: /tags/INIT_VERSION/branches/dolmatov
+copyfrom: 84 /tags/INIT_VERSION/trunk
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-47.r50/489
+K 8
+apavlova
+V 21
+dir 2-2.0-63.r66/2050
+K 8
+dolmatov
+V 20
+dir 2-2.0-85.r85/290
+K 7
+ermakov
+V 20
+dir 2-2.0-67.r70/125
+K 8
+ermishin
+V 20
+dir 2-2.0-71.r75/180
+K 6
+kuzmin
+V 19
+dir 2-2.0-81.r83/99
+K 7
+sazonov
+V 20
+dir 3-52.0-3.r56/361
+K 6
+shvarc
+V 20
+dir 3-76.0-3.r79/131
+K 3
+sz2
+V 20
+dir 2-2.0-57.r62/128
+END
+ENDREP
+id: 2-47.0-3.r85/844
+type: dir
+pred: 2-47.0-3.r83/622
+count: 35
+text: 85 488 343 343 7f5e07ba8de100bb02432673552115cc
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 20
+dir 2-47.0-3.r85/844
+K 5
+trunk
+V 20
+dir 2-2.0-28.r84/375
+END
+ENDREP
+id: 2-2.0-3.r85/1155
+type: dir
+pred: 2-2.0-3.r84/687
+count: 41
+text: 85 1029 113 113 eb8f4c7592ec28ceb49ebc79b260c1a4
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 20
+dir 2-2.0-3.r85/1155
+END
+ENDREP
+id: 1-2.0.r85/1392
+type: dir
+pred: 1-2.0.r84/921
+count: 41
+text: 85 1331 48 48 47d7b481fc3701536721e26dd3c1e6d4
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 17
+dir 0-2.0.r44/637
+K 4
+tags
+V 18
+dir 1-2.0.r85/1392
+K 5
+trunk
+V 17
+dir 2-2.0.r45/346
+END
+ENDREP
+id: 0.0.r85/1685
+type: dir
+pred: 0.0.r84/1212
+count: 85
+text: 85 1532 140 140 5fe03b90602977418ce179c27127d36f
+cpath: /
+copyroot: 0 /
+
+2-2._0.t84-2c add false false /tags/INIT_VERSION/branches/dolmatov
+84 /tags/INIT_VERSION/trunk
+2-2._1.t84-2c add false false /tags/INIT_VERSION/branches/dolmatov/trunk
+84 /tags/INIT_VERSION/trunk
+
+1685 1820

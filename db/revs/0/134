@@ -1,0 +1,224 @@
+PLAIN
+K 8
+Makefile
+V 28
+file 1-132.0-131.r132/427293
+K 4
+auto
+V 27
+dir 3-132.0-131.r132/441727
+K 13
+factorial.cpp
+V 29
+file 1f-132.0-131.r132/441937
+K 5
+file1
+V 29
+file 1g-132.0-131.r132/442156
+K 5
+file2
+V 29
+file 1h-132.0-131.r132/442364
+K 11
+functions.h
+V 29
+file 1i-132.0-131.r132/442572
+K 9
+hello.cpp
+V 29
+file 1k-132.0-131.r132/443149
+K 8
+main.cpp
+V 29
+file 1l-132.0-131.r132/443363
+END
+ENDREP
+id: 0-132.0-131.r134/399
+type: dir
+pred: 0-132.0-131.r132/444075
+count: 1
+text: 134 0 386 386 7223acba066e8c7adb2325d0220e29b2
+cpath: /tags/INIT_VERSION/branches/aovchinn/1
+copyroot: 131 /tags/INIT_VERSION/branches/aovchinn
+
+PLAIN
+K 1
+1
+V 24
+dir 0-132.0-131.r134/399
+K 1
+2
+V 28
+dir 1m-132.0-131.r132/444554
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 21
+dir 2-47.0-3.r130/831
+K 8
+somefile
+V 24
+file 0-133.0-131.r133/17
+K 5
+trunk
+V 22
+dir 2-2.0-28.r121/4070
+END
+ENDREP
+id: 2-2.0-131.r134/872
+type: dir
+pred: 2-2.0-131.r133/466
+count: 73
+text: 134 624 235 235 7aa7041cdeeae1107f756be98e875111
+cpath: /tags/INIT_VERSION/branches/aovchinn
+copyroot: 131 /tags/INIT_VERSION/branches/aovchinn
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-121.r121/0
+K 8
+aovchinn
+V 22
+dir 2-2.0-131.r134/872
+K 8
+apavlova
+V 22
+dir 2-2.1-121.r121/211
+K 5
+bulat
+V 24
+dir 3-104.2-121.r121/429
+K 8
+dolmatov
+V 22
+dir 2-2.3-121.r121/641
+K 7
+ermakov
+V 22
+dir 2-2.4-121.r121/857
+K 8
+ermishin
+V 23
+dir 2-2.5-121.r121/1069
+K 8
+grablevs
+V 23
+dir 2-2.6-121.r121/1284
+K 8
+kolesnik
+V 24
+dir 3-94.7-121.r121/1498
+K 8
+kukushki
+V 24
+dir 3-90.8-121.r121/1713
+K 6
+kuzmin
+V 23
+dir 2-2.9-121.r121/1925
+K 8
+marcinke
+V 23
+dir 2-2.a-121.r121/2133
+K 7
+sazonov
+V 24
+dir 3-52.b-121.r121/2349
+K 6
+shvarc
+V 24
+dir 3-76.c-121.r121/2564
+K 3
+sz2
+V 23
+dir 2-2.d-121.r121/2775
+K 8
+vorobeva
+V 20
+dir 2-2.0-130.r130/0
+END
+ENDREP
+id: 2-47.0-3.r134/1760
+type: dir
+pred: 2-47.0-3.r133/1357
+count: 65
+text: 134 1091 656 656 126032ccda77014b81747a6ba00d7012
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 22
+dir 2-47.0-3.r134/1760
+K 5
+trunk
+V 22
+dir 2-2.0-28.r121/4070
+END
+ENDREP
+id: 2-2.0-3.r134/2081
+type: dir
+pred: 2-2.0-3.r133/1679
+count: 73
+text: 134 1951 117 117 4fa851f138da0fe608402734dcefeba9
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 21
+dir 2-2.0-3.r134/2081
+END
+ENDREP
+id: 1-2.0.r134/2323
+type: dir
+pred: 1-2.0.r133/1923
+count: 73
+text: 134 2261 49 49 6c7b263e35eabc746665df6a047e6fb6
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 19
+dir 0-2.0.r129/1304
+K 4
+tags
+V 19
+dir 1-2.0.r134/2323
+K 5
+trunk
+V 18
+dir 2-2.0.r118/397
+END
+ENDREP
+id: 0.0.r134/2624
+type: dir
+pred: 0.0.r133/2226
+count: 134
+text: 134 2467 144 144 65d95d27b8aa17a675fb83822907bb1e
+cpath: /
+copyroot: 0 /
+
+2-132.0-131.r132/427574 delete false false /tags/INIT_VERSION/branches/aovchinn/1/archive.tar.gz
+
+1j-132.0-131.r132/442879 delete false false /tags/INIT_VERSION/branches/aovchinn/1/hello
+
+
+2624 2763

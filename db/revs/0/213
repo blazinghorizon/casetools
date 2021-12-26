@@ -1,0 +1,169 @@
+PLAIN
+K 8
+Makefile
+V 29
+file 1d-211.0-211.r211/547374
+K 8
+client.c
+V 29
+file 1e-211.0-211.r211/547555
+K 4
+dist
+V 28
+dir 1f-211.0-211.r211/549888
+K 6
+exit.c
+V 29
+file 1o-211.0-211.r211/550065
+K 9
+file1.txt
+V 29
+file 1p-211.0-211.r211/550245
+K 9
+file2.txt
+V 29
+file 1q-211.0-211.r211/550427
+K 4
+func
+V 29
+file 1r-211.0-211.r211/550610
+K 6
+func.h
+V 29
+file 1s-211.0-211.r211/550786
+K 6
+manual
+V 29
+file 1t-211.0-211.r211/550966
+K 6
+nick.c
+V 29
+file 1u-211.0-211.r211/551146
+K 8
+task.tar
+V 29
+file 1v-211.0-211.r211/551390
+END
+ENDREP
+id: 1c-211.0-211.r213/530
+type: dir
+pred: 1c-211.0-211.r212/932
+count: 2
+text: 213 0 517 517 023fbf7268a6a87a79053309adae23af
+cpath: /branches/akobeleva/Man
+copyroot: 211 /branches/akobeleva
+
+PLAIN
+K 9
+Autotools
+V 27
+dir 0-211.0-211.r211/547195
+K 3
+Man
+V 25
+dir 1c-211.0-211.r213/530
+K 6
+README
+V 26
+file 0-1.1-211.r211/552334
+END
+ENDREP
+id: 2-2.0-211.r213/868
+type: dir
+pred: 2-2.0-211.r212/1275
+count: 18
+text: 213 722 133 133 d72cbfee712c39fc2e18df2aba0a26bf
+props: 137 1584 98 98 2258ee635d8b2b9e892afefc31d041bc
+cpath: /branches/akobeleva
+copyroot: 211 /branches/akobeleva
+minfo-cnt: 2
+minfo-here: y
+
+PLAIN
+K 9
+akobeleva
+V 22
+dir 2-2.0-211.r213/868
+K 9
+avdovenko
+V 21
+dir 2-2.0-34.r36/1301
+K 7
+dfrolov
+V 22
+dir 2-2.0-29.r30/44928
+K 7
+firsova
+V 23
+dir 2-2.0-180.r184/2715
+K 5
+isaev
+V 20
+dir 2-2.0-11.r23/890
+K 6
+kataev
+V 20
+dir 2-2.0-40.r44/178
+K 8
+kirpiche
+V 18
+dir 2-2.0-4.r9/368
+K 23
+pocenkovskaya_podkopaev
+V 22
+dir 2-2.0-117.r129/705
+K 8
+shmatkov
+V 21
+dir 1-38.0.r38/843505
+K 10
+spodkopaev
+V 22
+dir 2-2.0-111.r115/638
+K 9
+vdmitriev
+V 19
+dir 0-15.0.r26/1469
+END
+ENDREP
+id: 0-2.0.r213/1607
+type: dir
+pred: 0-2.0.r212/2019
+count: 63
+text: 213 1136 458 458 0be5d41db90b307ed667da2af40ba78d
+cpath: /branches
+copyroot: 0 /
+minfo-cnt: 4
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 19
+dir 0-2.0.r213/1607
+K 4
+tags
+V 19
+dir 1-2.0.r210/1785
+K 5
+trunk
+V 18
+dir 2-2.0.r197/387
+END
+ENDREP
+id: 0.0.r213/1927
+type: dir
+pred: 0.0.r212/2341
+count: 213
+text: 213 1770 144 144 fea663919287e750c996b53a943e0bf7
+cpath: /
+copyroot: 0 /
+minfo-cnt: 6
+
+0-212.0-211.r212/144 delete false false /branches/akobeleva/Man/add
+
+
+1927 2079

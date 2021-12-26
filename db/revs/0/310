@@ -1,0 +1,94 @@
+PLAIN
+K 8
+Makefile
+V 23
+file 1-308.0.r308/11993
+K 5
+hello
+V 23
+file 3-308.0.r308/12497
+K 7
+hello.c
+V 23
+file 4-308.0.r308/12702
+K 7
+hello.h
+V 23
+file 5-308.0.r308/12850
+K 4
+main
+V 23
+file 6-308.0.r308/13087
+K 6
+main.c
+V 23
+file 7-308.0.r308/13291
+K 11
+manfile.txt
+V 20
+file 8-308.0.r309/45
+END
+ENDREP
+id: 0-308.0.r310/301
+type: dir
+pred: 0-308.0.r309/558
+count: 2
+text: 310 0 288 288 a0671b665d3e36cd24f155b8c2fe728f
+cpath: /branches/ugryumov
+copyroot: 0 /
+
+PLAIN
+K 7
+averkov
+V 20
+dir 0-280.0.r286/323
+K 5
+fomin
+V 22
+dir 2-2.0-299.r301/744
+K 7
+sarbaev
+V 20
+dir 2-2.0-295.r295/0
+K 8
+ugryumov
+V 20
+dir 0-308.0.r310/301
+END
+ENDREP
+id: 0-2.0.r310/628
+type: dir
+pred: 0-2.0.r309/889
+count: 116
+text: 310 458 157 157 e3a5e3235c8db30d2fbecc616ca20c02
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir 0-2.0.r310/628
+K 4
+tags
+V 18
+dir 1-2.0.r298/287
+K 5
+trunk
+V 18
+dir 2-2.0.r302/389
+END
+ENDREP
+id: 0.0.r310/897
+type: dir
+pred: 0.0.r309/1160
+count: 310
+text: 310 776 108 108 85ee539df6cfea49c23694223ba5eaca
+cpath: /
+copyroot: 0 /
+minfo-cnt: 2
+
+2-308.0.r308/12198 delete false false /branches/ugryumov/dist.zip
+
+
+897 1047

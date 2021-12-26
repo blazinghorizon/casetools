@@ -1,0 +1,84 @@
+PLAIN
+K 9
+akobeleva
+V 22
+dir 2-2.0-211.r217/184
+K 9
+avdovenko
+V 21
+dir 2-2.0-34.r36/1301
+K 7
+dfrolov
+V 22
+dir 2-2.0-29.r30/44928
+K 7
+firsova
+V 23
+dir 2-2.0-180.r184/2715
+K 5
+isaev
+V 20
+dir 2-2.0-11.r23/890
+K 8
+kirpiche
+V 18
+dir 2-2.0-4.r9/368
+K 23
+pocenkovskaya_podkopaev
+V 22
+dir 2-2.0-117.r129/705
+K 8
+shmatkov
+V 21
+dir 1-38.0.r38/843505
+K 10
+spodkopaev
+V 22
+dir 2-2.0-111.r115/638
+K 9
+vdmitriev
+V 19
+dir 0-15.0.r26/1469
+END
+ENDREP
+id: 0-2.0.r244/434
+type: dir
+pred: 0-2.0.r243/475
+count: 83
+text: 244 0 421 421 1624acb752a5ecba40f463ed0ec28e40
+cpath: /branches
+copyroot: 0 /
+minfo-cnt: 4
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 18
+dir 0-2.0.r244/434
+K 4
+tags
+V 19
+dir 1-2.0.r241/2228
+K 5
+trunk
+V 19
+dir 2-2.0.r226/2319
+END
+ENDREP
+id: 0.0.r244/749
+type: dir
+pred: 0.0.r243/791
+count: 244
+text: 244 592 144 144 ca0968492eb5c9810d22e4dd4d7bc345
+cpath: /
+copyroot: 0 /
+minfo-cnt: 6
+
+2-2.0-218.r237/669 delete false false /branches/belyakov
+
+
+749 898

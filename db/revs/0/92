@@ -1,0 +1,139 @@
+PLAIN
+K 3
+Ant
+V 22
+dir 5-90.0-3.r90/11996
+K 8
+Makefile
+V 22
+dir c-90.0-3.r90/15301
+END
+ENDREP
+id: 3-90.0-3.r92/94
+type: dir
+pred: 3-90.0-3.r91/417
+count: 2
+text: 92 0 81 81 7612b0fa939f38adb04869a8373511bf
+cpath: /tags/INIT_VERSION/branches/kukushki
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-47.r50/489
+K 8
+apavlova
+V 21
+dir 2-2.0-63.r66/2050
+K 8
+dolmatov
+V 20
+dir 2-2.0-85.r89/509
+K 7
+ermakov
+V 20
+dir 2-2.0-67.r70/125
+K 8
+ermishin
+V 20
+dir 2-2.0-71.r75/180
+K 8
+kukushki
+V 19
+dir 3-90.0-3.r92/94
+K 6
+kuzmin
+V 19
+dir 2-2.0-81.r83/99
+K 7
+sazonov
+V 20
+dir 3-52.0-3.r56/361
+K 6
+shvarc
+V 20
+dir 3-76.0-3.r79/131
+K 3
+sz2
+V 20
+dir 2-2.0-57.r62/128
+END
+ENDREP
+id: 2-47.0-3.r92/676
+type: dir
+pred: 2-47.0-3.r91/1007
+count: 42
+text: 92 282 381 381 08d6433be63a8b5aca01d2f834b737d3
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 20
+dir 2-47.0-3.r92/676
+K 5
+trunk
+V 20
+dir 2-2.0-28.r84/375
+END
+ENDREP
+id: 2-2.0-3.r92/988
+type: dir
+pred: 2-2.0-3.r91/1322
+count: 48
+text: 92 862 113 113 97ebe668992b3c95b7f57c26fbbe0742
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 19
+dir 2-2.0-3.r92/988
+END
+ENDREP
+id: 1-2.0.r92/1223
+type: dir
+pred: 1-2.0.r91/1561
+count: 48
+text: 92 1163 47 47 2e7dcccef3b1c187068540fac363f895
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 17
+dir 0-2.0.r44/637
+K 4
+tags
+V 18
+dir 1-2.0.r92/1223
+K 5
+trunk
+V 17
+dir 2-2.0.r45/346
+END
+ENDREP
+id: 0.0.r92/1517
+type: dir
+pred: 0.0.r91/1856
+count: 92
+text: 92 1364 140 140 fc01faf4ba62db351b3614e803603460
+cpath: /
+copyroot: 0 /
+
+4-91.0-3.r91/107 delete false false /tags/INIT_VERSION/branches/kukushki/Help.txt
+
+
+1517 1652

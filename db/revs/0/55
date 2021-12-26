@@ -1,0 +1,111 @@
+PLAIN
+K 4
+Gant
+V 22
+dir 5-52.0-3.r52/11967
+K 3
+car
+V 22
+dir 7-52.0-3.r52/12814
+K 5
+hello
+V 20
+dir d-52.0-3.r53/433
+END
+ENDREP
+id: 3-52.0-3.r55/126
+type: dir
+pred: 3-52.0-3.r54/360
+count: 3
+text: 55 0 113 113 ef3b608662c150faab5fa53c15bb8485
+cpath: /tags/INIT_VERSION/branches/sazonov
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-47.r50/489
+K 7
+sazonov
+V 20
+dir 3-52.0-3.r55/126
+END
+ENDREP
+id: 2-47.0-3.r55/409
+type: dir
+pred: 2-47.0-3.r54/645
+count: 7
+text: 55 316 80 80 b1b042fec5f0ebcb3cac25dc41238d8d
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 20
+dir 2-47.0-3.r55/409
+K 5
+trunk
+V 20
+dir 2-2.0-28.r51/477
+END
+ENDREP
+id: 2-2.0-3.r55/717
+type: dir
+pred: 2-2.0-3.r54/954
+count: 11
+text: 55 591 113 113 5ccab913bde2003177ee0a4dd6c5a361
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 19
+dir 2-2.0-3.r55/717
+END
+ENDREP
+id: 1-2.0.r55/951
+type: dir
+pred: 1-2.0.r54/1189
+count: 11
+text: 55 891 47 47 2651f0a7398e08c6c34d8ef9929b3eb4
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 17
+dir 0-2.0.r44/637
+K 4
+tags
+V 17
+dir 1-2.0.r55/951
+K 5
+trunk
+V 17
+dir 2-2.0.r45/346
+END
+ENDREP
+id: 0.0.r55/1242
+type: dir
+pred: 0.0.r54/1483
+count: 55
+text: 55 1090 139 139 a681bc70b6fdc5fc93a2934bb53879b5
+cpath: /
+copyroot: 0 /
+
+4-54.0-3.r54/32 delete false false /tags/INIT_VERSION/branches/sazonov/abc
+
+
+1242 1377

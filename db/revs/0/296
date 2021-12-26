@@ -1,0 +1,81 @@
+PLAIN
+K 12
+tvorobusheck
+V 22
+dir 2-2.0-289.r290/322
+END
+ENDREP
+id: 2-47.0-3.r296/63
+type: dir
+pred: 2-47.0-3.r294/298
+count: 149
+text: 296 0 50 50 0e0530530b8769ad1b185178e1579928
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 20
+dir 2-47.0-3.r296/63
+K 5
+trunk
+V 21
+dir 2-2.0-28.r291/670
+END
+ENDREP
+id: 2-2.0-3.r296/374
+type: dir
+pred: 2-2.0-3.r294/613
+count: 171
+text: 296 247 114 114 1492f5f66e87983fe53f83ed152726cd
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 20
+dir 2-2.0-3.r296/374
+END
+ENDREP
+id: 1-2.0.r296/613
+type: dir
+pred: 1-2.0.r294/852
+count: 171
+text: 296 552 48 48 00d4199680e796f1010250e193abe2d5
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir 0-2.0.r295/272
+K 4
+tags
+V 18
+dir 1-2.0.r296/613
+K 5
+trunk
+V 19
+dir 2-2.0.r226/2319
+END
+ENDREP
+id: 0.0.r296/877
+type: dir
+pred: 0.0.r295/539
+count: 296
+text: 296 755 109 109 d1cea7d5c9b67fb07bc0acda5b642b21
+cpath: /
+copyroot: 0 /
+minfo-cnt: 2
+
+2-2.0-294.r294/0 delete false false /tags/INIT_VERSION/branches/sarbaev
+
+
+877 1026

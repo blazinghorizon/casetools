@@ -1,0 +1,109 @@
+PLAIN
+K 8
+dolmatov
+V 22
+dir 2-2.3-121.r121/641
+K 6
+kuzmin
+V 23
+dir 2-2.9-121.r121/1925
+K 7
+sazonov
+V 24
+dir 3-52.b-121.r121/2349
+K 6
+shvarc
+V 24
+dir 3-76.c-121.r121/2564
+K 8
+skuratov
+V 22
+dir 2-2.0-203.r207/441
+K 8
+vepifano
+V 21
+dir 2-2.0-208.r210/56
+K 8
+vorobeva
+V 20
+dir 2-2.0-130.r130/0
+END
+ENDREP
+id: 2-47.0-3.r271/301
+type: dir
+pred: 2-47.0-3.r270/343
+count: 138
+text: 271 0 288 288 fa0c8c8e26428bb52be41576785e3884
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 21
+dir 2-47.0-3.r271/301
+K 5
+trunk
+V 21
+dir 2-2.0-28.r232/402
+END
+ENDREP
+id: 2-2.0-3.r271/616
+type: dir
+pred: 2-2.0-3.r270/658
+count: 159
+text: 271 488 115 115 44c6518e82c3721fd3f3f6045f76a966
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 20
+dir 2-2.0-3.r271/616
+END
+ENDREP
+id: 1-2.0.r271/855
+type: dir
+pred: 1-2.0.r270/897
+count: 159
+text: 271 794 48 48 ae13e381ae8836ca0f0da6af30758bf9
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 17
+dir 0-2.0.r254/17
+K 4
+tags
+V 18
+dir 1-2.0.r271/855
+K 5
+trunk
+V 19
+dir 2-2.0.r226/2319
+END
+ENDREP
+id: 0.0.r271/1152
+type: dir
+pred: 0.0.r270/1194
+count: 271
+text: 271 997 142 142 a6f2051f0669d6176bc7cda4ac5fe1ed
+cpath: /
+copyroot: 0 /
+minfo-cnt: 2
+
+2-2.6-121.r121/1284 delete false false /tags/INIT_VERSION/branches/grablevs
+
+
+1152 1303

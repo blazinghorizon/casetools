@@ -1,0 +1,95 @@
+id: 2-2.0-180.r180/0
+type: dir
+pred: 2-2.0.r170/627
+count: 14
+text: 170 572 42 42 ca44cca3f4ea3f1f12d7b581917d2299
+props: 137 1584 98 98 2258ee635d8b2b9e892afefc31d041bc
+cpath: /branches/firsova
+copyfrom: 179 /trunk
+minfo-cnt: 2
+minfo-here: y
+
+PLAIN
+K 9
+avdovenko
+V 21
+dir 2-2.0-34.r36/1301
+K 7
+dfrolov
+V 22
+dir 2-2.0-29.r30/44928
+K 7
+firsova
+V 20
+dir 2-2.0-180.r180/0
+K 5
+isaev
+V 20
+dir 2-2.0-11.r23/890
+K 6
+kataev
+V 20
+dir 2-2.0-40.r44/178
+K 8
+kirpiche
+V 18
+dir 2-2.0-4.r9/368
+K 23
+pocenkovskaya_podkopaev
+V 22
+dir 2-2.0-117.r129/705
+K 8
+shmatkov
+V 21
+dir 1-38.0.r38/843505
+K 10
+spodkopaev
+V 22
+dir 2-2.0-111.r115/638
+K 9
+vdmitriev
+V 19
+dir 0-15.0.r26/1469
+END
+ENDREP
+id: 0-2.0.r180/670
+type: dir
+pred: 0-2.0.r179/388
+count: 56
+text: 180 244 413 413 5c1c765222041e9b3cb4e8f29c8ca671
+cpath: /branches
+copyroot: 0 /
+minfo-cnt: 2
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 18
+dir 0-2.0.r180/670
+K 4
+tags
+V 19
+dir 1-2.0.r178/1767
+K 5
+trunk
+V 18
+dir 2-2.0.r170/627
+END
+ENDREP
+id: 0.0.r180/986
+type: dir
+pred: 0.0.r179/690
+count: 180
+text: 180 830 143 143 771241d615712ce8c55964a85933d76d
+cpath: /
+copyroot: 0 /
+minfo-cnt: 4
+
+2-2._0.t179-51 add false false /branches/firsova
+179 /trunk
+
+986 1135

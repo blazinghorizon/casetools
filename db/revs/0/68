@@ -1,0 +1,125 @@
+id: 4-68.0-67.r68/0
+type: dir
+count: 0
+cpath: /tags/INIT_VERSION/branches/ermakov/ant
+copyroot: 67 /tags/INIT_VERSION/branches/ermakov
+
+PLAIN
+K 6
+README
+V 21
+file 0-1.0-51.r57/932
+K 3
+ant
+V 19
+dir 4-68.0-67.r68/0
+END
+ENDREP
+id: 2-2.0-67.r68/224
+type: dir
+pred: 2-2.0-67.r67/0
+count: 7
+text: 68 136 75 75 5c239924236e0ec03ebe71b74729d701
+cpath: /tags/INIT_VERSION/branches/ermakov
+copyroot: 67 /tags/INIT_VERSION/branches/ermakov
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-47.r50/489
+K 8
+apavlova
+V 21
+dir 2-2.0-63.r66/2050
+K 7
+ermakov
+V 20
+dir 2-2.0-67.r68/224
+K 7
+sazonov
+V 20
+dir 3-52.0-3.r56/361
+K 3
+sz2
+V 20
+dir 2-2.0-57.r62/128
+END
+ENDREP
+id: 2-47.0-3.r68/635
+type: dir
+pred: 2-47.0-3.r67/400
+count: 20
+text: 68 430 192 192 eab4b146a7acebef7a7efa5f0369ef8b
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 20
+dir 2-47.0-3.r68/635
+K 5
+trunk
+V 21
+dir 2-2.0-28.r57/1220
+END
+ENDREP
+id: 2-2.0-3.r68/947
+type: dir
+pred: 2-2.0-3.r67/713
+count: 24
+text: 68 820 114 114 1553c4d7a9ebbcaefcb90d15fcc3af39
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 19
+dir 2-2.0-3.r68/947
+END
+ENDREP
+id: 1-2.0.r68/1181
+type: dir
+pred: 1-2.0.r67/948
+count: 24
+text: 68 1121 47 47 1bff21f496eaf3c911ac6b742ebc01e4
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 17
+dir 0-2.0.r44/637
+K 4
+tags
+V 18
+dir 1-2.0.r68/1181
+K 5
+trunk
+V 17
+dir 2-2.0.r45/346
+END
+ENDREP
+id: 0.0.r68/1474
+type: dir
+pred: 0.0.r67/1239
+count: 68
+text: 68 1321 140 140 d10f39bf5e546fc4b2f2df67d0c4d8b3
+cpath: /
+copyroot: 0 /
+
+_4.0-67.t67-1v add false false /tags/INIT_VERSION/branches/ermakov/ant
+
+
+1474 1609

@@ -1,0 +1,59 @@
+id: 2-2.0-299.r299/0
+type: dir
+pred: 2-2.0-3.r298/51
+count: 174
+text: 298 0 38 38 ef1d9766ef1a9f038c65c013762bc9a5
+cpath: /branches/fomin
+copyfrom: 298 /tags/INIT_VERSION
+
+PLAIN
+K 7
+averkov
+V 20
+dir 0-280.0.r286/323
+K 5
+fomin
+V 20
+dir 2-2.0-299.r299/0
+K 7
+sarbaev
+V 20
+dir 2-2.0-295.r295/0
+END
+ENDREP
+id: 0-2.0.r299/301
+type: dir
+pred: 0-2.0.r295/272
+count: 106
+text: 299 172 116 116 6c55ab82efada5ae0a5c1f7025744f9a
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir 0-2.0.r299/301
+K 4
+tags
+V 18
+dir 1-2.0.r298/287
+K 5
+trunk
+V 19
+dir 2-2.0.r226/2319
+END
+ENDREP
+id: 0.0.r299/571
+type: dir
+pred: 0.0.r298/554
+count: 299
+text: 299 449 109 109 c175189f57f180c824628f9b3168fdf5
+cpath: /
+copyroot: 0 /
+minfo-cnt: 2
+
+2-2._0.t298-8j add false false /branches/fomin
+298 /tags/INIT_VERSION
+
+571 720

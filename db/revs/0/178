@@ -1,0 +1,184 @@
+PLAIN
+K 6
+README
+V 28
+file 0-1.0-177.r177/13628752
+K 3
+pr1
+V 29
+dir 0-177.0-176.r177/13633003
+K 3
+pr2
+V 29
+dir f-177.0-176.r177/13846390
+K 5
+trunk
+V 22
+dir 2-2.0-28.r121/4070
+END
+ENDREP
+id: 2-2.0-176.r178/186
+type: dir
+pred: 2-2.0-176.r177/13846822
+count: 108
+text: 178 0 173 173 09613d2c7aa1c51be4547f7d38ab6622
+cpath: /tags/INIT_VERSION/branches/platov
+copyroot: 176 /tags/INIT_VERSION/branches/platov
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-121.r121/0
+K 8
+aovchinn
+V 22
+dir 2-2.0-131.r136/603
+K 8
+apavlova
+V 22
+dir 2-2.1-121.r121/211
+K 5
+bulat
+V 24
+dir 3-104.2-121.r121/429
+K 8
+dolmatov
+V 22
+dir 2-2.3-121.r121/641
+K 4
+dyat
+V 22
+dir 2-2.0-164.r169/595
+K 7
+ermakov
+V 22
+dir 2-2.4-121.r121/857
+K 8
+ermishin
+V 23
+dir 2-2.5-121.r121/1069
+K 8
+grablevs
+V 23
+dir 2-2.6-121.r121/1284
+K 11
+klyuchnikov
+V 23
+dir 2-2.0-142.r161/2703
+K 8
+kolesnik
+V 24
+dir 3-94.7-121.r121/1498
+K 8
+kukushki
+V 24
+dir 3-90.8-121.r121/1713
+K 6
+kuzmin
+V 23
+dir 2-2.9-121.r121/1925
+K 8
+marcinke
+V 23
+dir 2-2.a-121.r121/2133
+K 6
+platov
+V 22
+dir 2-2.0-176.r178/186
+K 7
+sazonov
+V 24
+dir 3-52.b-121.r121/2349
+K 6
+shvarc
+V 24
+dir 3-76.c-121.r121/2564
+K 3
+sz2
+V 23
+dir 2-2.d-121.r121/2775
+K 8
+vorobeva
+V 20
+dir 2-2.0-130.r130/0
+END
+ENDREP
+id: 2-47.0-3.r178/1196
+type: dir
+pred: 2-47.0-3.r177/13847842
+count: 92
+text: 178 405 778 778 b91e1295601d07c74249c9b55a1a2f06
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 22
+dir 2-47.0-3.r178/1196
+K 5
+trunk
+V 22
+dir 2-2.0-28.r121/4070
+END
+ENDREP
+id: 2-2.0-3.r178/1520
+type: dir
+pred: 2-2.0-3.r177/13848174
+count: 108
+text: 178 1390 117 117 9fcc22761a2c25cd456223aeb5b7533c
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 21
+dir 2-2.0-3.r178/1520
+END
+ENDREP
+id: 1-2.0.r178/1767
+type: dir
+pred: 1-2.0.r177/13848429
+count: 108
+text: 178 1705 49 49 c17ff74261dab6721a037776531c319d
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 19
+dir 0-2.0.r175/1466
+K 4
+tags
+V 19
+dir 1-2.0.r178/1767
+K 5
+trunk
+V 18
+dir 2-2.0.r170/627
+END
+ENDREP
+id: 0.0.r178/2073
+type: dir
+pred: 0.0.r177/13848743
+count: 178
+text: 178 1916 144 144 fa3f2a92a5e8e28e9ba8435953434de4
+cpath: /
+copyroot: 0 /
+minfo-cnt: 4
+
+2-47.0-3.r169/1559 delete false false /tags/INIT_VERSION/branches/platov/branches
+
+
+2073 2229

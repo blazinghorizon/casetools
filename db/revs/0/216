@@ -1,0 +1,131 @@
+DELTA
+SVNENDREP
+id: 0-216.0-211.r216/17
+type: file
+count: 0
+text: 216 0 4 0 d41d8cd98f00b204e9800998ecf8427e
+cpath: /branches/akobeleva/hello
+copyroot: 211 /branches/akobeleva
+
+PLAIN
+K 9
+Autotools
+V 27
+dir 0-211.0-211.r211/547195
+K 3
+Man
+V 25
+dir 1c-211.0-211.r213/530
+K 6
+README
+V 26
+file 0-1.1-211.r211/552334
+K 5
+hello
+V 24
+file 0-216.0-211.r216/17
+K 3
+log
+V 24
+file 0-215.0-211.r215/17
+END
+ENDREP
+id: 2-2.0-211.r216/402
+type: dir
+pred: 2-2.0-211.r215/360
+count: 20
+text: 216 178 211 211 32f6c131035340c68ce13a9ee97ca56e
+props: 137 1584 98 98 2258ee635d8b2b9e892afefc31d041bc
+cpath: /branches/akobeleva
+copyroot: 211 /branches/akobeleva
+minfo-cnt: 2
+minfo-here: y
+
+PLAIN
+K 9
+akobeleva
+V 22
+dir 2-2.0-211.r216/402
+K 9
+avdovenko
+V 21
+dir 2-2.0-34.r36/1301
+K 7
+dfrolov
+V 22
+dir 2-2.0-29.r30/44928
+K 7
+firsova
+V 23
+dir 2-2.0-180.r184/2715
+K 5
+isaev
+V 20
+dir 2-2.0-11.r23/890
+K 6
+kataev
+V 20
+dir 2-2.0-40.r44/178
+K 8
+kirpiche
+V 18
+dir 2-2.0-4.r9/368
+K 23
+pocenkovskaya_podkopaev
+V 22
+dir 2-2.0-117.r129/705
+K 8
+shmatkov
+V 21
+dir 1-38.0.r38/843505
+K 10
+spodkopaev
+V 22
+dir 2-2.0-111.r115/638
+K 9
+vdmitriev
+V 19
+dir 0-15.0.r26/1469
+END
+ENDREP
+id: 0-2.0.r216/1140
+type: dir
+pred: 0-2.0.r215/1098
+count: 65
+text: 216 669 458 458 0e1d2c198ba6a5d127b65669510d2060
+cpath: /branches
+copyroot: 0 /
+minfo-cnt: 4
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 19
+dir 0-2.0.r216/1140
+K 4
+tags
+V 19
+dir 1-2.0.r210/1785
+K 5
+trunk
+V 18
+dir 2-2.0.r214/726
+END
+ENDREP
+id: 0.0.r216/1459
+type: dir
+pred: 0.0.r215/1417
+count: 216
+text: 216 1302 144 144 1fe4a20561e23908206f8baeb74c1356
+cpath: /
+copyroot: 0 /
+minfo-cnt: 6
+
+_0.0-211.t215-64 add true false /branches/akobeleva/hello
+
+
+1459 1611

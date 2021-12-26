@@ -1,0 +1,55 @@
+id: 2-2.0-295.r295/0
+type: dir
+pred: 2-2.0-3.r294/613
+count: 171
+text: 294 485 115 115 8498e8bc44799f4b1a68ec92b1514955
+cpath: /branches/sarbaev
+copyfrom: 294 /tags/INIT_VERSION
+
+PLAIN
+K 7
+averkov
+V 20
+dir 0-280.0.r286/323
+K 7
+sarbaev
+V 20
+dir 2-2.0-295.r295/0
+END
+ENDREP
+id: 0-2.0.r295/272
+type: dir
+pred: 0-2.0.r293/55
+count: 105
+text: 295 179 80 80 85b0d9e4f6258fe5ba6b654e37cc61ae
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir 0-2.0.r295/272
+K 4
+tags
+V 18
+dir 1-2.0.r294/852
+K 5
+trunk
+V 19
+dir 2-2.0.r226/2319
+END
+ENDREP
+id: 0.0.r295/539
+type: dir
+pred: 0.0.r294/1116
+count: 295
+text: 295 417 109 109 a674640d59fe9ec0c0c53e31650c34e3
+cpath: /
+copyroot: 0 /
+minfo-cnt: 2
+
+2-2._0.t294-8f add false false /branches/sarbaev
+294 /tags/INIT_VERSION
+
+539 689

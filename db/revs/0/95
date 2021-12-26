@@ -1,0 +1,199 @@
+DELTA
+SVNENDREP
+id: 5-95.0-3.r95/17
+type: file
+count: 0
+text: 95 0 4 0 d41d8cd98f00b204e9800998ecf8427e
+cpath: /tags/INIT_VERSION/branches/kolesnik/src/2.txt
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 1
+1
+V 22
+dir p-94.0-3.r94/50303
+K 5
+1.txt
+V 23
+file t-94.0-3.r94/50481
+K 7
+123.xml
+V 23
+file u-94.0-3.r94/50662
+K 5
+2.txt
+V 20
+file 5-95.0-3.r95/17
+K 15
+HelloWorld.java
+V 23
+file v-94.0-3.r94/50848
+K 5
+build
+V 22
+dir w-94.0-3.r94/52548
+K 9
+build.xml
+V 24
+file 16-94.0-3.r94/52730
+K 4
+docs
+V 23
+dir 17-94.0-3.r94/58488
+K 3
+src
+V 23
+dir 1v-94.0-3.r94/58940
+END
+ENDREP
+id: o-94.0-3.r95/565
+type: dir
+pred: o-94.0-3.r94/59459
+count: 1
+text: 95 191 361 361 059ecd2642ade2ab644d27cb406d4cfc
+cpath: /tags/INIT_VERSION/branches/kolesnik/src
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 7
+gnumake
+V 22
+dir 5-94.0-3.r94/49736
+K 3
+src
+V 20
+dir o-94.0-3.r95/565
+END
+ENDREP
+id: 3-94.0-3.r95/855
+type: dir
+pred: 3-94.0-3.r94/59730
+count: 1
+text: 95 764 78 78 299b5b6addda590172d045c2e0ecf340
+cpath: /tags/INIT_VERSION/branches/kolesnik
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-47.r50/489
+K 8
+apavlova
+V 21
+dir 2-2.0-63.r66/2050
+K 8
+dolmatov
+V 20
+dir 2-2.0-85.r89/509
+K 7
+ermakov
+V 20
+dir 2-2.0-67.r70/125
+K 8
+ermishin
+V 20
+dir 2-2.0-71.r75/180
+K 8
+kolesnik
+V 20
+dir 3-94.0-3.r95/855
+K 8
+kukushki
+V 19
+dir 3-90.0-3.r92/94
+K 6
+kuzmin
+V 19
+dir 2-2.0-81.r83/99
+K 7
+sazonov
+V 20
+dir 3-52.0-3.r56/361
+K 6
+shvarc
+V 20
+dir 3-76.0-3.r79/131
+K 3
+sz2
+V 20
+dir 2-2.0-57.r62/128
+END
+ENDREP
+id: 2-47.0-3.r95/1481
+type: dir
+pred: 2-47.0-3.r94/60337
+count: 44
+text: 95 1048 420 420 f51b422ea5d5324b1c8adc1e973a2ed1
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 21
+dir 2-47.0-3.r95/1481
+K 5
+trunk
+V 20
+dir 2-2.0-28.r93/637
+END
+ENDREP
+id: 2-2.0-3.r95/1797
+type: dir
+pred: 2-2.0-3.r94/60654
+count: 51
+text: 95 1670 114 114 1082f043bfeea328c634671681d11544
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 20
+dir 2-2.0-3.r95/1797
+END
+ENDREP
+id: 1-2.0.r95/2036
+type: dir
+pred: 1-2.0.r94/60894
+count: 51
+text: 95 1975 48 48 98da2242ca4d5b172304bfa5ced76a2d
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 17
+dir 0-2.0.r44/637
+K 4
+tags
+V 18
+dir 1-2.0.r95/2036
+K 5
+trunk
+V 17
+dir 2-2.0.r45/346
+END
+ENDREP
+id: 0.0.r95/2331
+type: dir
+pred: 0.0.r94/61191
+count: 95
+text: 95 2178 140 140 0d8f59bdddfff0bc8e08f4936b905193
+cpath: /
+copyroot: 0 /
+
+_5.0-3.t94-2m add true false /tags/INIT_VERSION/branches/kolesnik/src/2.txt
+
+
+2331 2467

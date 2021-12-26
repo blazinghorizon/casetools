@@ -1,0 +1,141 @@
+id: 3-125.0-126.r126/0
+type: file
+pred: 3-125.1-117.r125/109
+count: 1
+text: 125 0 53 41 40b842d8677535568e46b75b3dde1195
+props: 125 66 30 0 4160c74de5f4e580dc15660c798ff9fc
+cpath: /branches/pocenkovskaya_podkopaev/branches/version_0.1/hello.py
+copyfrom: 125 /branches/pocenkovskaya_podkopaev/trunk/hello.py
+
+PLAIN
+K 8
+hello.py
+V 23
+file 3-125.0-126.r126/0
+END
+ENDREP
+id: 3-126.0-117.r126/367
+type: dir
+count: 0
+text: 126 308 46 0 559b174f91f08c3ce3d80807c23e2650
+cpath: /branches/pocenkovskaya_podkopaev/branches/version_0.1
+copyroot: 117 /branches/pocenkovskaya_podkopaev
+
+PLAIN
+K 11
+version_0.1
+V 24
+dir 3-126.0-117.r126/367
+END
+ENDREP
+id: 2-47.0-117.r126/638
+type: dir
+pred: 2-47.0-117.r117/17
+count: 59
+text: 126 574 51 0 eb9eda1d56348448aba89d175f31a18a
+cpath: /branches/pocenkovskaya_podkopaev/branches
+copyroot: 117 /branches/pocenkovskaya_podkopaev
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 23
+dir 2-47.0-117.r126/638
+K 5
+trunk
+V 22
+dir 2-2.1-117.r125/413
+END
+ENDREP
+id: 2-2.0-117.r126/989
+type: dir
+pred: 2-2.0-117.r125/749
+count: 71
+text: 126 858 118 0 c2a10afd7771654f866eb04abbbc79f6
+cpath: /branches/pocenkovskaya_podkopaev
+copyroot: 117 /branches/pocenkovskaya_podkopaev
+
+PLAIN
+K 9
+avdovenko
+V 21
+dir 2-2.0-34.r36/1301
+K 7
+dfrolov
+V 22
+dir 2-2.0-29.r30/44928
+K 5
+isaev
+V 20
+dir 2-2.0-11.r23/890
+K 6
+kataev
+V 20
+dir 2-2.0-40.r44/178
+K 8
+kirpiche
+V 18
+dir 2-2.0-4.r9/368
+K 23
+pocenkovskaya_podkopaev
+V 22
+dir 2-2.0-117.r126/989
+K 8
+shmatkov
+V 21
+dir 1-38.0.r38/843505
+K 10
+spodkopaev
+V 22
+dir 2-2.0-111.r115/638
+K 9
+vdmitriev
+V 19
+dir 0-15.0.r26/1469
+END
+ENDREP
+id: 0-2.0.r126/1588
+type: dir
+pred: 0-2.0.r125/1348
+count: 46
+text: 126 1200 375 0 2dc6b8a2cbb68e2fb1b94ac1be83f49d
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 19
+dir 0-2.0.r126/1588
+K 4
+tags
+V 19
+dir 1-2.0.r121/4630
+K 5
+trunk
+V 18
+dir 2-2.0.r118/397
+END
+ENDREP
+id: 0.0.r126/1893
+type: dir
+pred: 0.0.r125/1651
+count: 126
+text: 126 1736 144 0 361f8393ddd0626823efbfb3618d57ec
+cpath: /
+copyroot: 0 /
+
+_3.0-117.t125-3i add false false /branches/pocenkovskaya_podkopaev/branches/version_0.1
+
+3-125._0.t125-3i add false false /branches/pocenkovskaya_podkopaev/branches/version_0.1/hello.py
+125 /branches/pocenkovskaya_podkopaev/trunk/hello.py
+
+1893 2030

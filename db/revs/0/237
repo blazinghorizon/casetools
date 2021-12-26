@@ -1,0 +1,149 @@
+PLAIN
+K 13
+svn:mergeinfo
+V 79
+/tags/INIT_VERSION/branches/aovchinn/text:131-136
+/tags/INIT_VERSION/text:3-130
+END
+ENDREP
+id: 0-235.0-237.r237/121
+type: file
+pred: 0-235.0-218.r235/17
+count: 1
+text: 235 0 4 0 d41d8cd98f00b204e9800998ecf8427e
+props: 237 0 108 108 33d5b5555cebf80d6f08c96c9745fd8d
+cpath: /branches/belyakov/text
+copyfrom: 235 /branches/belyakov/text
+minfo-cnt: 1
+minfo-here: y
+
+PLAIN
+K 6
+README
+V 21
+file 0-1.0-2.r214/423
+K 9
+casetools
+V 22
+dir 2-2.0-220.r220/111
+K 4
+make
+V 24
+dir 0-222.0-218.r226/644
+K 4
+text
+V 25
+file 0-235.0-237.r237/121
+K 5
+trunk
+V 22
+dir 2-2.0-219.r219/111
+K 24
+Приложение.gan
+V 27
+file a-222.0-218.r222/14994
+END
+ENDREP
+id: 2-2.0-218.r237/669
+type: dir
+pred: 2-2.0-218.r236/237
+count: 28
+text: 237 392 264 264 6c42fe8e3fb6a4b9ac95178d49df8d23
+props: 218 0 98 98 2258ee635d8b2b9e892afefc31d041bc
+cpath: /branches/belyakov
+copyroot: 218 /branches/belyakov
+minfo-cnt: 9
+minfo-here: y
+
+PLAIN
+K 9
+akobeleva
+V 22
+dir 2-2.0-211.r217/184
+K 9
+avdovenko
+V 21
+dir 2-2.0-34.r36/1301
+K 8
+belyakov
+V 22
+dir 2-2.0-218.r237/669
+K 7
+dfrolov
+V 22
+dir 2-2.0-29.r30/44928
+K 7
+firsova
+V 23
+dir 2-2.0-180.r184/2715
+K 5
+isaev
+V 20
+dir 2-2.0-11.r23/890
+K 6
+kataev
+V 20
+dir 2-2.0-40.r44/178
+K 8
+kirpiche
+V 18
+dir 2-2.0-4.r9/368
+K 23
+pocenkovskaya_podkopaev
+V 22
+dir 2-2.0-117.r129/705
+K 8
+shmatkov
+V 21
+dir 1-38.0.r38/843505
+K 10
+spodkopaev
+V 22
+dir 2-2.0-111.r115/638
+K 9
+vdmitriev
+V 19
+dir 0-15.0.r26/1469
+END
+ENDREP
+id: 0-2.0.r237/1443
+type: dir
+pred: 0-2.0.r236/1009
+count: 78
+text: 237 931 499 499 7dbce9f34e72e7f6f5cce2d02b5137e5
+cpath: /branches
+copyroot: 0 /
+minfo-cnt: 13
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 19
+dir 0-2.0.r237/1443
+K 4
+tags
+V 18
+dir 1-2.0.r232/960
+K 5
+trunk
+V 19
+dir 2-2.0.r226/2319
+END
+ENDREP
+id: 0.0.r237/1763
+type: dir
+pred: 0.0.r236/1329
+count: 237
+text: 237 1606 144 144 4e6b78512ba42d0a9dea47543001983c
+cpath: /
+copyroot: 0 /
+minfo-cnt: 15
+
+0-235._0.t236-6p add false true /branches/belyakov/text
+235 /branches/belyakov/text
+
+1763 1916

@@ -1,0 +1,88 @@
+PLAIN
+K 8
+Makefile
+V 23
+file 1-308.0.r308/11993
+K 7
+hello.c
+V 23
+file 4-308.0.r308/12702
+K 7
+hello.h
+V 23
+file 5-308.0.r308/12850
+K 6
+main.c
+V 21
+file 7-308.0.r312/125
+K 11
+manfile.txt
+V 20
+file 8-308.0.r309/45
+END
+ENDREP
+id: 0-308.0.r313/222
+type: dir
+pred: 0-308.0.r312/589
+count: 5
+text: 313 0 209 209 652ec56a059a65270767a401822a4d38
+cpath: /branches/ugryumov
+copyroot: 0 /
+
+PLAIN
+K 7
+averkov
+V 20
+dir 0-280.0.r286/323
+K 5
+fomin
+V 22
+dir 2-2.0-299.r301/744
+K 7
+sarbaev
+V 20
+dir 2-2.0-295.r295/0
+K 8
+ugryumov
+V 20
+dir 0-308.0.r313/222
+END
+ENDREP
+id: 0-2.0.r313/549
+type: dir
+pred: 0-2.0.r312/918
+count: 119
+text: 313 379 157 157 2f5543bab80cc55f163bceb9edfb6fa1
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir 0-2.0.r313/549
+K 4
+tags
+V 18
+dir 1-2.0.r298/287
+K 5
+trunk
+V 18
+dir 2-2.0.r302/389
+END
+ENDREP
+id: 0.0.r313/818
+type: dir
+pred: 0.0.r312/1187
+count: 313
+text: 313 697 108 108 1de82f65ef06f51d6a7cf4d621b87574
+cpath: /
+copyroot: 0 /
+minfo-cnt: 2
+
+3-308.0.r308/12497 delete false false /branches/ugryumov/hello
+
+6-308.0.r308/13087 delete false false /branches/ugryumov/main
+
+
+818 968

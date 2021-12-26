@@ -1,0 +1,126 @@
+PLAIN
+K 20
+EasyCookingGantt.gan
+V 24
+file h-48.0-47.r48/29246
+END
+ENDREP
+id: g-48.0-47.r50/73
+type: dir
+pred: g-48.0-47.r48/29970
+count: 1
+text: 50 0 60 60 7d4d63e16c580be86b816a77524371d8
+cpath: /tags/INIT_VERSION/branches/andreev/Gantt
+copyroot: 47 /tags/INIT_VERSION/branches/andreev
+
+PLAIN
+K 29
+ANT-ImageViewer-(for-Windows)
+V 23
+dir 4-48.0-47.r48/28969
+K 5
+Gantt
+V 20
+dir g-48.0-47.r50/73
+K 15
+MAKE-pop3client
+V 21
+dir k-48.0-47.r49/418
+K 6
+README
+V 19
+file 0-1.0-2.r24/71
+END
+ENDREP
+id: 2-2.0-47.r50/489
+type: dir
+pred: 2-2.0-47.r49/850
+count: 7
+text: 50 288 188 188 0efdad4c2fe1cde253e725329b7c9a25
+cpath: /tags/INIT_VERSION/branches/andreev
+copyroot: 47 /tags/INIT_VERSION/branches/andreev
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-47.r50/489
+END
+ENDREP
+id: 2-47.0-3.r50/754
+type: dir
+pred: 2-47.0-3.r49/1117
+count: 3
+text: 50 699 42 42 7c9167b447e390fb356ffe237f53e08a
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 20
+dir 2-47.0-3.r50/754
+K 5
+trunk
+V 18
+dir 2-2.0-28.r28/0
+END
+ENDREP
+id: 2-2.0-3.r50/1061
+type: dir
+pred: 2-2.0-3.r49/1428
+count: 6
+text: 50 937 111 111 8acb61bd61ccc528193a562e6d3a9e48
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 20
+dir 2-2.0-3.r50/1061
+END
+ENDREP
+id: 1-2.0.r50/1297
+type: dir
+pred: 1-2.0.r49/1666
+count: 6
+text: 50 1236 48 48 fca83ccdb92fc3fce6e22ebe56015d6b
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 17
+dir 0-2.0.r44/637
+K 4
+tags
+V 18
+dir 1-2.0.r50/1297
+K 5
+trunk
+V 17
+dir 2-2.0.r45/346
+END
+ENDREP
+id: 0.0.r50/1590
+type: dir
+pred: 0.0.r49/1960
+count: 50
+text: 50 1437 140 140 b7e040b85966348ee9983293bc4ff02f
+cpath: /
+copyroot: 0 /
+
+j-48.0-47.r48/29586 delete false false /tags/INIT_VERSION/branches/andreev/Gantt/Thumbs.db
+
+
+1590 1725

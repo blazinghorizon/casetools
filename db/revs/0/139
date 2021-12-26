@@ -1,0 +1,176 @@
+id: 2-2.0-139.r139/0
+type: dir
+pred: 2-2.0-28.r121/4070
+count: 12
+text: 121 4012 45 0 a843c7a74db1455af2cabb1587040e4d
+cpath: /tags/INIT_VERSION/branches/my_branches/trunk
+copyfrom: 138 /tags/INIT_VERSION/trunk
+
+PLAIN
+K 6
+README
+V 24
+file 0-1.e-121.r121/3757
+K 5
+trunk
+V 20
+dir 2-2.0-139.r139/0
+END
+ENDREP
+id: 2-2.0-138.r139/306
+type: dir
+pred: 2-2.0-138.r138/0
+count: 13
+text: 139 212 81 81 0313b3617444d8f55b01aec4da9c594d
+cpath: /tags/INIT_VERSION/branches/my_branches
+copyroot: 138 /tags/INIT_VERSION/branches/my_branches
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-121.r121/0
+K 8
+aovchinn
+V 22
+dir 2-2.0-131.r136/603
+K 8
+apavlova
+V 22
+dir 2-2.1-121.r121/211
+K 5
+bulat
+V 24
+dir 3-104.2-121.r121/429
+K 8
+dolmatov
+V 22
+dir 2-2.3-121.r121/641
+K 7
+ermakov
+V 22
+dir 2-2.4-121.r121/857
+K 8
+ermishin
+V 23
+dir 2-2.5-121.r121/1069
+K 8
+grablevs
+V 23
+dir 2-2.6-121.r121/1284
+K 8
+kolesnik
+V 24
+dir 3-94.7-121.r121/1498
+K 8
+kukushki
+V 24
+dir 3-90.8-121.r121/1713
+K 6
+kuzmin
+V 23
+dir 2-2.9-121.r121/1925
+K 8
+marcinke
+V 23
+dir 2-2.a-121.r121/2133
+K 11
+my_branches
+V 22
+dir 2-2.0-138.r139/306
+K 7
+sazonov
+V 24
+dir 3-52.b-121.r121/2349
+K 6
+shvarc
+V 24
+dir 3-76.c-121.r121/2564
+K 3
+sz2
+V 23
+dir 2-2.d-121.r121/2775
+K 8
+vorobeva
+V 20
+dir 2-2.0-130.r130/0
+END
+ENDREP
+id: 2-47.0-3.r139/1241
+type: dir
+pred: 2-47.0-3.r138/918
+count: 69
+text: 139 527 701 701 dc0d930f9d12038cebe3894ad5e3e93a
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 22
+dir 2-47.0-3.r139/1241
+K 5
+trunk
+V 22
+dir 2-2.0-28.r121/4070
+END
+ENDREP
+id: 2-2.0-3.r139/1560
+type: dir
+pred: 2-2.0-3.r138/1236
+count: 77
+text: 139 1430 117 117 b61d4805698fba905ff99530f6ea522c
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 21
+dir 2-2.0-3.r139/1560
+END
+ENDREP
+id: 1-2.0.r139/1802
+type: dir
+pred: 1-2.0.r138/1478
+count: 77
+text: 139 1740 49 49 1c159f1047b261990a578e297a80e13b
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 19
+dir 0-2.0.r129/1304
+K 4
+tags
+V 19
+dir 1-2.0.r139/1802
+K 5
+trunk
+V 19
+dir 2-2.0.r137/1695
+END
+ENDREP
+id: 0.0.r139/2104
+type: dir
+pred: 0.0.r138/1780
+count: 139
+text: 139 1946 145 145 99884b02642f0ee49dad6d5fe62461e2
+cpath: /
+copyroot: 0 /
+minfo-cnt: 1
+
+2-2._0.t138-3v add false false /tags/INIT_VERSION/branches/my_branches/trunk
+138 /tags/INIT_VERSION/trunk
+
+2104 2256

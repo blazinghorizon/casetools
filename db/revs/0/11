@@ -1,0 +1,54 @@
+id: 2-2.0-11.r11/0
+type: dir
+pred: 2-2.0.r10/377
+count: 2
+text: 10 323 41 41 1de14ce1cfb05865c9bb2afe5e42a24e
+cpath: /branches/isaev
+copyfrom: 10 /trunk
+
+PLAIN
+K 5
+isaev
+V 18
+dir 2-2.0-11.r11/0
+K 8
+kirpiche
+V 18
+dir 2-2.0-4.r9/368
+END
+ENDREP
+id: 0-2.0.r11/242
+type: dir
+pred: 0-2.0.r9/593
+count: 7
+text: 11 154 75 75 56f3e85d2edf202d718fec771e57012e
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 17
+dir 0-2.0.r11/242
+K 4
+tags
+V 16
+dir 1-2.0.r3/209
+K 5
+trunk
+V 17
+dir 2-2.0.r10/377
+END
+ENDREP
+id: 0.0.r11/499
+type: dir
+pred: 0.0.r10/630
+count: 11
+text: 11 382 104 104 c6d6b620b0f128696b8c63aa4015f808
+cpath: /
+copyroot: 0 /
+
+2-2._0.t10-a add false false /branches/isaev
+10 /trunk
+
+499 631

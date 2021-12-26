@@ -1,0 +1,215 @@
+PLAIN
+K 1
+1
+V 27
+dir 1-221.0-221.r221/331109
+K 1
+5
+V 25
+dir 1f-221.0-221.r227/865
+END
+ENDREP
+id: 0-221.0-221.r228/93
+type: dir
+pred: 0-221.0-221.r227/1438
+count: 3
+text: 228 0 80 80 11a75091e46c488caf5e84e789c3dab8
+cpath: /tags/INIT_VERSION/branches/bagaudin/case
+copyroot: 221 /tags/INIT_VERSION/branches/bagaudin
+
+PLAIN
+K 6
+README
+V 22
+file 0-1.e-121.r199/76
+K 4
+case
+V 23
+dir 0-221.0-221.r228/93
+END
+ENDREP
+id: 2-2.0-221.r228/410
+type: dir
+pred: 2-2.0-221.r227/1764
+count: 17
+text: 228 316 81 81 9f76ba4156ed53b48aba0a001b440529
+cpath: /tags/INIT_VERSION/branches/bagaudin
+copyroot: 221 /tags/INIT_VERSION/branches/bagaudin
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-121.r121/0
+K 8
+aovchinn
+V 22
+dir 2-2.0-131.r136/603
+K 8
+apavlova
+V 22
+dir 2-2.1-121.r121/211
+K 8
+bagaudin
+V 22
+dir 2-2.0-221.r228/410
+K 8
+bodryako
+V 23
+dir 2-2.0-192.r195/1286
+K 5
+bulat
+V 24
+dir 3-104.2-121.r121/429
+K 8
+dolmatov
+V 22
+dir 2-2.3-121.r121/641
+K 4
+dyat
+V 22
+dir 2-2.0-164.r169/595
+K 7
+ermakov
+V 22
+dir 2-2.4-121.r121/857
+K 8
+ermishin
+V 23
+dir 2-2.5-121.r121/1069
+K 5
+fokin
+V 22
+dir 2-2.0-198.r202/933
+K 8
+grablevs
+V 23
+dir 2-2.6-121.r121/1284
+K 11
+klyuchnikov
+V 23
+dir 2-2.0-142.r161/2703
+K 8
+kolesnik
+V 24
+dir 3-94.7-121.r121/1498
+K 8
+kukushki
+V 24
+dir 3-90.8-121.r121/1713
+K 6
+kuzmin
+V 23
+dir 2-2.9-121.r121/1925
+K 8
+marcinke
+V 23
+dir 2-2.a-121.r121/2133
+K 6
+platov
+V 22
+dir 2-2.0-176.r191/255
+K 7
+sazonov
+V 24
+dir 3-52.b-121.r121/2349
+K 6
+shvarc
+V 24
+dir 3-76.c-121.r121/2564
+K 8
+skuratov
+V 22
+dir 2-2.0-203.r207/441
+K 3
+sz2
+V 23
+dir 2-2.d-121.r121/2775
+K 8
+vepifano
+V 21
+dir 2-2.0-208.r210/56
+K 8
+vorobeva
+V 20
+dir 2-2.0-130.r130/0
+END
+ENDREP
+id: 2-47.0-3.r228/1621
+type: dir
+pred: 2-47.0-3.r227/2978
+count: 118
+text: 228 628 980 980 82054e2e561138909b680570d65c6345
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 22
+dir 2-47.0-3.r228/1621
+K 5
+trunk
+V 21
+dir 2-2.0-28.r199/388
+END
+ENDREP
+id: 2-2.0-3.r228/1941
+type: dir
+pred: 2-2.0-3.r227/3299
+count: 136
+text: 228 1812 116 116 947ecc19879c00c2ac8f6382dfa3bd75
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 21
+dir 2-2.0-3.r228/1941
+END
+ENDREP
+id: 1-2.0.r228/2184
+type: dir
+pred: 1-2.0.r227/3542
+count: 136
+text: 228 2122 49 49 891ce21e499f64016e08871d29bfb6cd
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 19
+dir 0-2.0.r226/1849
+K 4
+tags
+V 19
+dir 1-2.0.r228/2184
+K 5
+trunk
+V 19
+dir 2-2.0.r226/2319
+END
+ENDREP
+id: 0.0.r228/2487
+type: dir
+pred: 0.0.r227/3845
+count: 228
+text: 228 2329 145 145 970da2b75e87fed1836b3b034b353a19
+cpath: /
+copyroot: 0 /
+minfo-cnt: 14
+
+0-227.0-221.r227/1094 delete false false /tags/INIT_VERSION/branches/bagaudin/case/test.txt
+
+
+2487 2640

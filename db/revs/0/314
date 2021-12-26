@@ -1,0 +1,71 @@
+id: 2-2.0-314.r314/0
+type: dir
+pred: 2-2.0.r302/389
+count: 19
+text: 302 335 41 41 c6cdaa38c046c3e5001773583446eff0
+props: 137 1584 98 98 2258ee635d8b2b9e892afefc31d041bc
+cpath: /branches/nfilin
+copyfrom: 313 /trunk
+minfo-cnt: 2
+minfo-here: y
+
+PLAIN
+K 7
+averkov
+V 20
+dir 0-280.0.r286/323
+K 5
+fomin
+V 22
+dir 2-2.0-299.r301/744
+K 6
+nfilin
+V 20
+dir 2-2.0-314.r314/0
+K 7
+sarbaev
+V 20
+dir 2-2.0-295.r295/0
+K 8
+ugryumov
+V 20
+dir 0-308.0.r313/222
+END
+ENDREP
+id: 0-2.0.r314/450
+type: dir
+pred: 0-2.0.r313/549
+count: 120
+text: 314 243 194 194 411a26abeafcdcf7ce690f925d85f45a
+cpath: /branches
+copyroot: 0 /
+minfo-cnt: 2
+
+PLAIN
+K 8
+branches
+V 18
+dir 0-2.0.r314/450
+K 4
+tags
+V 18
+dir 1-2.0.r298/287
+K 5
+trunk
+V 18
+dir 2-2.0.r302/389
+END
+ENDREP
+id: 0.0.r314/732
+type: dir
+pred: 0.0.r313/818
+count: 314
+text: 314 611 108 108 7483021113f7fa3de2f1d4cba7d94982
+cpath: /
+copyroot: 0 /
+minfo-cnt: 4
+
+2-2._0.t313-90 add false false /branches/nfilin
+313 /trunk
+
+732 881

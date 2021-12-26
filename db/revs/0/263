@@ -1,0 +1,141 @@
+PLAIN
+K 8
+apavlova
+V 22
+dir 2-2.1-121.r121/211
+K 8
+bagaudin
+V 22
+dir 2-2.0-221.r241/455
+K 8
+dolmatov
+V 22
+dir 2-2.3-121.r121/641
+K 5
+fokin
+V 22
+dir 2-2.0-198.r202/933
+K 8
+grablevs
+V 23
+dir 2-2.6-121.r121/1284
+K 8
+kolesnik
+V 24
+dir 3-94.7-121.r121/1498
+K 8
+kukushki
+V 24
+dir 3-90.8-121.r121/1713
+K 6
+kuzmin
+V 23
+dir 2-2.9-121.r121/1925
+K 6
+platov
+V 22
+dir 2-2.0-176.r191/255
+K 7
+sazonov
+V 24
+dir 3-52.b-121.r121/2349
+K 6
+shvarc
+V 24
+dir 3-76.c-121.r121/2564
+K 8
+skuratov
+V 22
+dir 2-2.0-203.r207/441
+K 3
+sz2
+V 23
+dir 2-2.d-121.r121/2775
+K 8
+vepifano
+V 21
+dir 2-2.0-208.r210/56
+K 8
+vorobeva
+V 20
+dir 2-2.0-130.r130/0
+END
+ENDREP
+id: 2-47.0-3.r263/625
+type: dir
+pred: 2-47.0-3.r262/667
+count: 130
+text: 263 0 612 612 ce54acb65feb57a20bdc37d18dc678ea
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 21
+dir 2-47.0-3.r263/625
+K 5
+trunk
+V 21
+dir 2-2.0-28.r232/402
+END
+ENDREP
+id: 2-2.0-3.r263/940
+type: dir
+pred: 2-2.0-3.r262/982
+count: 151
+text: 263 812 115 115 65a7e84aa610e37b4bf4334627926a47
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 20
+dir 2-2.0-3.r263/940
+END
+ENDREP
+id: 1-2.0.r263/1179
+type: dir
+pred: 1-2.0.r262/1222
+count: 151
+text: 263 1118 48 48 f439a9e78d46198ba82d01de734ef0ba
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 17
+dir 0-2.0.r254/17
+K 4
+tags
+V 19
+dir 1-2.0.r263/1179
+K 5
+trunk
+V 19
+dir 2-2.0.r226/2319
+END
+ENDREP
+id: 0.0.r263/1480
+type: dir
+pred: 0.0.r262/1523
+count: 263
+text: 263 1324 143 143 0505d1f37a172608dc0643dfd9315a18
+cpath: /
+copyroot: 0 /
+minfo-cnt: 2
+
+2-2.5-121.r121/1069 delete false false /tags/INIT_VERSION/branches/ermishin
+
+
+1480 1632

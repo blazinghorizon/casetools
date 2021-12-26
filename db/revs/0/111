@@ -1,0 +1,149 @@
+PLAIN
+END
+ENDREP
+id: 2-47.0-111.r111/17
+type: dir
+pred: 2-47.0-3.r109/1301
+count: 58
+text: 111 0 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /branches/spodkopaev/branches
+copyroot: 111 /branches/spodkopaev
+
+PLAIN
+END
+ENDREP
+id: 2-2.1-111.r111/224
+type: dir
+pred: 2-2.0-28.r98/375
+count: 10
+text: 111 207 4 0 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /branches/spodkopaev/trunk
+copyroot: 28 /tags/INIT_VERSION/trunk
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 22
+dir 2-47.0-111.r111/17
+K 5
+trunk
+V 22
+dir 2-2.1-111.r111/224
+END
+ENDREP
+id: 2-2.0-111.r111/544
+type: dir
+pred: 2-2.0-3.r109/1616
+count: 66
+text: 111 414 117 0 56e5e5fbcba10bbc77f022bcf45cbccb
+cpath: /branches/spodkopaev
+copyfrom: 110 /tags/INIT_VERSION
+
+PLAIN
+K 9
+avdovenko
+V 21
+dir 2-2.0-34.r36/1301
+K 7
+dfrolov
+V 22
+dir 2-2.0-29.r30/44928
+K 5
+isaev
+V 20
+dir 2-2.0-11.r23/890
+K 6
+kataev
+V 20
+dir 2-2.0-40.r44/178
+K 8
+kirpiche
+V 18
+dir 2-2.0-4.r9/368
+K 8
+shmatkov
+V 21
+dir 1-38.0.r38/843505
+K 10
+spodkopaev
+V 22
+dir 2-2.0-111.r111/544
+K 9
+vdmitriev
+V 19
+dir 0-15.0.r26/1469
+END
+ENDREP
+id: 0-2.0.r111/1057
+type: dir
+pred: 0-2.0.r44/637
+count: 36
+text: 111 726 318 0 49db2876ad7bf94786bebc286c9293e8
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 19
+dir 0-2.0.r111/1057
+K 4
+tags
+V 19
+dir 1-2.0.r109/1856
+K 5
+trunk
+V 18
+dir 2-2.0.r110/281
+END
+ENDREP
+id: 0.0.r111/1359
+type: dir
+pred: 0.0.r110/575
+count: 111
+text: 111 1202 144 0 adb3f924a91aa8ee345183bbffb23a13
+cpath: /
+copyroot: 0 /
+
+2-2._0.t110-32 add false false /branches/spodkopaev
+110 /tags/INIT_VERSION
+2-2.0-47.r50/489 delete false false /branches/spodkopaev/branches/andreev
+
+2-2.0-63.r66/2050 delete false false /branches/spodkopaev/branches/apavlova
+
+3-104.0-3.r109/558 delete false false /branches/spodkopaev/branches/bulat
+
+2-2.0-85.r89/509 delete false false /branches/spodkopaev/branches/dolmatov
+
+2-2.0-67.r70/125 delete false false /branches/spodkopaev/branches/ermakov
+
+2-2.0-71.r75/180 delete false false /branches/spodkopaev/branches/ermishin
+
+2-2.0-101.r103/54 delete false false /branches/spodkopaev/branches/grablevs
+
+3-94.0-3.r97/891 delete false false /branches/spodkopaev/branches/kolesnik
+
+3-90.0-3.r92/94 delete false false /branches/spodkopaev/branches/kukushki
+
+2-2.0-81.r83/99 delete false false /branches/spodkopaev/branches/kuzmin
+
+2-2.0-99.r100/337 delete false false /branches/spodkopaev/branches/marcinke
+
+3-52.0-3.r56/361 delete false false /branches/spodkopaev/branches/sazonov
+
+3-76.0-3.r79/131 delete false false /branches/spodkopaev/branches/shvarc
+
+2-2.0-57.r62/128 delete false false /branches/spodkopaev/branches/sz2
+
+0-1.0-51.r98/90 delete false false /branches/spodkopaev/trunk/README
+
+
+1359 1495

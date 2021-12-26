@@ -1,0 +1,152 @@
+id: 2-2.0-131.r131/0
+type: dir
+pred: 2-2.0-3.r130/1147
+count: 70
+text: 130 1018 116 0 a6286482610f458e9e72ae8a9569443e
+cpath: /tags/INIT_VERSION/branches/aovchinn
+copyfrom: 130 /tags/INIT_VERSION
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-121.r121/0
+K 8
+aovchinn
+V 20
+dir 2-2.0-131.r131/0
+K 8
+apavlova
+V 22
+dir 2-2.1-121.r121/211
+K 5
+bulat
+V 24
+dir 3-104.2-121.r121/429
+K 8
+dolmatov
+V 22
+dir 2-2.3-121.r121/641
+K 7
+ermakov
+V 22
+dir 2-2.4-121.r121/857
+K 8
+ermishin
+V 23
+dir 2-2.5-121.r121/1069
+K 8
+grablevs
+V 23
+dir 2-2.6-121.r121/1284
+K 8
+kolesnik
+V 24
+dir 3-94.7-121.r121/1498
+K 8
+kukushki
+V 24
+dir 3-90.8-121.r121/1713
+K 6
+kuzmin
+V 23
+dir 2-2.9-121.r121/1925
+K 8
+marcinke
+V 23
+dir 2-2.a-121.r121/2133
+K 7
+sazonov
+V 24
+dir 3-52.b-121.r121/2349
+K 6
+shvarc
+V 24
+dir 3-76.c-121.r121/2564
+K 3
+sz2
+V 23
+dir 2-2.d-121.r121/2775
+K 8
+vorobeva
+V 20
+dir 2-2.0-130.r130/0
+END
+ENDREP
+id: 2-47.0-3.r131/864
+type: dir
+pred: 2-47.0-3.r130/831
+count: 62
+text: 131 197 654 654 78091d1bc9019fdcf2daa9df73cf93ab
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 21
+dir 2-47.0-3.r131/864
+K 5
+trunk
+V 22
+dir 2-2.0-28.r121/4070
+END
+ENDREP
+id: 2-2.0-3.r131/1181
+type: dir
+pred: 2-2.0-3.r130/1147
+count: 70
+text: 131 1052 116 116 d199e3993631b72a59797032d73eee75
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 21
+dir 2-2.0-3.r131/1181
+END
+ENDREP
+id: 1-2.0.r131/1423
+type: dir
+pred: 1-2.0.r130/1387
+count: 70
+text: 131 1361 49 49 0df1858acdb8f6a62b7f1b235b4e477f
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 19
+dir 0-2.0.r129/1304
+K 4
+tags
+V 19
+dir 1-2.0.r131/1423
+K 5
+trunk
+V 18
+dir 2-2.0.r118/397
+END
+ENDREP
+id: 0.0.r131/1724
+type: dir
+pred: 0.0.r130/1687
+count: 131
+text: 131 1567 144 144 69daa0519150fe715239e7b9ac07ec4e
+cpath: /
+copyroot: 0 /
+
+2-2._0.t130-3n add false false /tags/INIT_VERSION/branches/aovchinn
+130 /tags/INIT_VERSION
+
+1724 1863

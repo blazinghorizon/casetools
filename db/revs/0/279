@@ -1,0 +1,28 @@
+PLAIN
+K 8
+branches
+V 17
+dir 0-2.0.r254/17
+K 4
+tags
+V 18
+dir 1-2.0.r278/564
+K 5
+trunk
+V 19
+dir 2-2.0.r226/2319
+END
+ENDREP
+id: 0.0.r279/121
+type: dir
+pred: 0.0.r278/861
+count: 279
+text: 279 0 108 108 1775a3e698ee06f77d99918087c9d4bf
+cpath: /
+copyroot: 0 /
+minfo-cnt: 2
+
+0-46.0.r46/1097 delete false false /3.c
+
+
+121 268

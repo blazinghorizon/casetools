@@ -1,0 +1,50 @@
+id: 2-2.0-4.r4/0
+type: dir
+pred: 2-2.0-3.r3/0
+count: 2
+text: 2 200 38 38 ef1d9766ef1a9f038c65c013762bc9a5
+cpath: /branches/kirpiche
+copyfrom: 3 /tags/INIT_VERSION
+
+PLAIN
+K 8
+kirpiche
+V 16
+dir 2-2.0-4.r4/0
+END
+ENDREP
+id: 0-2.0.r4/216
+type: dir
+pred: 0-2.0.r2/367
+count: 1
+text: 4 164 39 39 471d317b8d9e148a423708dafe39ff54
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 16
+dir 0-2.0.r4/216
+K 4
+tags
+V 16
+dir 1-2.0.r3/209
+K 5
+trunk
+V 16
+dir 2-2.0.r2/251
+END
+ENDREP
+id: 0.0.r4/469
+type: dir
+pred: 0.0.r3/458
+count: 4
+text: 4 354 102 102 fc74d745e503ca122bf66d561e00243b
+cpath: /
+copyroot: 0 /
+
+2-2._0.t3-3 add false false /branches/kirpiche
+3 /tags/INIT_VERSION
+
+469 597

@@ -1,0 +1,93 @@
+PLAIN
+K 6
+README
+V 20
+file 0-1.0-2.r39/134
+K 10
+_autotools
+V 24
+dir 2-41.0-40.r41/236635
+K 5
+gantt
+V 25
+dir 19-41.0-40.r41/237722
+K 4
+make
+V 22
+dir 1e-41.0-40.r42/797
+END
+ENDREP
+id: 2-2.0-40.r44/178
+type: dir
+pred: 2-2.0-40.r43/1519
+count: 10
+text: 44 0 165 165 f0af5455bd607109514da2d85fff926c
+cpath: /branches/kataev
+copyroot: 40 /branches/kataev
+
+PLAIN
+K 9
+avdovenko
+V 21
+dir 2-2.0-34.r36/1301
+K 7
+dfrolov
+V 22
+dir 2-2.0-29.r30/44928
+K 5
+isaev
+V 20
+dir 2-2.0-11.r23/890
+K 6
+kataev
+V 20
+dir 2-2.0-40.r44/178
+K 8
+kirpiche
+V 18
+dir 2-2.0-4.r9/368
+K 8
+shmatkov
+V 21
+dir 1-38.0.r38/843505
+K 9
+vdmitriev
+V 19
+dir 0-15.0.r26/1469
+END
+ENDREP
+id: 0-2.0.r44/637
+type: dir
+pred: 0-2.0.r43/1982
+count: 35
+text: 44 350 274 274 2285c7ae41d2cf4f54484359a010365b
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 17
+dir 0-2.0.r44/637
+K 4
+tags
+V 17
+dir 1-2.0.r28/476
+K 5
+trunk
+V 17
+dir 2-2.0.r39/400
+END
+ENDREP
+id: 0.0.r44/900
+type: dir
+pred: 0.0.r43/2248
+count: 44
+text: 44 782 105 105 74cc20ee3e699fdfee41ac2acc7677e2
+cpath: /
+copyroot: 0 /
+
+2-43.0-40.r43/1127 delete false false /branches/kataev/svn_tasks.rtf
+
+
+900 1033

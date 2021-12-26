@@ -1,0 +1,171 @@
+id: 7-15.0.r15/0
+type: dir
+count: 0
+cpath: /branches/vdmitriev/project
+copyroot: 0 /
+
+id: 2-15.0.r15/86
+type: dir
+count: 0
+cpath: /branches/vdmitriev/autotools/autom4te.cache
+copyroot: 0 /
+
+id: 3-15.0.r15/190
+type: dir
+count: 0
+cpath: /branches/vdmitriev/autotools/doc
+copyroot: 0 /
+
+id: 4-15.0.r15/284
+type: dir
+count: 0
+cpath: /branches/vdmitriev/autotools/src
+copyroot: 0 /
+
+PLAIN
+K 14
+autom4te.cache
+V 17
+dir 2-15.0.r15/86
+K 3
+doc
+V 18
+dir 3-15.0.r15/190
+K 3
+src
+V 18
+dir 4-15.0.r15/284
+END
+ENDREP
+id: 1-15.0.r15/502
+type: dir
+count: 0
+text: 15 378 111 111 086b41c05cd81e3a2691669a975cb874
+cpath: /branches/vdmitriev/autotools
+copyroot: 0 /
+
+id: 0-1.0-15.r15/646
+type: file
+pred: 0-1.0-2.r2/0
+count: 2
+text: 1 0 241 258 2a9ebcf6c106cf934ec9432c297e3a72
+props: 1 254 53 0 113136892f2137aa0116093a524ade0b
+cpath: /branches/vdmitriev/README
+copyfrom: 10 /tags/INIT_VERSION/README
+
+id: 6-15.0.r15/882
+type: dir
+count: 0
+cpath: /branches/vdmitriev/make/src
+copyroot: 0 /
+
+PLAIN
+K 3
+src
+V 18
+dir 6-15.0.r15/882
+END
+ENDREP
+id: 5-15.0.r15/1020
+type: dir
+count: 0
+text: 15 971 36 36 262ea63fe582df0c8ae87dbda4633820
+cpath: /branches/vdmitriev/make
+copyroot: 0 /
+
+PLAIN
+K 6
+README
+V 21
+file 0-1.0-15.r15/646
+K 9
+autotools
+V 18
+dir 1-15.0.r15/502
+K 4
+make
+V 19
+dir 5-15.0.r15/1020
+K 7
+project
+V 16
+dir 7-15.0.r15/0
+END
+ENDREP
+id: 0-15.0.r15/1319
+type: dir
+count: 0
+text: 15 1158 148 148 0c145d222ed040edfbfa16e9dff32c0d
+cpath: /branches/vdmitriev
+copyroot: 0 /
+
+PLAIN
+K 5
+isaev
+V 23
+dir 2-2.0-11.r13/106505
+K 8
+kirpiche
+V 18
+dir 2-2.0-4.r9/368
+K 5
+vdmit
+V 18
+dir 0-14.0.r14/236
+K 9
+vdmitriev
+V 19
+dir 0-15.0.r15/1319
+END
+ENDREP
+id: 0-2.0.r15/1621
+type: dir
+pred: 0-2.0.r14/491
+count: 11
+text: 15 1455 153 153 e37138c771ecaf45defa01d229e33824
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir 0-2.0.r15/1621
+K 4
+tags
+V 16
+dir 1-2.0.r3/209
+K 5
+trunk
+V 17
+dir 2-2.0.r10/377
+END
+ENDREP
+id: 0.0.r15/1885
+type: dir
+pred: 0.0.r14/755
+count: 15
+text: 15 1767 105 105 10f836261548a4d0a3ccbc020e08f40b
+cpath: /
+copyroot: 0 /
+
+_6.0.t14-e add false false /branches/vdmitriev/make/src
+
+_7.0.t14-e add false false /branches/vdmitriev/project
+
+_1.0.t14-e add false false /branches/vdmitriev/autotools
+
+0-1._0.t14-e add false false /branches/vdmitriev/README
+10 /tags/INIT_VERSION/README
+_2.0.t14-e add false false /branches/vdmitriev/autotools/autom4te.cache
+
+_5.0.t14-e add false false /branches/vdmitriev/make
+
+_3.0.t14-e add false false /branches/vdmitriev/autotools/doc
+
+_0.0.t14-e add false false /branches/vdmitriev
+
+_4.0.t14-e add false false /branches/vdmitriev/autotools/src
+
+
+1885 2019

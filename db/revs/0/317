@@ -1,0 +1,121 @@
+PLAIN
+K 8
+Makefile
+V 27
+file 2-315.0-314.r315/14177
+K 13
+factorial.cpp
+V 27
+file 3-315.0-314.r315/14351
+K 11
+functions.h
+V 27
+file 4-315.0-314.r315/14530
+K 9
+hello.cpp
+V 25
+file 6-315.0-314.r316/436
+K 8
+main.cpp
+V 27
+file 7-315.0-314.r315/15199
+K 4
+test
+V 26
+dir 8-315.0-314.r315/15760
+END
+ENDREP
+id: 1-315.0-314.r317/297
+type: dir
+pred: 1-315.0-314.r316/975
+count: 2
+text: 317 0 284 284 1a849bba54af5c810fcef039513a65a8
+cpath: /branches/nfilin/task1
+copyroot: 314 /branches/nfilin
+
+PLAIN
+K 6
+README
+V 23
+file 0-1.0-316.r316/175
+K 11
+project.gan
+V 27
+file 0-315.0-314.r315/14003
+K 5
+task1
+V 24
+dir 1-315.0-314.r317/297
+END
+ENDREP
+id: 2-2.0-314.r317/630
+type: dir
+pred: 2-2.0-314.r316/1312
+count: 22
+text: 317 483 134 134 4d65eecc7d813771cafb61a76fc0fa29
+props: 137 1584 98 98 2258ee635d8b2b9e892afefc31d041bc
+cpath: /branches/nfilin
+copyroot: 314 /branches/nfilin
+minfo-cnt: 2
+minfo-here: y
+
+PLAIN
+K 7
+averkov
+V 20
+dir 0-280.0.r286/323
+K 5
+fomin
+V 22
+dir 2-2.0-299.r301/744
+K 6
+nfilin
+V 22
+dir 2-2.0-314.r317/630
+K 7
+sarbaev
+V 20
+dir 2-2.0-295.r295/0
+K 8
+ugryumov
+V 20
+dir 0-308.0.r313/222
+END
+ENDREP
+id: 0-2.0.r317/1101
+type: dir
+pred: 0-2.0.r316/1787
+count: 123
+text: 317 892 196 196 831b07e544ce546c77d687400522e67c
+cpath: /branches
+copyroot: 0 /
+minfo-cnt: 2
+
+PLAIN
+K 8
+branches
+V 19
+dir 0-2.0.r317/1101
+K 4
+tags
+V 18
+dir 1-2.0.r298/287
+K 5
+trunk
+V 18
+dir 2-2.0.r302/389
+END
+ENDREP
+id: 0.0.r317/1386
+type: dir
+pred: 0.0.r316/2074
+count: 317
+text: 317 1264 109 109 1559e91b2df3cc5b939a6b3a12875058
+cpath: /
+copyroot: 0 /
+minfo-cnt: 4
+
+5-315.0-314.r315/14797 delete false false /branches/nfilin/task1/hello
+
+
+1386 1538

@@ -1,0 +1,67 @@
+PLAIN
+K 7
+dfrolov
+V 22
+dir 2-2.0-29.r30/44928
+K 5
+isaev
+V 20
+dir 2-2.0-11.r23/890
+K 8
+kirpiche
+V 18
+dir 2-2.0-4.r9/368
+K 23
+pocenkovskaya_podkopaev
+V 22
+dir 2-2.0-117.r129/705
+K 10
+spodkopaev
+V 22
+dir 2-2.0-111.r115/638
+K 9
+vdmitriev
+V 19
+dir 0-15.0.r26/1469
+END
+ENDREP
+id: 0-2.0.r248/270
+type: dir
+pred: 0-2.0.r247/311
+count: 87
+text: 248 0 257 257 296eaf0bbef05f00bc530a63453ff666
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 18
+dir 0-2.0.r248/270
+K 4
+tags
+V 19
+dir 1-2.0.r241/2228
+K 5
+trunk
+V 19
+dir 2-2.0.r226/2319
+END
+ENDREP
+id: 0.0.r248/572
+type: dir
+pred: 0.0.r247/626
+count: 248
+text: 248 415 144 144 d52c914485bb52cb12612a309d1a3f70
+cpath: /
+copyroot: 0 /
+minfo-cnt: 2
+
+2-2.0-180.r184/2715 delete false false /branches/firsova
+
+
+572 721

@@ -1,0 +1,165 @@
+id: 2-2.0-176.r176/0
+type: dir
+pred: 2-2.0-3.r169/1879
+count: 106
+text: 169 1749 117 117 90ede8ee1b307e579ee093a2e478b17a
+cpath: /tags/INIT_VERSION/branches/platov
+copyfrom: 175 /tags/INIT_VERSION
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-121.r121/0
+K 8
+aovchinn
+V 22
+dir 2-2.0-131.r136/603
+K 8
+apavlova
+V 22
+dir 2-2.1-121.r121/211
+K 5
+bulat
+V 24
+dir 3-104.2-121.r121/429
+K 8
+dolmatov
+V 22
+dir 2-2.3-121.r121/641
+K 4
+dyat
+V 22
+dir 2-2.0-164.r169/595
+K 7
+ermakov
+V 22
+dir 2-2.4-121.r121/857
+K 8
+ermishin
+V 23
+dir 2-2.5-121.r121/1069
+K 8
+grablevs
+V 23
+dir 2-2.6-121.r121/1284
+K 11
+klyuchnikov
+V 23
+dir 2-2.0-142.r161/2703
+K 8
+kolesnik
+V 24
+dir 3-94.7-121.r121/1498
+K 8
+kukushki
+V 24
+dir 3-90.8-121.r121/1713
+K 6
+kuzmin
+V 23
+dir 2-2.9-121.r121/1925
+K 8
+marcinke
+V 23
+dir 2-2.a-121.r121/2133
+K 6
+platov
+V 20
+dir 2-2.0-176.r176/0
+K 7
+sazonov
+V 24
+dir 3-52.b-121.r121/2349
+K 6
+shvarc
+V 24
+dir 3-76.c-121.r121/2564
+K 3
+sz2
+V 23
+dir 2-2.d-121.r121/2775
+K 8
+vorobeva
+V 20
+dir 2-2.0-130.r130/0
+END
+ENDREP
+id: 2-47.0-3.r176/987
+type: dir
+pred: 2-47.0-3.r169/1559
+count: 90
+text: 176 198 776 776 600ece4a452cd2988c9697c1bc9f59f2
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 21
+dir 2-47.0-3.r176/987
+K 5
+trunk
+V 22
+dir 2-2.0-28.r121/4070
+END
+ENDREP
+id: 2-2.0-3.r176/1305
+type: dir
+pred: 2-2.0-3.r169/1879
+count: 106
+text: 176 1176 116 116 f1499e2431ba865e474169b9618726f9
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 21
+dir 2-2.0-3.r176/1305
+END
+ENDREP
+id: 1-2.0.r176/1548
+type: dir
+pred: 1-2.0.r169/2122
+count: 106
+text: 176 1486 49 49 67ee79389fd8fe476cbd5eaca60826a0
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 19
+dir 0-2.0.r175/1466
+K 4
+tags
+V 19
+dir 1-2.0.r176/1548
+K 5
+trunk
+V 18
+dir 2-2.0.r170/627
+END
+ENDREP
+id: 0.0.r176/1850
+type: dir
+pred: 0.0.r175/1786
+count: 176
+text: 176 1693 144 144 a8d299d4fa1567af0e9dac6fdd444fab
+cpath: /
+copyroot: 0 /
+minfo-cnt: 4
+
+2-2._0.t175-4x add false false /tags/INIT_VERSION/branches/platov
+175 /tags/INIT_VERSION
+
+1850 2002

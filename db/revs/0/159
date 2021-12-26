@@ -1,0 +1,184 @@
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 1
+a
+V 27
+dir 0-156.0-142.r156/267482
+K 8
+branches
+V 23
+dir 2-47.0-142.r146/669
+K 4
+file
+V 24
+file 0-155.0-142.r155/17
+K 3
+mak
+V 24
+dir v-156.0-142.r157/845
+K 5
+trunk
+V 22
+dir 2-2.0-28.r121/4070
+END
+ENDREP
+id: 2-2.0-142.r159/247
+type: dir
+pred: 2-2.0-142.r158/505
+count: 87
+text: 159 0 234 234 e62a6130a7ea7655877fb5e479aa1144
+cpath: /tags/INIT_VERSION/branches/klyuchnikov
+copyroot: 142 /tags/INIT_VERSION/branches/klyuchnikov
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-121.r121/0
+K 8
+aovchinn
+V 22
+dir 2-2.0-131.r136/603
+K 8
+apavlova
+V 22
+dir 2-2.1-121.r121/211
+K 5
+bulat
+V 24
+dir 3-104.2-121.r121/429
+K 8
+dolmatov
+V 22
+dir 2-2.3-121.r121/641
+K 7
+ermakov
+V 22
+dir 2-2.4-121.r121/857
+K 8
+ermishin
+V 23
+dir 2-2.5-121.r121/1069
+K 8
+grablevs
+V 23
+dir 2-2.6-121.r121/1284
+K 11
+klyuchnikov
+V 22
+dir 2-2.0-142.r159/247
+K 8
+kolesnik
+V 24
+dir 3-94.7-121.r121/1498
+K 8
+kukushki
+V 24
+dir 3-90.8-121.r121/1713
+K 6
+kuzmin
+V 23
+dir 2-2.9-121.r121/1925
+K 8
+marcinke
+V 23
+dir 2-2.a-121.r121/2133
+K 7
+sazonov
+V 24
+dir 3-52.b-121.r121/2349
+K 6
+shvarc
+V 24
+dir 3-76.c-121.r121/2564
+K 3
+sz2
+V 23
+dir 2-2.d-121.r121/2775
+K 8
+vorobeva
+V 20
+dir 2-2.0-130.r130/0
+END
+ENDREP
+id: 2-47.0-3.r159/1184
+type: dir
+pred: 2-47.0-3.r158/1445
+count: 81
+text: 159 470 701 701 7d1851de0d52fe0c044022eca4252b3c
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 22
+dir 2-47.0-3.r159/1184
+K 5
+trunk
+V 22
+dir 2-2.0-28.r121/4070
+END
+ENDREP
+id: 2-2.0-3.r159/1504
+type: dir
+pred: 2-2.0-3.r158/1765
+count: 97
+text: 159 1374 117 117 1a971d54173ef0dc61ce7221cf8475d5
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 21
+dir 2-2.0-3.r159/1504
+END
+ENDREP
+id: 1-2.0.r159/1746
+type: dir
+pred: 1-2.0.r158/2007
+count: 97
+text: 159 1684 49 49 cca33101b839b7c611906b32346c1a1f
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 19
+dir 0-2.0.r129/1304
+K 4
+tags
+V 19
+dir 1-2.0.r159/1746
+K 5
+trunk
+V 19
+dir 2-2.0.r137/1695
+END
+ENDREP
+id: 0.0.r159/2048
+type: dir
+pred: 0.0.r158/2309
+count: 159
+text: 159 1890 145 145 37b07a313bed14ddd3094b64a0ac135b
+cpath: /
+copyroot: 0 /
+minfo-cnt: 1
+
+0-158.0-142.r158/17 delete false false /tags/INIT_VERSION/branches/klyuchnikov/file2
+
+
+2048 2200

@@ -1,0 +1,208 @@
+id: 2-2.0-206.r206/0
+type: dir
+pred: 2-2.0-28.r199/388
+count: 14
+text: 199 332 43 43 80fc8df4c18ae410427948989a27dc0f
+cpath: /tags/INIT_VERSION/branches/skuratov/trunk
+copyfrom: 205 /tags/INIT_VERSION/trunk
+
+PLAIN
+K 6
+README
+V 22
+file 0-1.e-121.r199/76
+K 3
+ant
+V 22
+dir 0-204.0-203.r204/0
+K 3
+lab
+V 24
+dir 1-204.0-203.r204/142
+K 4
+make
+V 24
+dir 2-204.0-203.r205/270
+K 5
+trunk
+V 20
+dir 2-2.0-206.r206/0
+END
+ENDREP
+id: 2-2.0-203.r206/413
+type: dir
+pred: 2-2.0-203.r205/664
+count: 17
+text: 206 208 192 192 3faaafc8532acd2d070cffe7347e6f8f
+cpath: /tags/INIT_VERSION/branches/skuratov
+copyroot: 203 /tags/INIT_VERSION/branches/skuratov
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-121.r121/0
+K 8
+aovchinn
+V 22
+dir 2-2.0-131.r136/603
+K 8
+apavlova
+V 22
+dir 2-2.1-121.r121/211
+K 8
+bodryako
+V 23
+dir 2-2.0-192.r195/1286
+K 5
+bulat
+V 24
+dir 3-104.2-121.r121/429
+K 8
+dolmatov
+V 22
+dir 2-2.3-121.r121/641
+K 4
+dyat
+V 22
+dir 2-2.0-164.r169/595
+K 7
+ermakov
+V 22
+dir 2-2.4-121.r121/857
+K 8
+ermishin
+V 23
+dir 2-2.5-121.r121/1069
+K 5
+fokin
+V 22
+dir 2-2.0-198.r202/933
+K 8
+grablevs
+V 23
+dir 2-2.6-121.r121/1284
+K 11
+klyuchnikov
+V 23
+dir 2-2.0-142.r161/2703
+K 8
+kolesnik
+V 24
+dir 3-94.7-121.r121/1498
+K 8
+kukushki
+V 24
+dir 3-90.8-121.r121/1713
+K 6
+kuzmin
+V 23
+dir 2-2.9-121.r121/1925
+K 8
+marcinke
+V 23
+dir 2-2.a-121.r121/2133
+K 6
+platov
+V 22
+dir 2-2.0-176.r191/255
+K 7
+sazonov
+V 24
+dir 3-52.b-121.r121/2349
+K 6
+shvarc
+V 24
+dir 3-76.c-121.r121/2564
+K 8
+skuratov
+V 22
+dir 2-2.0-203.r206/413
+K 3
+sz2
+V 23
+dir 2-2.d-121.r121/2775
+K 8
+vorobeva
+V 20
+dir 2-2.0-130.r130/0
+END
+ENDREP
+id: 2-47.0-3.r206/1544
+type: dir
+pred: 2-47.0-3.r205/1795
+count: 110
+text: 206 632 899 899 369ba8db172817dd99d6d4a78f4957fe
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 22
+dir 2-47.0-3.r206/1544
+K 5
+trunk
+V 21
+dir 2-2.0-28.r199/388
+END
+ENDREP
+id: 2-2.0-3.r206/1864
+type: dir
+pred: 2-2.0-3.r205/2115
+count: 128
+text: 206 1735 116 116 6a93292823c8f02bf9af8034b2bd4bb9
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 21
+dir 2-2.0-3.r206/1864
+END
+ENDREP
+id: 1-2.0.r206/2107
+type: dir
+pred: 1-2.0.r205/2358
+count: 128
+text: 206 2045 49 49 5bd0e07d1c40a58300dbfae588802bef
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 19
+dir 0-2.0.r184/3408
+K 4
+tags
+V 19
+dir 1-2.0.r206/2107
+K 5
+trunk
+V 18
+dir 2-2.0.r197/387
+END
+ENDREP
+id: 0.0.r206/2409
+type: dir
+pred: 0.0.r205/2660
+count: 206
+text: 206 2252 144 144 3ed30ad3338673a4eb7b0b8a8629c132
+cpath: /
+copyroot: 0 /
+minfo-cnt: 4
+
+2-2._0.t205-5u add false false /tags/INIT_VERSION/branches/skuratov/trunk
+205 /tags/INIT_VERSION/trunk
+
+2409 2561

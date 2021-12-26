@@ -1,0 +1,84 @@
+PLAIN
+K 3
+src
+V 18
+dir 1-5.0-4.r7/445
+END
+ENDREP
+id: 0-5.0-4.r9/49
+type: dir
+pred: 0-5.0-4.r8/1254
+count: 3
+text: 9 0 36 36 10a9abf9e041992e98e3ba7b56e19d83
+cpath: /branches/kirpiche/ant
+copyroot: 4 /branches/kirpiche
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 3
+ant
+V 17
+dir 0-5.0-4.r9/49
+K 4
+make
+V 18
+dir 5-5.0-4.r6/681
+K 4
+plan
+V 19
+dir v-5.0-4.r8/1818
+END
+ENDREP
+id: 2-2.0-4.r9/368
+type: dir
+pred: 2-2.0-4.r8/2149
+count: 7
+text: 9 219 136 136 64cdf6c59107fa1fe7e5e1c327c344cb
+cpath: /branches/kirpiche
+copyroot: 4 /branches/kirpiche
+
+PLAIN
+K 8
+kirpiche
+V 18
+dir 2-2.0-4.r9/368
+END
+ENDREP
+id: 0-2.0.r9/593
+type: dir
+pred: 0-2.0.r8/2377
+count: 6
+text: 9 539 41 41 babd373ceeb6b2081e8d838da2b77f57
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 16
+dir 0-2.0.r9/593
+K 4
+tags
+V 16
+dir 1-2.0.r3/209
+K 5
+trunk
+V 16
+dir 2-2.0.r2/251
+END
+ENDREP
+id: 0.0.r9/847
+type: dir
+pred: 0.0.r8/2634
+count: 9
+text: 9 732 102 102 49945f1452457b8c8352c4c3073e6e2d
+cpath: /
+copyroot: 0 /
+
+0-8.0-4.r8/995 delete false false /branches/kirpiche/ant/something.txt
+
+
+847 976

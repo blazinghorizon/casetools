@@ -1,0 +1,93 @@
+id: 2-2.0-294.r294/0
+type: dir
+pred: 2-2.0-3.r291/988
+count: 170
+text: 291 860 115 115 e5f509e7d433397956e8331eb74b18a3
+cpath: /tags/INIT_VERSION/branches/sarbaev
+copyfrom: 293 /tags/INIT_VERSION
+
+PLAIN
+K 7
+sarbaev
+V 20
+dir 2-2.0-294.r294/0
+K 12
+tvorobusheck
+V 22
+dir 2-2.0-289.r290/322
+END
+ENDREP
+id: 2-47.0-3.r294/298
+type: dir
+pred: 2-47.0-3.r290/610
+count: 148
+text: 294 197 88 88 ec606c2644bef026a8865fa11b32bc6c
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 21
+dir 2-47.0-3.r294/298
+K 5
+trunk
+V 21
+dir 2-2.0-28.r291/670
+END
+ENDREP
+id: 2-2.0-3.r294/613
+type: dir
+pred: 2-2.0-3.r291/988
+count: 170
+text: 294 485 115 115 8498e8bc44799f4b1a68ec92b1514955
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 20
+dir 2-2.0-3.r294/613
+END
+ENDREP
+id: 1-2.0.r294/852
+type: dir
+pred: 1-2.0.r291/1227
+count: 170
+text: 294 791 48 48 3dc9c4e538e2562c2c87d2b29b189a26
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 17
+dir 0-2.0.r293/55
+K 4
+tags
+V 18
+dir 1-2.0.r294/852
+K 5
+trunk
+V 19
+dir 2-2.0.r226/2319
+END
+ENDREP
+id: 0.0.r294/1116
+type: dir
+pred: 0.0.r293/320
+count: 294
+text: 294 995 108 108 7a2243c84b76699d9a469d4181ad9a14
+cpath: /
+copyroot: 0 /
+minfo-cnt: 2
+
+2-2._0.t293-8e add false false /tags/INIT_VERSION/branches/sarbaev
+293 /tags/INIT_VERSION
+
+1116 1266

@@ -1,0 +1,124 @@
+id: 2-2.0-115.r115/0
+type: dir
+pred: 2-2.1-111.r114/528
+count: 13
+text: 114 468 47 0 0b3fdf18e42ac1a1efd0688f8e43da68
+cpath: /branches/spodkopaev/branches/version_0.2
+copyfrom: 114 /branches/spodkopaev/trunk
+
+PLAIN
+K 11
+version_0.1
+V 20
+dir 2-2.0-113.r113/0
+K 11
+version_0.2
+V 20
+dir 2-2.0-115.r115/0
+END
+ENDREP
+id: 2-47.0-111.r115/312
+type: dir
+pred: 2-47.0-111.r113/269
+count: 60
+text: 115 209 90 0 3e3fe5b6fedc57e59084ed3de9870910
+cpath: /branches/spodkopaev/branches
+copyroot: 111 /branches/spodkopaev
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 23
+dir 2-47.0-111.r115/312
+K 5
+trunk
+V 22
+dir 2-2.1-111.r114/528
+END
+ENDREP
+id: 2-2.0-111.r115/638
+type: dir
+pred: 2-2.0-111.r114/852
+count: 70
+text: 115 507 118 0 c3d6fbbe2b950c61caa2ee626f0d3a13
+cpath: /branches/spodkopaev
+copyroot: 111 /branches/spodkopaev
+
+PLAIN
+K 9
+avdovenko
+V 21
+dir 2-2.0-34.r36/1301
+K 7
+dfrolov
+V 22
+dir 2-2.0-29.r30/44928
+K 5
+isaev
+V 20
+dir 2-2.0-11.r23/890
+K 6
+kataev
+V 20
+dir 2-2.0-40.r44/178
+K 8
+kirpiche
+V 18
+dir 2-2.0-4.r9/368
+K 8
+shmatkov
+V 21
+dir 1-38.0.r38/843505
+K 10
+spodkopaev
+V 22
+dir 2-2.0-111.r115/638
+K 9
+vdmitriev
+V 19
+dir 0-15.0.r26/1469
+END
+ENDREP
+id: 0-2.0.r115/1154
+type: dir
+pred: 0-2.0.r114/1368
+count: 40
+text: 115 823 318 0 ebbf27b90fb0c73500fa2b572e8099ac
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 19
+dir 0-2.0.r115/1154
+K 4
+tags
+V 19
+dir 1-2.0.r109/1856
+K 5
+trunk
+V 18
+dir 2-2.0.r110/281
+END
+ENDREP
+id: 0.0.r115/1458
+type: dir
+pred: 0.0.r114/1673
+count: 115
+text: 115 1301 144 0 69b5a01d5eca2b3ee64e773c549acd21
+cpath: /
+copyroot: 0 /
+
+2-2._0.t114-36 add false false /branches/spodkopaev/branches/version_0.2
+114 /branches/spodkopaev/trunk
+
+1458 1595

@@ -1,0 +1,251 @@
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-121.r121/0
+K 8
+aovchinn
+V 22
+dir 2-2.0-131.r136/603
+K 8
+apavlova
+V 22
+dir 2-2.1-121.r121/211
+K 5
+bulat
+V 24
+dir 3-104.2-121.r121/429
+K 8
+dolmatov
+V 22
+dir 2-2.3-121.r121/641
+K 7
+ermakov
+V 22
+dir 2-2.4-121.r121/857
+K 8
+ermishin
+V 23
+dir 2-2.5-121.r121/1069
+K 8
+grablevs
+V 23
+dir 2-2.6-121.r121/1284
+K 8
+kolesnik
+V 24
+dir 3-94.7-121.r121/1498
+K 8
+kukushki
+V 24
+dir 3-90.8-121.r121/1713
+K 6
+kuzmin
+V 23
+dir 2-2.9-121.r121/1925
+K 8
+marcinke
+V 23
+dir 2-2.a-121.r121/2133
+K 11
+my_branches
+V 22
+dir 2-2.0-138.r139/306
+K 7
+sazonov
+V 24
+dir 3-52.b-121.r121/2349
+K 6
+shvarc
+V 24
+dir 3-76.c-121.r121/2564
+K 3
+sz2
+V 23
+dir 2-2.d-121.r121/2775
+K 8
+vorobeva
+V 20
+dir 2-2.0-130.r130/0
+END
+ENDREP
+id: 2-47.0-142.r145/714
+type: dir
+pred: 2-47.0-3.r141/1358
+count: 72
+text: 145 0 701 701 dc0d930f9d12038cebe3894ad5e3e93a
+cpath: /tags/INIT_VERSION/branches/klyuchnikov/branches
+copyroot: 142 /tags/INIT_VERSION/branches/klyuchnikov
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 23
+dir 2-47.0-142.r145/714
+K 5
+trunk
+V 22
+dir 2-2.0-28.r121/4070
+END
+ENDREP
+id: 2-2.0-142.r145/1078
+type: dir
+pred: 2-2.0-142.r142/0
+count: 81
+text: 145 947 118 118 5d082646c1ee1523fe6e405435ed4e0f
+cpath: /tags/INIT_VERSION/branches/klyuchnikov
+copyroot: 142 /tags/INIT_VERSION/branches/klyuchnikov
+
+PLAIN
+K 7
+andreev
+V 20
+dir 2-2.0-121.r121/0
+K 8
+aovchinn
+V 22
+dir 2-2.0-131.r136/603
+K 8
+apavlova
+V 22
+dir 2-2.1-121.r121/211
+K 5
+bulat
+V 24
+dir 3-104.2-121.r121/429
+K 8
+dolmatov
+V 22
+dir 2-2.3-121.r121/641
+K 7
+ermakov
+V 22
+dir 2-2.4-121.r121/857
+K 8
+ermishin
+V 23
+dir 2-2.5-121.r121/1069
+K 8
+grablevs
+V 23
+dir 2-2.6-121.r121/1284
+K 11
+klyuchnikov
+V 23
+dir 2-2.0-142.r145/1078
+K 8
+kolesnik
+V 24
+dir 3-94.7-121.r121/1498
+K 8
+kukushki
+V 24
+dir 3-90.8-121.r121/1713
+K 6
+kuzmin
+V 23
+dir 2-2.9-121.r121/1925
+K 8
+marcinke
+V 23
+dir 2-2.a-121.r121/2133
+K 7
+sazonov
+V 24
+dir 3-52.b-121.r121/2349
+K 6
+shvarc
+V 24
+dir 3-76.c-121.r121/2564
+K 3
+sz2
+V 23
+dir 2-2.d-121.r121/2775
+K 8
+vorobeva
+V 20
+dir 2-2.0-130.r130/0
+END
+ENDREP
+id: 2-47.0-3.r145/2017
+type: dir
+pred: 2-47.0-3.r144/712
+count: 75
+text: 145 1302 702 702 42518dad6026a26ade9cb64db57670b2
+cpath: /tags/INIT_VERSION/branches
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 6
+README
+V 17
+file 0-1.0-2.r2/0
+K 8
+branches
+V 22
+dir 2-47.0-3.r145/2017
+K 5
+trunk
+V 22
+dir 2-2.0-28.r121/4070
+END
+ENDREP
+id: 2-2.0-3.r145/2337
+type: dir
+pred: 2-2.0-3.r144/1027
+count: 83
+text: 145 2207 117 117 14ee9d3e83371dba04d9d3acc82f8d05
+cpath: /tags/INIT_VERSION
+copyroot: 3 /tags/INIT_VERSION
+
+PLAIN
+K 12
+INIT_VERSION
+V 21
+dir 2-2.0-3.r145/2337
+END
+ENDREP
+id: 1-2.0.r145/2579
+type: dir
+pred: 1-2.0.r144/1268
+count: 83
+text: 145 2517 49 49 61ed031e6e23af037c45d4811dc15478
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 3
+3.c
+V 20
+file 0-46.0.r46/1097
+K 8
+branches
+V 19
+dir 0-2.0.r129/1304
+K 4
+tags
+V 19
+dir 1-2.0.r145/2579
+K 5
+trunk
+V 19
+dir 2-2.0.r137/1695
+END
+ENDREP
+id: 0.0.r145/2881
+type: dir
+pred: 0.0.r144/1570
+count: 145
+text: 145 2723 145 145 841fc206ba592984161def4597275667
+cpath: /
+copyroot: 0 /
+minfo-cnt: 1
+
+2-2.0-140.r141/386 delete false false /tags/INIT_VERSION/branches/klyuchnikov/branches/klyuchni
+
+
+2881 3033
